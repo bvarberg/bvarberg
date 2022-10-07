@@ -18,12 +18,13 @@ jobs:
       with:
         latest: true
         fileName: "word_basket"
+        out-file-path: "bin"
     - name: Set permissions for executable
       run: |-
-        chmod +x ./word_basket
+        chmod +x ./bin/word_basket
     - name: Draw words for the day
       run: |-
-        ./word_basket
+        ./bin/word_basket
     - name: Inspect output
       run: |-
         cat README.md
@@ -32,5 +33,5 @@ jobs:
         git config --global user.email "word_basket_bot@byronvarberg.com"
         git config --global user.name "word_basket_bot"
         git add README.md
-        git commit -m "Update README with new words"
+        git commit -m "🤖 Update README with new words"
         git push
