@@ -12,11 +12,14 @@ jobs:
     env:
       WORD_BASKET_OUTPUT_FILE: README.md
     steps:
-    - name: Get executables from the latest release
+    - name: Get executable from the latest release
       uses: robinraju/release-downloader@v1.5
       with:
         latest: true
         fileName: "word_basket"
+    - name: Set permissions for executable
+      run: |-
+        chmod +x ./word_basket
     - name: Draw words for the day
       run: |-
         ./word_basket
