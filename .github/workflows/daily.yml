@@ -1,0 +1,31 @@
+name: Daily
+
+on:
+  # push:
+  workflow_dispatch:
+  # schedule:
+  #   - cron:  '59 23 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      WORD_BASKET_OUTPUT_FILE: README.md
+    steps:
+    - name: Get executables from the latest release
+      uses: robinraju/release-downloader@v1.5
+      with:
+        latest: true
+        fileName: "bin/word_basket"
+    - name: Draw words for the day
+      run: |-
+        echo $WORD_BASKET_OUTPUT_FILE
+        ls
+    #     ./bin/word_basket
+    # - name: Publish updated README
+    #   run: |-
+    #     git config --global user.email "dailywords_bot@byronvarberg.com"
+    #     git config --global user.name "dailywords_bot"
+    #     git add README.md
+    #     git commit -m "Daily README update"
+    #     git push
