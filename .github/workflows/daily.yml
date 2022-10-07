@@ -11,6 +11,8 @@ jobs:
     env:
       WORD_BASKET_OUTPUT_FILE: README.md
     steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
     - name: Get executable from the latest release
       uses: robinraju/release-downloader@v1.5
       with:
