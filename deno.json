@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "dev": "deno run --allow-env --allow-write word_basket/mod.ts",
+    "compile": "deno compile --output bin/word_basket --allow-env --allow-write word_basket/mod.ts"
+  }
+}
