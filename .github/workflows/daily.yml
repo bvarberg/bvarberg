@@ -19,8 +19,10 @@ jobs:
         fileName: "word_basket"
     - name: Draw words for the day
       run: |-
-        ls
-    #     ./bin/word_basket
+        ./word_basket
+    - name: Inspect output
+      run: |-
+        cat README.md
     # - name: Publish updated README
     #   run: |-
     #     git config --global user.email "dailywords_bot@byronvarberg.com"
