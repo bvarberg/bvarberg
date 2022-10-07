@@ -1,10 +1,9 @@
 name: Daily
 
 on:
-  # push:
   workflow_dispatch:
-  # schedule:
-  #   - cron:  '59 23 * * *'
+  schedule:
+    - cron:  '00 13 * * *' # Seems like GitHub Actions use UTC -- shooting for mid-morning Central time
 
 jobs:
   draw_words:
@@ -26,10 +25,10 @@ jobs:
     - name: Inspect output
       run: |-
         cat README.md
-    # - name: Publish updated README
-    #   run: |-
-    #     git config --global user.email "dailywords_bot@byronvarberg.com"
-    #     git config --global user.name "dailywords_bot"
-    #     git add README.md
-    #     git commit -m "Daily README update"
-    #     git push
+    - name: Publish updated README
+      run: |-
+        git config --global user.email "word_basket_bot@byronvarberg.com"
+        git config --global user.name "word_basket_bot"
+        git add README.md
+        git commit -m "Update README with new words"
+        git push
