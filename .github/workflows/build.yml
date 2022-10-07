@@ -14,13 +14,13 @@ jobs:
     - name: Check out repo
       uses: actions/checkout@v2
     - name: Set up Deno
-    - uses: denoland/setup-deno@v1
+      uses: denoland/setup-deno@v1
       with:
         deno-version: v1.x
     - name: Compile to executable
       run: |-
         deno task compile
     - name: Create release in GitHub
-        uses: softprops/action-gh-release@v1
-        with:
-          files: bin/word_basket
+      uses: softprops/action-gh-release@v1
+      with:
+        files: bin/word_basket
