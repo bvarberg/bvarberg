@@ -1,5 +1,5 @@
-| honesty | understanding | communication |
-| :-----: | :-----------: | :-----------: |
+| integrity | openness | education |
+| :-------: | :------: | :-------: |
 
 <details>
   <summary>✨</summary>
