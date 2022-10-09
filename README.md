@@ -1,5 +1,5 @@
-| integrity | openness | education |
-| :-------: | :------: | :-------: |
+| truth | clarity | excellence |
+| :---: | :-----: | :--------: |
 
 <details>
   <summary>✨</summary>
