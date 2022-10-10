@@ -1,5 +1,5 @@
-| truth | clarity | excellence |
-| :---: | :-----: | :--------: |
+| courage | peace | truth |
+| :-----: | :---: | :---: |
 
 <details>
   <summary>✨</summary>
