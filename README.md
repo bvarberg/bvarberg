@@ -1,5 +1,5 @@
-| honesty | inspiration | expectancy |
-| :-----: | :---------: | :--------: |
+| communication | creativity | forgiveness |
+| :-----------: | :--------: | :---------: |
 
 <details>
   <summary>✨</summary>
