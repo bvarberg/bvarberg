@@ -1,5 +1,5 @@
-| communication | creativity | forgiveness |
-| :-----------: | :--------: | :---------: |
+| creativity | love | communication |
+| :--------: | :--: | :-----------: |
 
 <details>
   <summary>✨</summary>
