@@ -1,5 +1,5 @@
-| creativity | love | communication |
-| :--------: | :--: | :-----------: |
+| understanding | purification | flexibility |
+| :-----------: | :----------: | :---------: |
 
 <details>
   <summary>✨</summary>
