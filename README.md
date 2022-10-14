@@ -1,5 +1,5 @@
-| understanding | purification | flexibility |
-| :-----------: | :----------: | :---------: |
+| flexibility | forgiveness | grace |
+| :---------: | :---------: | :---: |
 
 <details>
   <summary>✨</summary>
