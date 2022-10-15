@@ -1,5 +1,5 @@
-| flexibility | forgiveness | grace |
-| :---------: | :---------: | :---: |
+| joy | willingness | enough |
+| :-: | :---------: | :----: |
 
 <details>
   <summary>✨</summary>
