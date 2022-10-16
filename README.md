@@ -1,5 +1,5 @@
-| joy | willingness | enough |
-| :-: | :---------: | :----: |
+| flexibility | education | efficiency |
+| :---------: | :-------: | :--------: |
 
 <details>
   <summary>✨</summary>
