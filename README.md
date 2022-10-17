@@ -1,5 +1,5 @@
-| flexibility | education | efficiency |
-| :---------: | :-------: | :--------: |
+| delight | spontaneity | enthusiasm |
+| :-----: | :---------: | :--------: |
 
 <details>
   <summary>✨</summary>
