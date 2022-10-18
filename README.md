@@ -1,5 +1,5 @@
-| delight | spontaneity | enthusiasm |
-| :-----: | :---------: | :--------: |
+| understanding | efficiency | forgiveness |
+| :-----------: | :--------: | :---------: |
 
 <details>
   <summary>✨</summary>
