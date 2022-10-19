@@ -1,5 +1,5 @@
-| understanding | efficiency | forgiveness |
-| :-----------: | :--------: | :---------: |
+| power | harmony | expectancy |
+| :---: | :-----: | :--------: |
 
 <details>
   <summary>✨</summary>
