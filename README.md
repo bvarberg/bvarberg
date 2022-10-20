@@ -1,5 +1,5 @@
-| power | harmony | expectancy |
-| :---: | :-----: | :--------: |
+| enough | openness | understanding |
+| :----: | :------: | :-----------: |
 
 <details>
   <summary>✨</summary>
