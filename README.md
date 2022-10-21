@@ -1,5 +1,5 @@
-| enough | openness | understanding |
-| :----: | :------: | :-----------: |
+| spontaneity | courage | expectancy |
+| :---------: | :-----: | :--------: |
 
 <details>
   <summary>✨</summary>
