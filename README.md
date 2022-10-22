@@ -1,5 +1,5 @@
-| spontaneity | courage | expectancy |
-| :---------: | :-----: | :--------: |
+| play | tenderness | courage |
+| :--: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
