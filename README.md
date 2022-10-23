@@ -1,5 +1,5 @@
-| play | tenderness | courage |
-| :--: | :--------: | :-----: |
+| integrity | patience | harmony |
+| :-------: | :------: | :-----: |
 
 <details>
   <summary>✨</summary>
