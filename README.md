@@ -1,5 +1,5 @@
-| integrity | patience | harmony |
-| :-------: | :------: | :-----: |
+| flexibility | creativity | delight |
+| :---------: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
