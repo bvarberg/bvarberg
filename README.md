@@ -1,5 +1,5 @@
-| flexibility | creativity | delight |
-| :---------: | :--------: | :-----: |
+| trust | strength | grace |
+| :---: | :------: | :---: |
 
 <details>
   <summary>✨</summary>
