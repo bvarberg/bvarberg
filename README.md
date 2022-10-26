@@ -1,5 +1,5 @@
-| trust | strength | grace |
-| :---: | :------: | :---: |
+| responsibility | compassion | understanding |
+| :------------: | :--------: | :-----------: |
 
 <details>
   <summary>✨</summary>
