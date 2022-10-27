@@ -1,5 +1,5 @@
-| responsibility | compassion | understanding |
-| :------------: | :--------: | :-----------: |
+| renewal | purification | synthesis |
+| :-----: | :----------: | :-------: |
 
 <details>
   <summary>✨</summary>
