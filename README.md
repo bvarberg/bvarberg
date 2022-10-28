@@ -1,5 +1,5 @@
-| renewal | purification | synthesis |
-| :-----: | :----------: | :-------: |
+| delight | surrender | renewal |
+| :-----: | :-------: | :-----: |
 
 <details>
   <summary>✨</summary>
