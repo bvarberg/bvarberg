@@ -1,5 +1,5 @@
-| delight | surrender | renewal |
-| :-----: | :-------: | :-----: |
+| love | adventure | simplicity |
+| :--: | :-------: | :--------: |
 
 <details>
   <summary>✨</summary>
