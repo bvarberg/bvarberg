@@ -1,5 +1,5 @@
-| love | adventure | simplicity |
-| :--: | :-------: | :--------: |
+| surrender | abundance | play |
+| :-------: | :-------: | :--: |
 
 <details>
   <summary>✨</summary>
