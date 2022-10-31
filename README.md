@@ -1,5 +1,5 @@
-| surrender | abundance | play |
-| :-------: | :-------: | :--: |
+| integrity | expectancy | depth |
+| :-------: | :--------: | :---: |
 
 <details>
   <summary>✨</summary>
