@@ -1,5 +1,5 @@
-| integrity | expectancy | depth |
-| :-------: | :--------: | :---: |
+| delight | balance | expectancy |
+| :-----: | :-----: | :--------: |
 
 <details>
   <summary>✨</summary>
