@@ -1,5 +1,5 @@
-| delight | balance | expectancy |
-| :-----: | :-----: | :--------: |
+| creativity | trust | humor |
+| :--------: | :---: | :---: |
 
 <details>
   <summary>✨</summary>
