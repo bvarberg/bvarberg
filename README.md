@@ -1,5 +1,5 @@
-| creativity | trust | humor |
-| :--------: | :---: | :---: |
+| humor | simplicity | willingness |
+| :---: | :--------: | :---------: |
 
 <details>
   <summary>✨</summary>
