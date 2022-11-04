@@ -1,5 +1,5 @@
-| humor | simplicity | willingness |
-| :---: | :--------: | :---------: |
+| love | communication | peace |
+| :--: | :-----------: | :---: |
 
 <details>
   <summary>✨</summary>
