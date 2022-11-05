@@ -1,5 +1,5 @@
-| love | communication | peace |
-| :--: | :-----------: | :---: |
+| education | strength | enthusiasm |
+| :-------: | :------: | :--------: |
 
 <details>
   <summary>✨</summary>
