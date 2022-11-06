@@ -1,5 +1,5 @@
-| education | strength | enthusiasm |
-| :-------: | :------: | :--------: |
+| adventure | synthesis | honesty |
+| :-------: | :-------: | :-----: |
 
 <details>
   <summary>✨</summary>
