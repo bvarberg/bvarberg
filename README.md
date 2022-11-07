@@ -1,5 +1,5 @@
-| adventure | synthesis | honesty |
-| :-------: | :-------: | :-----: |
+| enough | power | simplicity |
+| :----: | :---: | :--------: |
 
 <details>
   <summary>✨</summary>
