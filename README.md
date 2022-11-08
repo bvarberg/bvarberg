@@ -1,5 +1,5 @@
-| enough | power | simplicity |
-| :----: | :---: | :--------: |
+| peace | integrity | healing |
+| :---: | :-------: | :-----: |
 
 <details>
   <summary>✨</summary>
