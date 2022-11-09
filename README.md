@@ -1,5 +1,5 @@
-| peace | integrity | healing |
-| :---: | :-------: | :-----: |
+| strength | gratitude | beauty |
+| :------: | :-------: | :----: |
 
 <details>
   <summary>✨</summary>
