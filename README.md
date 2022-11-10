@@ -1,5 +1,5 @@
-| strength | gratitude | beauty |
-| :------: | :-------: | :----: |
+| creativity | enough | spontaneity |
+| :--------: | :----: | :---------: |
 
 <details>
   <summary>✨</summary>
