@@ -1,5 +1,5 @@
-| creativity | enough | spontaneity |
-| :--------: | :----: | :---------: |
+| communication | surrender | integrity |
+| :-----------: | :-------: | :-------: |
 
 <details>
   <summary>✨</summary>
