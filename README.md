@@ -1,5 +1,5 @@
-| communication | surrender | integrity |
-| :-----------: | :-------: | :-------: |
+| balance | honesty | adventure |
+| :-----: | :-----: | :-------: |
 
 <details>
   <summary>✨</summary>
