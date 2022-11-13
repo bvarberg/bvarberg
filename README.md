@@ -1,5 +1,5 @@
-| balance | honesty | adventure |
-| :-----: | :-----: | :-------: |
+| willingness | creativity | clarity |
+| :---------: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
