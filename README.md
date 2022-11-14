@@ -1,5 +1,5 @@
-| willingness | creativity | clarity |
-| :---------: | :--------: | :-----: |
+| efficiency | forgiveness | honesty |
+| :--------: | :---------: | :-----: |
 
 <details>
   <summary>✨</summary>
