@@ -1,5 +1,5 @@
-| efficiency | forgiveness | honesty |
-| :--------: | :---------: | :-----: |
+| depth | synthesis | humor |
+| :---: | :-------: | :---: |
 
 <details>
   <summary>✨</summary>
