@@ -1,5 +1,5 @@
-| depth | synthesis | humor |
-| :---: | :-------: | :---: |
+| efficiency | compassion | delight |
+| :--------: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
