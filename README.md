@@ -1,5 +1,5 @@
-| efficiency | compassion | delight |
-| :--------: | :--------: | :-----: |
+| power | openness | depth |
+| :---: | :------: | :---: |
 
 <details>
   <summary>✨</summary>
