@@ -1,5 +1,5 @@
-| power | openness | depth |
-| :---: | :------: | :---: |
+| synthesis | tenderness | purification |
+| :-------: | :--------: | :----------: |
 
 <details>
   <summary>✨</summary>
