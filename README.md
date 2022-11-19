@@ -1,5 +1,5 @@
-| synthesis | tenderness | purification |
-| :-------: | :--------: | :----------: |
+| delight | synthesis | enthusiasm |
+| :-----: | :-------: | :--------: |
 
 <details>
   <summary>✨</summary>
