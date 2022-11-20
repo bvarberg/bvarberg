@@ -1,5 +1,5 @@
-| delight | synthesis | enthusiasm |
-| :-----: | :-------: | :--------: |
+| patience | joy | clarity |
+| :------: | :-: | :-----: |
 
 <details>
   <summary>✨</summary>
