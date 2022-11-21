@@ -1,5 +1,5 @@
-| patience | joy | clarity |
-| :------: | :-: | :-----: |
+| efficiency | balance | integrity |
+| :--------: | :-----: | :-------: |
 
 <details>
   <summary>✨</summary>
