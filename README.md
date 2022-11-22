@@ -1,4 +1,4 @@
-| efficiency | balance | integrity |
+| tenderness | purpose | surrender |
 | :--------: | :-----: | :-------: |
 
 <details>
