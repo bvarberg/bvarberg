@@ -1,5 +1,5 @@
-| tenderness | purpose | surrender |
-| :--------: | :-----: | :-------: |
+| enthusiasm | simplicity | purpose |
+| :--------: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
