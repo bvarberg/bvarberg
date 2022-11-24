@@ -1,5 +1,5 @@
-| enthusiasm | simplicity | purpose |
-| :--------: | :--------: | :-----: |
+| excellence | education | forgiveness |
+| :--------: | :-------: | :---------: |
 
 <details>
   <summary>✨</summary>
