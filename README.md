@@ -1,5 +1,5 @@
-| excellence | education | forgiveness |
-| :--------: | :-------: | :---------: |
+| harmony | renewal | communication |
+| :-----: | :-----: | :-----------: |
 
 <details>
   <summary>✨</summary>
