@@ -1,5 +1,5 @@
-| harmony | renewal | communication |
-| :-----: | :-----: | :-----------: |
+| enough | gratitude | tenderness |
+| :----: | :-------: | :--------: |
 
 <details>
   <summary>✨</summary>
