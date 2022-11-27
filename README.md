@@ -1,5 +1,5 @@
-| enough | gratitude | tenderness |
-| :----: | :-------: | :--------: |
+| honesty | excellence | freedom |
+| :-----: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
