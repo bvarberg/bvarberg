@@ -1,5 +1,5 @@
-| honesty | excellence | freedom |
-| :-----: | :--------: | :-----: |
+| trust | enthusiasm | clarity |
+| :---: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
