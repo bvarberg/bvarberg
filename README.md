@@ -1,5 +1,5 @@
-| trust | enthusiasm | clarity |
-| :---: | :--------: | :-----: |
+| release | strength | simplicity |
+| :-----: | :------: | :--------: |
 
 <details>
   <summary>✨</summary>
