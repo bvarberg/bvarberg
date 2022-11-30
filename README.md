@@ -1,5 +1,5 @@
-| release | strength | simplicity |
-| :-----: | :------: | :--------: |
+| humor | play | tenderness |
+| :---: | :--: | :--------: |
 
 <details>
   <summary>✨</summary>
