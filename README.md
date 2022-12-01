@@ -1,5 +1,5 @@
-| humor | play | tenderness |
-| :---: | :--: | :--------: |
+| joy | beauty | harmony |
+| :-: | :----: | :-----: |
 
 <details>
   <summary>✨</summary>
