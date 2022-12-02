@@ -1,5 +1,5 @@
-| joy | beauty | harmony |
-| :-: | :----: | :-----: |
+| tenderness | healing | patience |
+| :--------: | :-----: | :------: |
 
 <details>
   <summary>✨</summary>
