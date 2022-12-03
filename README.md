@@ -1,5 +1,5 @@
-| tenderness | healing | patience |
-| :--------: | :-----: | :------: |
+| truth | light | enough |
+| :---: | :---: | :----: |
 
 <details>
   <summary>✨</summary>
