@@ -1,5 +1,5 @@
-| truth | light | enough |
-| :---: | :---: | :----: |
+| purpose | tenderness | synthesis |
+| :-----: | :--------: | :-------: |
 
 <details>
   <summary>✨</summary>
