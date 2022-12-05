@@ -1,5 +1,5 @@
-| purpose | tenderness | synthesis |
-| :-----: | :--------: | :-------: |
+| renewal | flexibility | depth |
+| :-----: | :---------: | :---: |
 
 <details>
   <summary>✨</summary>
