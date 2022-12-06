@@ -1,5 +1,5 @@
-| renewal | flexibility | depth |
-| :-----: | :---------: | :---: |
+| beauty | clarity | purpose |
+| :----: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
