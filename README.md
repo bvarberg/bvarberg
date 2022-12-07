@@ -1,5 +1,5 @@
-| beauty | clarity | purpose |
-| :----: | :-----: | :-----: |
+| enthusiasm | depth | humor |
+| :--------: | :---: | :---: |
 
 <details>
   <summary>✨</summary>
