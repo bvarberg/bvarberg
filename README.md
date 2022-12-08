@@ -1,5 +1,5 @@
-| enthusiasm | depth | humor |
-| :--------: | :---: | :---: |
+| tenderness | surrender | simplicity |
+| :--------: | :-------: | :--------: |
 
 <details>
   <summary>✨</summary>
