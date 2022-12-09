@@ -1,5 +1,5 @@
-| tenderness | surrender | simplicity |
-| :--------: | :-------: | :--------: |
+| synthesis | abundance | beauty |
+| :-------: | :-------: | :----: |
 
 <details>
   <summary>✨</summary>
