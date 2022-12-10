@@ -1,5 +1,5 @@
-| synthesis | abundance | beauty |
-| :-------: | :-------: | :----: |
+| light | freedom | inspiration |
+| :---: | :-----: | :---------: |
 
 <details>
   <summary>✨</summary>
