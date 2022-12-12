@@ -1,5 +1,5 @@
-| grace | strength | renewal |
-| :---: | :------: | :-----: |
+| inspiration | communication | purpose |
+| :---------: | :-----------: | :-----: |
 
 <details>
   <summary>✨</summary>
