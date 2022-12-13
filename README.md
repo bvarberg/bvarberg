@@ -1,5 +1,5 @@
-| inspiration | communication | purpose |
-| :---------: | :-----------: | :-----: |
+| honesty | education | peace |
+| :-----: | :-------: | :---: |
 
 <details>
   <summary>✨</summary>
