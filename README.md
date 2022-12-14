@@ -1,5 +1,5 @@
-| honesty | education | peace |
-| :-----: | :-------: | :---: |
+| clarity | harmony | power |
+| :-----: | :-----: | :---: |
 
 <details>
   <summary>✨</summary>
