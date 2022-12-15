@@ -1,5 +1,5 @@
-| clarity | harmony | power |
-| :-----: | :-----: | :---: |
+| willingness | creativity | harmony |
+| :---------: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
