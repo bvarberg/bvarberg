@@ -1,5 +1,5 @@
-| willingness | creativity | harmony |
-| :---------: | :--------: | :-----: |
+| renewal | synthesis | flexibility |
+| :-----: | :-------: | :---------: |
 
 <details>
   <summary>✨</summary>
