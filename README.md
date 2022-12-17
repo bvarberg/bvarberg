@@ -1,5 +1,5 @@
-| renewal | synthesis | flexibility |
-| :-----: | :-------: | :---------: |
+| openness | renewal | purification |
+| :------: | :-----: | :----------: |
 
 <details>
   <summary>✨</summary>
