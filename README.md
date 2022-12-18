@@ -1,5 +1,5 @@
-| openness | renewal | purification |
-| :------: | :-----: | :----------: |
+| release | balance | clarity |
+| :-----: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
