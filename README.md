@@ -1,5 +1,5 @@
-| release | balance | clarity |
-| :-----: | :-----: | :-----: |
+| compassion | simplicity | peace |
+| :--------: | :--------: | :---: |
 
 <details>
   <summary>✨</summary>
