@@ -1,5 +1,5 @@
-| compassion | simplicity | peace |
-| :--------: | :--------: | :---: |
+| efficiency | humor | communication |
+| :--------: | :---: | :-----------: |
 
 <details>
   <summary>✨</summary>
