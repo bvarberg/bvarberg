@@ -1,5 +1,5 @@
-| efficiency | humor | communication |
-| :--------: | :---: | :-----------: |
+| peace | release | clarity |
+| :---: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
