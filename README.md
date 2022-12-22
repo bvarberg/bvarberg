@@ -1,5 +1,5 @@
-| peace | release | clarity |
-| :---: | :-----: | :-----: |
+| truth | adventure | release |
+| :---: | :-------: | :-----: |
 
 <details>
   <summary>✨</summary>
