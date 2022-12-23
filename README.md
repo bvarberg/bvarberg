@@ -1,5 +1,5 @@
-| truth | adventure | release |
-| :---: | :-------: | :-----: |
+| tenderness | purification | healing |
+| :--------: | :----------: | :-----: |
 
 <details>
   <summary>✨</summary>
