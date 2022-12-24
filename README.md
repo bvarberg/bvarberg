@@ -1,5 +1,5 @@
-| tenderness | purification | healing |
-| :--------: | :----------: | :-----: |
+| harmony | integrity | peace |
+| :-----: | :-------: | :---: |
 
 <details>
   <summary>✨</summary>
