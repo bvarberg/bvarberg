@@ -1,5 +1,5 @@
-| harmony | integrity | peace |
-| :-----: | :-------: | :---: |
+| creativity | understanding | trust |
+| :--------: | :-----------: | :---: |
 
 <details>
   <summary>✨</summary>
