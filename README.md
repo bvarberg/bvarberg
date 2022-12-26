@@ -1,5 +1,5 @@
-| creativity | understanding | trust |
-| :--------: | :-----------: | :---: |
+| harmony | enough | strength |
+| :-----: | :----: | :------: |
 
 <details>
   <summary>✨</summary>
