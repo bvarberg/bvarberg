@@ -1,5 +1,5 @@
-| harmony | enough | strength |
-| :-----: | :----: | :------: |
+| power | healing | openness |
+| :---: | :-----: | :------: |
 
 <details>
   <summary>✨</summary>
