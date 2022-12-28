@@ -1,5 +1,5 @@
-| power | healing | openness |
-| :---: | :-----: | :------: |
+| efficiency | creativity | purification |
+| :--------: | :--------: | :----------: |
 
 <details>
   <summary>✨</summary>
