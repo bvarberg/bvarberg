@@ -1,5 +1,5 @@
-| efficiency | creativity | purification |
-| :--------: | :--------: | :----------: |
+| play | willingness | release |
+| :--: | :---------: | :-----: |
 
 <details>
   <summary>✨</summary>
