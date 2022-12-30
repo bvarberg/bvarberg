@@ -1,5 +1,5 @@
-| play | willingness | release |
-| :--: | :---------: | :-----: |
+| delight | harmony | forgiveness |
+| :-----: | :-----: | :---------: |
 
 <details>
   <summary>✨</summary>
