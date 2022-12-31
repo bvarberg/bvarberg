@@ -1,5 +1,5 @@
-| delight | harmony | forgiveness |
-| :-----: | :-----: | :---------: |
+| peace | willingness | patience |
+| :---: | :---------: | :------: |
 
 <details>
   <summary>✨</summary>
