@@ -1,5 +1,5 @@
-| peace | willingness | patience |
-| :---: | :---------: | :------: |
+| excellence | delight | trust |
+| :--------: | :-----: | :---: |
 
 <details>
   <summary>✨</summary>
