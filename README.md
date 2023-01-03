@@ -1,5 +1,5 @@
-| patience | creativity | willingness |
-| :------: | :--------: | :---------: |
+| enthusiasm | openness | release |
+| :--------: | :------: | :-----: |
 
 <details>
   <summary>✨</summary>
