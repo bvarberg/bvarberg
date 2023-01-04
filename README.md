@@ -1,5 +1,5 @@
-| enthusiasm | openness | release |
-| :--------: | :------: | :-----: |
+| efficiency | renewal | excellence |
+| :--------: | :-----: | :--------: |
 
 <details>
   <summary>✨</summary>
