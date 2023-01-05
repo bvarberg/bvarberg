@@ -1,5 +1,5 @@
-| efficiency | renewal | excellence |
-| :--------: | :-----: | :--------: |
+| purification | beauty | abundance |
+| :----------: | :----: | :-------: |
 
 <details>
   <summary>✨</summary>
