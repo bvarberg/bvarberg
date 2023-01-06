@@ -1,5 +1,5 @@
-| purification | beauty | abundance |
-| :----------: | :----: | :-------: |
+| responsibility | tenderness | release |
+| :------------: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
