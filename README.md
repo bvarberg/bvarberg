@@ -1,5 +1,5 @@
-| responsibility | tenderness | release |
-| :------------: | :--------: | :-----: |
+| integrity | expectancy | renewal |
+| :-------: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
