@@ -1,5 +1,5 @@
-| integrity | expectancy | renewal |
-| :-------: | :--------: | :-----: |
+| depth | communication | creativity |
+| :---: | :-----------: | :--------: |
 
 <details>
   <summary>✨</summary>
