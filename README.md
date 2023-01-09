@@ -1,5 +1,5 @@
-| depth | communication | creativity |
-| :---: | :-----------: | :--------: |
+| honesty | patience | renewal |
+| :-----: | :------: | :-----: |
 
 <details>
   <summary>✨</summary>
