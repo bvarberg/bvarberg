@@ -1,5 +1,5 @@
-| honesty | patience | renewal |
-| :-----: | :------: | :-----: |
+| grace | enthusiasm | healing |
+| :---: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
