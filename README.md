@@ -1,5 +1,5 @@
-| grace | enthusiasm | healing |
-| :---: | :--------: | :-----: |
+| release | understanding | trust |
+| :-----: | :-----------: | :---: |
 
 <details>
   <summary>✨</summary>
