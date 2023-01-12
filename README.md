@@ -1,5 +1,5 @@
-| release | understanding | trust |
-| :-----: | :-----------: | :---: |
+| purification | joy | understanding |
+| :----------: | :-: | :-----------: |
 
 <details>
   <summary>✨</summary>
