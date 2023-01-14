@@ -1,5 +1,5 @@
-| trust | freedom | understanding |
-| :---: | :-----: | :-----------: |
+| honesty | patience | surrender |
+| :-----: | :------: | :-------: |
 
 <details>
   <summary>✨</summary>
