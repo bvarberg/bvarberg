@@ -1,5 +1,5 @@
-| integrity | grace | freedom |
-| :-------: | :---: | :-----: |
+| harmony | joy | expectancy |
+| :-----: | :-: | :--------: |
 
 <details>
   <summary>✨</summary>
