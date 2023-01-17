@@ -1,5 +1,5 @@
-| harmony | joy | expectancy |
-| :-----: | :-: | :--------: |
+| adventure | communication | creativity |
+| :-------: | :-----------: | :--------: |
 
 <details>
   <summary>✨</summary>
