@@ -1,5 +1,5 @@
-| adventure | communication | creativity |
-| :-------: | :-----------: | :--------: |
+| enough | abundance | inspiration |
+| :----: | :-------: | :---------: |
 
 <details>
   <summary>✨</summary>
