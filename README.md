@@ -1,5 +1,5 @@
-| enough | abundance | inspiration |
-| :----: | :-------: | :---------: |
+| play | healing | courage |
+| :--: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
