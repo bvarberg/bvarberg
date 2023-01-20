@@ -1,5 +1,5 @@
-| play | healing | courage |
-| :--: | :-----: | :-----: |
+| delight | understanding | renewal |
+| :-----: | :-----------: | :-----: |
 
 <details>
   <summary>✨</summary>
