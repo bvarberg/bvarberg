@@ -1,5 +1,5 @@
-| delight | understanding | renewal |
-| :-----: | :-----------: | :-----: |
+| beauty | harmony | light |
+| :----: | :-----: | :---: |
 
 <details>
   <summary>✨</summary>
