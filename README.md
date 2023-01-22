@@ -1,5 +1,5 @@
-| beauty | harmony | light |
-| :----: | :-----: | :---: |
+| courage | tenderness | purpose |
+| :-----: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
