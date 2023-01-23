@@ -1,5 +1,5 @@
-| courage | tenderness | purpose |
-| :-----: | :--------: | :-----: |
+| openness | patience | healing |
+| :------: | :------: | :-----: |
 
 <details>
   <summary>✨</summary>
