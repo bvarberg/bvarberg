@@ -1,5 +1,5 @@
-| openness | patience | healing |
-| :------: | :------: | :-----: |
+| integrity | surrender | spontaneity |
+| :-------: | :-------: | :---------: |
 
 <details>
   <summary>✨</summary>
