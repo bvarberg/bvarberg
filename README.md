@@ -1,5 +1,5 @@
-| integrity | surrender | spontaneity |
-| :-------: | :-------: | :---------: |
+| courage | enough | synthesis |
+| :-----: | :----: | :-------: |
 
 <details>
   <summary>✨</summary>
