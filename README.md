@@ -1,5 +1,5 @@
-| courage | enough | synthesis |
-| :-----: | :----: | :-------: |
+| integrity | efficiency | inspiration |
+| :-------: | :--------: | :---------: |
 
 <details>
   <summary>✨</summary>
