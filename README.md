@@ -1,5 +1,5 @@
-| integrity | efficiency | inspiration |
-| :-------: | :--------: | :---------: |
+| purification | expectancy | education |
+| :----------: | :--------: | :-------: |
 
 <details>
   <summary>✨</summary>
