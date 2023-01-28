@@ -1,5 +1,5 @@
-| purification | expectancy | education |
-| :----------: | :--------: | :-------: |
+| education | gratitude | clarity |
+| :-------: | :-------: | :-----: |
 
 <details>
   <summary>✨</summary>
