@@ -1,5 +1,5 @@
-| education | gratitude | clarity |
-| :-------: | :-------: | :-----: |
+| delight | inspiration | tenderness |
+| :-----: | :---------: | :--------: |
 
 <details>
   <summary>✨</summary>
