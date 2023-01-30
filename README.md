@@ -1,5 +1,5 @@
-| delight | inspiration | tenderness |
-| :-----: | :---------: | :--------: |
+| love | honesty | depth |
+| :--: | :-----: | :---: |
 
 <details>
   <summary>✨</summary>
