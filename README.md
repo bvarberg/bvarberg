@@ -1,5 +1,5 @@
-| love | honesty | depth |
-| :--: | :-----: | :---: |
+| openness | efficiency | light |
+| :------: | :--------: | :---: |
 
 <details>
   <summary>✨</summary>
