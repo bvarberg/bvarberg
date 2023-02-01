@@ -1,5 +1,5 @@
-| openness | efficiency | light |
-| :------: | :--------: | :---: |
+| truth | expectancy | purpose |
+| :---: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
