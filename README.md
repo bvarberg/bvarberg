@@ -1,5 +1,5 @@
-| truth | expectancy | purpose |
-| :---: | :--------: | :-----: |
+| communication | truth | compassion |
+| :-----------: | :---: | :--------: |
 
 <details>
   <summary>✨</summary>
