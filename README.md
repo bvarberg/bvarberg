@@ -1,5 +1,5 @@
-| communication | truth | compassion |
-| :-----------: | :---: | :--------: |
+| harmony | courage | responsibility |
+| :-----: | :-----: | :------------: |
 
 <details>
   <summary>✨</summary>
