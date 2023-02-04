@@ -1,5 +1,5 @@
-| harmony | courage | responsibility |
-| :-----: | :-----: | :------------: |
+| enough | adventure | truth |
+| :----: | :-------: | :---: |
 
 <details>
   <summary>✨</summary>
