@@ -1,5 +1,5 @@
-| enough | adventure | truth |
-| :----: | :-------: | :---: |
+| understanding | synthesis | joy |
+| :-----------: | :-------: | :-: |
 
 <details>
   <summary>✨</summary>
