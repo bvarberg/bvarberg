@@ -1,5 +1,5 @@
-| understanding | synthesis | joy |
-| :-----------: | :-------: | :-: |
+| strength | forgiveness | tenderness |
+| :------: | :---------: | :--------: |
 
 <details>
   <summary>✨</summary>
