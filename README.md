@@ -1,5 +1,5 @@
-| strength | forgiveness | tenderness |
-| :------: | :---------: | :--------: |
+| balance | strength | purpose |
+| :-----: | :------: | :-----: |
 
 <details>
   <summary>✨</summary>
