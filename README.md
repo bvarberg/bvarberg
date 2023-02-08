@@ -1,5 +1,5 @@
-| balance | strength | purpose |
-| :-----: | :------: | :-----: |
+| enough | understanding | abundance |
+| :----: | :-----------: | :-------: |
 
 <details>
   <summary>✨</summary>
