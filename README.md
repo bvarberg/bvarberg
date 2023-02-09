@@ -1,5 +1,5 @@
-| enough | understanding | abundance |
-| :----: | :-----------: | :-------: |
+| tenderness | excellence | forgiveness |
+| :--------: | :--------: | :---------: |
 
 <details>
   <summary>✨</summary>
