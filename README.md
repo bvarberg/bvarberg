@@ -1,5 +1,5 @@
-| tenderness | excellence | forgiveness |
-| :--------: | :--------: | :---------: |
+| spontaneity | grace | purification |
+| :---------: | :---: | :----------: |
 
 <details>
   <summary>✨</summary>
