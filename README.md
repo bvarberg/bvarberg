@@ -1,5 +1,5 @@
-| spontaneity | grace | purification |
-| :---------: | :---: | :----------: |
+| gratitude | love | depth |
+| :-------: | :--: | :---: |
 
 <details>
   <summary>✨</summary>
