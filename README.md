@@ -1,5 +1,5 @@
-| gratitude | love | depth |
-| :-------: | :--: | :---: |
+| honesty | trust | communication |
+| :-----: | :---: | :-----------: |
 
 <details>
   <summary>✨</summary>
