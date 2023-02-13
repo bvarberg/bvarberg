@@ -1,5 +1,5 @@
-| honesty | trust | communication |
-| :-----: | :---: | :-----------: |
+| compassion | trust | expectancy |
+| :--------: | :---: | :--------: |
 
 <details>
   <summary>✨</summary>
