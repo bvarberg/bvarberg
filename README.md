@@ -1,5 +1,5 @@
-| compassion | trust | expectancy |
-| :--------: | :---: | :--------: |
+| surrender | forgiveness | enough |
+| :-------: | :---------: | :----: |
 
 <details>
   <summary>✨</summary>
