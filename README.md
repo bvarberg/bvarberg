@@ -1,5 +1,5 @@
-| surrender | forgiveness | enough |
-| :-------: | :---------: | :----: |
+| communication | purpose | light |
+| :-----------: | :-----: | :---: |
 
 <details>
   <summary>✨</summary>
