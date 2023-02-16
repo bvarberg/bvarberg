@@ -1,5 +1,5 @@
-| communication | purpose | light |
-| :-----------: | :-----: | :---: |
+| freedom | adventure | flexibility |
+| :-----: | :-------: | :---------: |
 
 <details>
   <summary>✨</summary>
