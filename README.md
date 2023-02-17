@@ -1,5 +1,5 @@
-| freedom | adventure | flexibility |
-| :-----: | :-------: | :---------: |
+| enough | healing | purpose |
+| :----: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
