@@ -1,5 +1,5 @@
-| enough | healing | purpose |
-| :----: | :-----: | :-----: |
+| willingness | surrender | expectancy |
+| :---------: | :-------: | :--------: |
 
 <details>
   <summary>✨</summary>
