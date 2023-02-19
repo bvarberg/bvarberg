@@ -1,5 +1,5 @@
-| willingness | surrender | expectancy |
-| :---------: | :-------: | :--------: |
+| gratitude | forgiveness | beauty |
+| :-------: | :---------: | :----: |
 
 <details>
   <summary>✨</summary>
