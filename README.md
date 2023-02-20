@@ -1,5 +1,5 @@
-| gratitude | forgiveness | beauty |
-| :-------: | :---------: | :----: |
+| humor | openness | tenderness |
+| :---: | :------: | :--------: |
 
 <details>
   <summary>✨</summary>
