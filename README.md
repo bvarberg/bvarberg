@@ -1,5 +1,5 @@
-| humor | openness | tenderness |
-| :---: | :------: | :--------: |
+| excellence | strength | trust |
+| :--------: | :------: | :---: |
 
 <details>
   <summary>✨</summary>
