@@ -1,5 +1,5 @@
-| excellence | strength | trust |
-| :--------: | :------: | :---: |
+| play | clarity | enthusiasm |
+| :--: | :-----: | :--------: |
 
 <details>
   <summary>✨</summary>
