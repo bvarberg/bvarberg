@@ -1,5 +1,5 @@
-| play | clarity | enthusiasm |
-| :--: | :-----: | :--------: |
+| power | understanding | purpose |
+| :---: | :-----------: | :-----: |
 
 <details>
   <summary>✨</summary>
