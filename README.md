@@ -1,5 +1,5 @@
-| power | understanding | purpose |
-| :---: | :-----------: | :-----: |
+| inspiration | simplicity | freedom |
+| :---------: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
