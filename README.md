@@ -1,5 +1,5 @@
-| willingness | abundance | courage |
-| :---------: | :-------: | :-----: |
+| responsibility | love | freedom |
+| :------------: | :--: | :-----: |
 
 <details>
   <summary>✨</summary>
