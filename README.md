@@ -1,5 +1,5 @@
-| responsibility | love | freedom |
-| :------------: | :--: | :-----: |
+| freedom | harmony | simplicity |
+| :-----: | :-----: | :--------: |
 
 <details>
   <summary>✨</summary>
