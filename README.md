@@ -1,5 +1,5 @@
-| freedom | harmony | simplicity |
-| :-----: | :-----: | :--------: |
+| willingness | enough | harmony |
+| :---------: | :----: | :-----: |
 
 <details>
   <summary>✨</summary>
