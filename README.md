@@ -1,5 +1,5 @@
-| willingness | enough | harmony |
-| :---------: | :----: | :-----: |
+| strength | abundance | inspiration |
+| :------: | :-------: | :---------: |
 
 <details>
   <summary>✨</summary>
