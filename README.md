@@ -1,5 +1,5 @@
-| strength | abundance | inspiration |
-| :------: | :-------: | :---------: |
+| harmony | enthusiasm | light |
+| :-----: | :--------: | :---: |
 
 <details>
   <summary>✨</summary>
