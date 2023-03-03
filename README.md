@@ -1,5 +1,5 @@
-| harmony | enthusiasm | light |
-| :-----: | :--------: | :---: |
+| healing | understanding | compassion |
+| :-----: | :-----------: | :--------: |
 
 <details>
   <summary>✨</summary>
