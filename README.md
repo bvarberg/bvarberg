@@ -1,5 +1,5 @@
-| healing | understanding | compassion |
-| :-----: | :-----------: | :--------: |
+| inspiration | understanding | creativity |
+| :---------: | :-----------: | :--------: |
 
 <details>
   <summary>✨</summary>
