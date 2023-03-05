@@ -1,5 +1,5 @@
-| inspiration | understanding | creativity |
-| :---------: | :-----------: | :--------: |
+| grace | synthesis | joy |
+| :---: | :-------: | :-: |
 
 <details>
   <summary>✨</summary>
