@@ -1,5 +1,5 @@
-| grace | synthesis | joy |
-| :---: | :-------: | :-: |
+| expectancy | trust | understanding |
+| :--------: | :---: | :-----------: |
 
 <details>
   <summary>✨</summary>
