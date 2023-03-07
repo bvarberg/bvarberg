@@ -1,5 +1,5 @@
-| expectancy | trust | understanding |
-| :--------: | :---: | :-----------: |
+| truth | peace | abundance |
+| :---: | :---: | :-------: |
 
 <details>
   <summary>✨</summary>
