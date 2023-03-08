@@ -1,5 +1,5 @@
-| truth | peace | abundance |
-| :---: | :---: | :-------: |
+| depth | excellence | communication |
+| :---: | :--------: | :-----------: |
 
 <details>
   <summary>✨</summary>
