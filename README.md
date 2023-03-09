@@ -1,5 +1,5 @@
-| depth | excellence | communication |
-| :---: | :--------: | :-----------: |
+| delight | synthesis | courage |
+| :-----: | :-------: | :-----: |
 
 <details>
   <summary>✨</summary>
