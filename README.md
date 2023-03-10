@@ -1,5 +1,5 @@
-| delight | synthesis | courage |
-| :-----: | :-------: | :-----: |
+| excellence | harmony | clarity |
+| :--------: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
