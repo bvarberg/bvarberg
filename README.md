@@ -1,5 +1,5 @@
-| excellence | harmony | clarity |
-| :--------: | :-----: | :-----: |
+| excellence | delight | depth |
+| :--------: | :-----: | :---: |
 
 <details>
   <summary>✨</summary>
