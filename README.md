@@ -1,5 +1,5 @@
-| excellence | delight | depth |
-| :--------: | :-----: | :---: |
+| spontaneity | abundance | purpose |
+| :---------: | :-------: | :-----: |
 
 <details>
   <summary>✨</summary>
