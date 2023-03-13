@@ -1,5 +1,5 @@
-| spontaneity | abundance | purpose |
-| :---------: | :-------: | :-----: |
+| forgiveness | renewal | adventure |
+| :---------: | :-----: | :-------: |
 
 <details>
   <summary>✨</summary>
