@@ -1,5 +1,5 @@
-| forgiveness | renewal | adventure |
-| :---------: | :-----: | :-------: |
+| communication | gratitude | balance |
+| :-----------: | :-------: | :-----: |
 
 <details>
   <summary>✨</summary>
