@@ -1,5 +1,5 @@
-| communication | gratitude | balance |
-| :-----------: | :-------: | :-----: |
+| willingness | simplicity | courage |
+| :---------: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
