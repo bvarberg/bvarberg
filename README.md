@@ -1,5 +1,5 @@
-| willingness | simplicity | courage |
-| :---------: | :--------: | :-----: |
+| play | excellence | harmony |
+| :--: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
