@@ -1,5 +1,5 @@
-| play | excellence | harmony |
-| :--: | :--------: | :-----: |
+| flexibility | grace | understanding |
+| :---------: | :---: | :-----------: |
 
 <details>
   <summary>✨</summary>
