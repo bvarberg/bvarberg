@@ -1,5 +1,5 @@
-| flexibility | grace | understanding |
-| :---------: | :---: | :-----------: |
+| forgiveness | patience | spontaneity |
+| :---------: | :------: | :---------: |
 
 <details>
   <summary>✨</summary>
