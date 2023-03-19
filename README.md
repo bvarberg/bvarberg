@@ -1,5 +1,5 @@
-| forgiveness | patience | spontaneity |
-| :---------: | :------: | :---------: |
+| integrity | willingness | creativity |
+| :-------: | :---------: | :--------: |
 
 <details>
   <summary>✨</summary>
