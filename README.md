@@ -1,5 +1,5 @@
-| integrity | willingness | creativity |
-| :-------: | :---------: | :--------: |
+| purpose | humor | understanding |
+| :-----: | :---: | :-----------: |
 
 <details>
   <summary>✨</summary>
