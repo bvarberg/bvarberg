@@ -1,5 +1,5 @@
-| purpose | humor | understanding |
-| :-----: | :---: | :-----------: |
+| release | humor | courage |
+| :-----: | :---: | :-----: |
 
 <details>
   <summary>✨</summary>
