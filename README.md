@@ -1,5 +1,5 @@
-| release | humor | courage |
-| :-----: | :---: | :-----: |
+| openness | release | integrity |
+| :------: | :-----: | :-------: |
 
 <details>
   <summary>✨</summary>
