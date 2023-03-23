@@ -1,5 +1,5 @@
-| openness | release | integrity |
-| :------: | :-----: | :-------: |
+| love | purification | renewal |
+| :--: | :----------: | :-----: |
 
 <details>
   <summary>✨</summary>
