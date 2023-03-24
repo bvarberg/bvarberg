@@ -1,5 +1,5 @@
-| love | purification | renewal |
-| :--: | :----------: | :-----: |
+| enthusiasm | patience | light |
+| :--------: | :------: | :---: |
 
 <details>
   <summary>✨</summary>
