@@ -1,5 +1,5 @@
-| enthusiasm | patience | light |
-| :--------: | :------: | :---: |
+| play | harmony | clarity |
+| :--: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
