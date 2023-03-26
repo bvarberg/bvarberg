@@ -1,5 +1,5 @@
-| play | harmony | clarity |
-| :--: | :-----: | :-----: |
+| play | depth | honesty |
+| :--: | :---: | :-----: |
 
 <details>
   <summary>✨</summary>
