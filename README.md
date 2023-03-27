@@ -1,5 +1,5 @@
-| play | depth | honesty |
-| :--: | :---: | :-----: |
+| purpose | truth | communication |
+| :-----: | :---: | :-----------: |
 
 <details>
   <summary>✨</summary>
