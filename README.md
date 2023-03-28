@@ -1,5 +1,5 @@
-| purpose | truth | communication |
-| :-----: | :---: | :-----------: |
+| courage | humor | willingness |
+| :-----: | :---: | :---------: |
 
 <details>
   <summary>✨</summary>
