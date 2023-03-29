@@ -1,5 +1,5 @@
-| courage | humor | willingness |
-| :-----: | :---: | :---------: |
+| power | freedom | healing |
+| :---: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
