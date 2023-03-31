@@ -1,5 +1,5 @@
-| flexibility | release | forgiveness |
-| :---------: | :-----: | :---------: |
+| power | clarity | harmony |
+| :---: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
