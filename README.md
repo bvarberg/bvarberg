@@ -1,5 +1,5 @@
-| power | clarity | harmony |
-| :---: | :-----: | :-----: |
+| trust | power | truth |
+| :---: | :---: | :---: |
 
 <details>
   <summary>✨</summary>
