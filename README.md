@@ -1,5 +1,5 @@
-| trust | power | truth |
-| :---: | :---: | :---: |
+| willingness | compassion | trust |
+| :---------: | :--------: | :---: |
 
 <details>
   <summary>✨</summary>
