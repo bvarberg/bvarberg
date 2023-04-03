@@ -1,5 +1,5 @@
-| willingness | compassion | trust |
-| :---------: | :--------: | :---: |
+| courage | abundance | purification |
+| :-----: | :-------: | :----------: |
 
 <details>
   <summary>✨</summary>
