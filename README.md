@@ -1,5 +1,5 @@
-| courage | abundance | purification |
-| :-----: | :-------: | :----------: |
+| openness | responsibility | joy |
+| :------: | :------------: | :-: |
 
 <details>
   <summary>✨</summary>
