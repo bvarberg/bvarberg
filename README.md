@@ -1,5 +1,5 @@
-| openness | responsibility | joy |
-| :------: | :------------: | :-: |
+| truth | clarity | play |
+| :---: | :-----: | :--: |
 
 <details>
   <summary>✨</summary>
