@@ -1,5 +1,5 @@
-| truth | clarity | play |
-| :---: | :-----: | :--: |
+| creativity | synthesis | tenderness |
+| :--------: | :-------: | :--------: |
 
 <details>
   <summary>✨</summary>
