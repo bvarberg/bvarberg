@@ -1,5 +1,5 @@
-| creativity | synthesis | tenderness |
-| :--------: | :-------: | :--------: |
+| abundance | flexibility | love |
+| :-------: | :---------: | :--: |
 
 <details>
   <summary>✨</summary>
