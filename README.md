@@ -1,5 +1,5 @@
-| abundance | flexibility | love |
-| :-------: | :---------: | :--: |
+| beauty | understanding | healing |
+| :----: | :-----------: | :-----: |
 
 <details>
   <summary>✨</summary>
