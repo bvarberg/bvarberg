@@ -1,5 +1,5 @@
-| beauty | understanding | healing |
-| :----: | :-----------: | :-----: |
+| balance | compassion | efficiency |
+| :-----: | :--------: | :--------: |
 
 <details>
   <summary>✨</summary>
