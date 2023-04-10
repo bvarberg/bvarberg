@@ -1,5 +1,5 @@
-| balance | compassion | efficiency |
-| :-----: | :--------: | :--------: |
+| education | purpose | expectancy |
+| :-------: | :-----: | :--------: |
 
 <details>
   <summary>✨</summary>
