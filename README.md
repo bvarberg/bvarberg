@@ -1,5 +1,5 @@
-| education | purpose | expectancy |
-| :-------: | :-----: | :--------: |
+| surrender | synthesis | freedom |
+| :-------: | :-------: | :-----: |
 
 <details>
   <summary>✨</summary>
