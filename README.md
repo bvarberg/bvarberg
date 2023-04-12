@@ -1,5 +1,5 @@
-| surrender | synthesis | freedom |
-| :-------: | :-------: | :-----: |
+| spontaneity | adventure | courage |
+| :---------: | :-------: | :-----: |
 
 <details>
   <summary>✨</summary>
