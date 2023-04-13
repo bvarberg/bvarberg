@@ -1,5 +1,5 @@
-| spontaneity | adventure | courage |
-| :---------: | :-------: | :-----: |
+| responsibility | integrity | education |
+| :------------: | :-------: | :-------: |
 
 <details>
   <summary>✨</summary>
