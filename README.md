@@ -1,5 +1,5 @@
-| responsibility | integrity | education |
-| :------------: | :-------: | :-------: |
+| spontaneity | flexibility | creativity |
+| :---------: | :---------: | :--------: |
 
 <details>
   <summary>✨</summary>
