@@ -1,5 +1,5 @@
-| spontaneity | flexibility | creativity |
-| :---------: | :---------: | :--------: |
+| enough | joy | peace |
+| :----: | :-: | :---: |
 
 <details>
   <summary>✨</summary>
