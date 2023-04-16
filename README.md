@@ -1,5 +1,5 @@
-| enough | joy | peace |
-| :----: | :-: | :---: |
+| trust | courage | expectancy |
+| :---: | :-----: | :--------: |
 
 <details>
   <summary>✨</summary>
