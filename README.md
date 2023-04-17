@@ -1,5 +1,5 @@
-| trust | courage | expectancy |
-| :---: | :-----: | :--------: |
+| courage | enough | love |
+| :-----: | :----: | :--: |
 
 <details>
   <summary>✨</summary>
