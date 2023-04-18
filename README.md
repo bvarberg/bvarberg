@@ -1,5 +1,5 @@
-| courage | enough | love |
-| :-----: | :----: | :--: |
+| gratitude | openness | inspiration |
+| :-------: | :------: | :---------: |
 
 <details>
   <summary>✨</summary>
