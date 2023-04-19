@@ -1,5 +1,5 @@
-| gratitude | openness | inspiration |
-| :-------: | :------: | :---------: |
+| enough | honesty | clarity |
+| :----: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
