@@ -1,5 +1,5 @@
-| enough | honesty | clarity |
-| :----: | :-----: | :-----: |
+| abundance | depth | strength |
+| :-------: | :---: | :------: |
 
 <details>
   <summary>✨</summary>
