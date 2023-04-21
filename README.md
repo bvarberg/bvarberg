@@ -1,5 +1,5 @@
-| abundance | depth | strength |
-| :-------: | :---: | :------: |
+| responsibility | strength | openness |
+| :------------: | :------: | :------: |
 
 <details>
   <summary>✨</summary>
