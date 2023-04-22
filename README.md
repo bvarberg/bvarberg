@@ -1,5 +1,5 @@
-| responsibility | strength | openness |
-| :------------: | :------: | :------: |
+| education | enough | beauty |
+| :-------: | :----: | :----: |
 
 <details>
   <summary>✨</summary>
