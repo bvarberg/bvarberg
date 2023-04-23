@@ -1,5 +1,5 @@
-| education | enough | beauty |
-| :-------: | :----: | :----: |
+| purpose | synthesis | freedom |
+| :-----: | :-------: | :-----: |
 
 <details>
   <summary>✨</summary>
