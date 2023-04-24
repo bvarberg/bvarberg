@@ -1,5 +1,5 @@
-| purpose | synthesis | freedom |
-| :-----: | :-------: | :-----: |
+| forgiveness | courage | strength |
+| :---------: | :-----: | :------: |
 
 <details>
   <summary>✨</summary>
