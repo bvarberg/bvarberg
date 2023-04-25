@@ -1,5 +1,5 @@
-| forgiveness | courage | strength |
-| :---------: | :-----: | :------: |
+| healing | excellence | humor |
+| :-----: | :--------: | :---: |
 
 <details>
   <summary>✨</summary>
