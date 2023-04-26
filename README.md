@@ -1,5 +1,5 @@
-| healing | excellence | humor |
-| :-----: | :--------: | :---: |
+| adventure | tenderness | inspiration |
+| :-------: | :--------: | :---------: |
 
 <details>
   <summary>✨</summary>
