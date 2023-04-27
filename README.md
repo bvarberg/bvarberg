@@ -1,5 +1,5 @@
-| adventure | tenderness | inspiration |
-| :-------: | :--------: | :---------: |
+| clarity | adventure | freedom |
+| :-----: | :-------: | :-----: |
 
 <details>
   <summary>✨</summary>
