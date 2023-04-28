@@ -1,5 +1,5 @@
-| clarity | adventure | freedom |
-| :-----: | :-------: | :-----: |
+| flexibility | integrity | adventure |
+| :---------: | :-------: | :-------: |
 
 <details>
   <summary>✨</summary>
