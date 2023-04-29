@@ -1,5 +1,5 @@
-| flexibility | integrity | adventure |
-| :---------: | :-------: | :-------: |
+| tenderness | excellence | delight |
+| :--------: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
