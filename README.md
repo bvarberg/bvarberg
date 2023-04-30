@@ -1,5 +1,5 @@
-| tenderness | excellence | delight |
-| :--------: | :--------: | :-----: |
+| honesty | purification | clarity |
+| :-----: | :----------: | :-----: |
 
 <details>
   <summary>✨</summary>
