@@ -1,5 +1,5 @@
-| honesty | purification | clarity |
-| :-----: | :----------: | :-----: |
+| flexibility | adventure | spontaneity |
+| :---------: | :-------: | :---------: |
 
 <details>
   <summary>✨</summary>
