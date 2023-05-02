@@ -1,5 +1,5 @@
-| flexibility | adventure | spontaneity |
-| :---------: | :-------: | :---------: |
+| balance | purification | light |
+| :-----: | :----------: | :---: |
 
 <details>
   <summary>✨</summary>
