@@ -1,5 +1,5 @@
-| balance | purification | light |
-| :-----: | :----------: | :---: |
+| spontaneity | peace | flexibility |
+| :---------: | :---: | :---------: |
 
 <details>
   <summary>✨</summary>
