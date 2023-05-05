@@ -1,5 +1,5 @@
-| purification | willingness | creativity |
-| :----------: | :---------: | :--------: |
+| humor | creativity | efficiency |
+| :---: | :--------: | :--------: |
 
 <details>
   <summary>✨</summary>
