@@ -1,5 +1,5 @@
-| humor | creativity | efficiency |
-| :---: | :--------: | :--------: |
+| creativity | excellence | adventure |
+| :--------: | :--------: | :-------: |
 
 <details>
   <summary>✨</summary>
