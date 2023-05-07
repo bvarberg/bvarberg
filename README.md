@@ -1,5 +1,5 @@
-| creativity | excellence | adventure |
-| :--------: | :--------: | :-------: |
+| honesty | light | inspiration |
+| :-----: | :---: | :---------: |
 
 <details>
   <summary>✨</summary>
