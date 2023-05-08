@@ -1,5 +1,5 @@
-| honesty | light | inspiration |
-| :-----: | :---: | :---------: |
+| tenderness | enough | willingness |
+| :--------: | :----: | :---------: |
 
 <details>
   <summary>✨</summary>
