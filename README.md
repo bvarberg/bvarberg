@@ -1,5 +1,5 @@
-| tenderness | enough | willingness |
-| :--------: | :----: | :---------: |
+| creativity | beauty | freedom |
+| :--------: | :----: | :-----: |
 
 <details>
   <summary>✨</summary>
