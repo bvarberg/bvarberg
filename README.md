@@ -1,5 +1,5 @@
-| creativity | beauty | freedom |
-| :--------: | :----: | :-----: |
+| depth | efficiency | renewal |
+| :---: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
