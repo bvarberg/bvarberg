@@ -1,5 +1,5 @@
-| depth | efficiency | renewal |
-| :---: | :--------: | :-----: |
+| responsibility | creativity | play |
+| :------------: | :--------: | :--: |
 
 <details>
   <summary>✨</summary>
