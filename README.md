@@ -1,5 +1,5 @@
-| responsibility | creativity | play |
-| :------------: | :--------: | :--: |
+| joy | gratitude | creativity |
+| :-: | :-------: | :--------: |
 
 <details>
   <summary>✨</summary>
