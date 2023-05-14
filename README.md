@@ -1,5 +1,5 @@
-| joy | gratitude | creativity |
-| :-: | :-------: | :--------: |
+| courage | excellence | love |
+| :-----: | :--------: | :--: |
 
 <details>
   <summary>✨</summary>
