@@ -1,5 +1,5 @@
-| courage | excellence | love |
-| :-----: | :--------: | :--: |
+| balance | play | truth |
+| :-----: | :--: | :---: |
 
 <details>
   <summary>✨</summary>
