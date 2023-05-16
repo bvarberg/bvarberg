@@ -1,5 +1,5 @@
-| balance | play | truth |
-| :-----: | :--: | :---: |
+| expectancy | surrender | abundance |
+| :--------: | :-------: | :-------: |
 
 <details>
   <summary>✨</summary>
