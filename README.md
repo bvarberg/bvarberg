@@ -1,5 +1,5 @@
-| expectancy | surrender | abundance |
-| :--------: | :-------: | :-------: |
+| understanding | enough | willingness |
+| :-----------: | :----: | :---------: |
 
 <details>
   <summary>✨</summary>
