@@ -1,5 +1,5 @@
-| understanding | enough | willingness |
-| :-----------: | :----: | :---------: |
+| truth | power | clarity |
+| :---: | :---: | :-----: |
 
 <details>
   <summary>✨</summary>
