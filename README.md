@@ -1,5 +1,5 @@
-| grace | synthesis | truth |
-| :---: | :-------: | :---: |
+| communication | renewal | spontaneity |
+| :-----------: | :-----: | :---------: |
 
 <details>
   <summary>✨</summary>
