@@ -1,5 +1,5 @@
-| communication | renewal | spontaneity |
-| :-----------: | :-----: | :---------: |
+| clarity | depth | responsibility |
+| :-----: | :---: | :------------: |
 
 <details>
   <summary>✨</summary>
