@@ -1,5 +1,5 @@
-| clarity | depth | responsibility |
-| :-----: | :---: | :------------: |
+| efficiency | abundance | light |
+| :--------: | :-------: | :---: |
 
 <details>
   <summary>✨</summary>
