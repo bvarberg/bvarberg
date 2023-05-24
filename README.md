@@ -1,5 +1,5 @@
-| efficiency | abundance | light |
-| :--------: | :-------: | :---: |
+| enthusiasm | truth | healing |
+| :--------: | :---: | :-----: |
 
 <details>
   <summary>✨</summary>
