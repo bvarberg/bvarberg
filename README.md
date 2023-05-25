@@ -1,5 +1,5 @@
-| enthusiasm | truth | healing |
-| :--------: | :---: | :-----: |
+| joy | strength | courage |
+| :-: | :------: | :-----: |
 
 <details>
   <summary>✨</summary>
