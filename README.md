@@ -1,5 +1,5 @@
-| joy | strength | courage |
-| :-: | :------: | :-----: |
+| responsibility | depth | love |
+| :------------: | :---: | :--: |
 
 <details>
   <summary>✨</summary>
