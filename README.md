@@ -1,5 +1,5 @@
-| responsibility | depth | love |
-| :------------: | :---: | :--: |
+| courage | love | adventure |
+| :-----: | :--: | :-------: |
 
 <details>
   <summary>✨</summary>
