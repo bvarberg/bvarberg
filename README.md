@@ -1,5 +1,5 @@
-| courage | love | adventure |
-| :-----: | :--: | :-------: |
+| inspiration | grace | forgiveness |
+| :---------: | :---: | :---------: |
 
 <details>
   <summary>✨</summary>
