@@ -1,5 +1,5 @@
-| inspiration | grace | forgiveness |
-| :---------: | :---: | :---------: |
+| integrity | beauty | humor |
+| :-------: | :----: | :---: |
 
 <details>
   <summary>✨</summary>
