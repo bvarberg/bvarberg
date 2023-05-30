@@ -1,5 +1,5 @@
-| integrity | beauty | humor |
-| :-------: | :----: | :---: |
+| communication | purification | integrity |
+| :-----------: | :----------: | :-------: |
 
 <details>
   <summary>✨</summary>
