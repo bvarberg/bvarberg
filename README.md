@@ -1,5 +1,5 @@
-| communication | purification | integrity |
-| :-----------: | :----------: | :-------: |
+| healing | clarity | creativity |
+| :-----: | :-----: | :--------: |
 
 <details>
   <summary>✨</summary>
