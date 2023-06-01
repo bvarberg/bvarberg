@@ -1,5 +1,5 @@
-| healing | clarity | creativity |
-| :-----: | :-----: | :--------: |
+| beauty | enough | inspiration |
+| :----: | :----: | :---------: |
 
 <details>
   <summary>✨</summary>
