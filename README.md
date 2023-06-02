@@ -1,5 +1,5 @@
-| beauty | enough | inspiration |
-| :----: | :----: | :---------: |
+| synthesis | renewal | joy |
+| :-------: | :-----: | :-: |
 
 <details>
   <summary>✨</summary>
