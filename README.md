@@ -1,5 +1,5 @@
-| synthesis | renewal | joy |
-| :-------: | :-----: | :-: |
+| simplicity | light | willingness |
+| :--------: | :---: | :---------: |
 
 <details>
   <summary>✨</summary>
