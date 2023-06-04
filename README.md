@@ -1,5 +1,5 @@
-| simplicity | light | willingness |
-| :--------: | :---: | :---------: |
+| flexibility | simplicity | enthusiasm |
+| :---------: | :--------: | :--------: |
 
 <details>
   <summary>✨</summary>
