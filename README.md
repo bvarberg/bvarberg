@@ -1,5 +1,5 @@
-| flexibility | simplicity | enthusiasm |
-| :---------: | :--------: | :--------: |
+| abundance | simplicity | power |
+| :-------: | :--------: | :---: |
 
 <details>
   <summary>✨</summary>
