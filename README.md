@@ -1,5 +1,5 @@
-| abundance | simplicity | power |
-| :-------: | :--------: | :---: |
+| trust | clarity | joy |
+| :---: | :-----: | :-: |
 
 <details>
   <summary>✨</summary>
