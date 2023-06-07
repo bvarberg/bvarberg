@@ -1,5 +1,5 @@
-| trust | clarity | joy |
-| :---: | :-----: | :-: |
+| spontaneity | flexibility | courage |
+| :---------: | :---------: | :-----: |
 
 <details>
   <summary>✨</summary>
