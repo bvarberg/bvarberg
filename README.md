@@ -1,5 +1,5 @@
-| spontaneity | flexibility | courage |
-| :---------: | :---------: | :-----: |
+| beauty | openness | communication |
+| :----: | :------: | :-----------: |
 
 <details>
   <summary>✨</summary>
