@@ -1,5 +1,5 @@
-| beauty | openness | communication |
-| :----: | :------: | :-----------: |
+| grace | love | understanding |
+| :---: | :--: | :-----------: |
 
 <details>
   <summary>✨</summary>
