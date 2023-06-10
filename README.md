@@ -1,5 +1,5 @@
-| grace | love | understanding |
-| :---: | :--: | :-----------: |
+| beauty | clarity | willingness |
+| :----: | :-----: | :---------: |
 
 <details>
   <summary>✨</summary>
