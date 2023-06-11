@@ -1,5 +1,5 @@
-| beauty | clarity | willingness |
-| :----: | :-----: | :---------: |
+| expectancy | excellence | grace |
+| :--------: | :--------: | :---: |
 
 <details>
   <summary>✨</summary>
