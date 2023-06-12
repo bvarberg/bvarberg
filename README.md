@@ -1,5 +1,5 @@
-| expectancy | excellence | grace |
-| :--------: | :--------: | :---: |
+| power | grace | strength |
+| :---: | :---: | :------: |
 
 <details>
   <summary>✨</summary>
