@@ -1,5 +1,5 @@
-| power | grace | strength |
-| :---: | :---: | :------: |
+| synthesis | truth | depth |
+| :-------: | :---: | :---: |
 
 <details>
   <summary>✨</summary>
