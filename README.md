@@ -1,5 +1,5 @@
-| synthesis | truth | depth |
-| :-------: | :---: | :---: |
+| gratitude | delight | renewal |
+| :-------: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
