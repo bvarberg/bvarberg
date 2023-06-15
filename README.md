@@ -1,5 +1,5 @@
-| gratitude | delight | renewal |
-| :-------: | :-----: | :-----: |
+| honesty | creativity | efficiency |
+| :-----: | :--------: | :--------: |
 
 <details>
   <summary>✨</summary>
