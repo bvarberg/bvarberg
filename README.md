@@ -1,5 +1,5 @@
-| honesty | creativity | efficiency |
-| :-----: | :--------: | :--------: |
+| gratitude | abundance | forgiveness |
+| :-------: | :-------: | :---------: |
 
 <details>
   <summary>✨</summary>
