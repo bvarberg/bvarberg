@@ -1,5 +1,5 @@
-| gratitude | abundance | forgiveness |
-| :-------: | :-------: | :---------: |
+| grace | expectancy | trust |
+| :---: | :--------: | :---: |
 
 <details>
   <summary>✨</summary>
