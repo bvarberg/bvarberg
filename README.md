@@ -1,5 +1,5 @@
-| grace | expectancy | trust |
-| :---: | :--------: | :---: |
+| grace | power | strength |
+| :---: | :---: | :------: |
 
 <details>
   <summary>✨</summary>
