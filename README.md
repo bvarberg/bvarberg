@@ -1,5 +1,5 @@
-| grace | power | strength |
-| :---: | :---: | :------: |
+| tenderness | inspiration | beauty |
+| :--------: | :---------: | :----: |
 
 <details>
   <summary>✨</summary>
