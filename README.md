@@ -1,5 +1,5 @@
-| tenderness | inspiration | beauty |
-| :--------: | :---------: | :----: |
+| balance | beauty | joy |
+| :-----: | :----: | :-: |
 
 <details>
   <summary>✨</summary>
