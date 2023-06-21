@@ -1,5 +1,5 @@
-| balance | beauty | joy |
-| :-----: | :----: | :-: |
+| abundance | purpose | trust |
+| :-------: | :-----: | :---: |
 
 <details>
   <summary>✨</summary>
