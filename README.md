@@ -1,5 +1,5 @@
-| abundance | purpose | trust |
-| :-------: | :-----: | :---: |
+| delight | spontaneity | freedom |
+| :-----: | :---------: | :-----: |
 
 <details>
   <summary>✨</summary>
