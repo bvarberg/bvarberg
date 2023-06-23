@@ -1,5 +1,5 @@
-| delight | spontaneity | freedom |
-| :-----: | :---------: | :-----: |
+| understanding | release | inspiration |
+| :-----------: | :-----: | :---------: |
 
 <details>
   <summary>✨</summary>
