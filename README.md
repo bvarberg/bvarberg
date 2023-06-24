@@ -1,5 +1,5 @@
-| understanding | release | inspiration |
-| :-----------: | :-----: | :---------: |
+| education | spontaneity | humor |
+| :-------: | :---------: | :---: |
 
 <details>
   <summary>✨</summary>
