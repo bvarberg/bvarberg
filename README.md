@@ -1,5 +1,5 @@
-| education | spontaneity | humor |
-| :-------: | :---------: | :---: |
+| efficiency | depth | renewal |
+| :--------: | :---: | :-----: |
 
 <details>
   <summary>✨</summary>
