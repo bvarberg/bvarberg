@@ -1,5 +1,5 @@
-| efficiency | depth | renewal |
-| :--------: | :---: | :-----: |
+| openness | compassion | renewal |
+| :------: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
