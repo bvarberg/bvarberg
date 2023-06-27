@@ -1,5 +1,5 @@
-| openness | compassion | renewal |
-| :------: | :--------: | :-----: |
+| freedom | abundance | peace |
+| :-----: | :-------: | :---: |
 
 <details>
   <summary>✨</summary>
