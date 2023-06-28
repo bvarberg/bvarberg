@@ -1,5 +1,5 @@
-| freedom | abundance | peace |
-| :-----: | :-------: | :---: |
+| beauty | strength | renewal |
+| :----: | :------: | :-----: |
 
 <details>
   <summary>✨</summary>
