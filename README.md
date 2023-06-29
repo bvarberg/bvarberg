@@ -1,5 +1,5 @@
-| beauty | strength | renewal |
-| :----: | :------: | :-----: |
+| tenderness | enthusiasm | forgiveness |
+| :--------: | :--------: | :---------: |
 
 <details>
   <summary>✨</summary>
