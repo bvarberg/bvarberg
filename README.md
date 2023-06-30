@@ -1,5 +1,5 @@
-| tenderness | enthusiasm | forgiveness |
-| :--------: | :--------: | :---------: |
+| understanding | creativity | joy |
+| :-----------: | :--------: | :-: |
 
 <details>
   <summary>✨</summary>
