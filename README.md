@@ -1,5 +1,5 @@
-| understanding | creativity | joy |
-| :-----------: | :--------: | :-: |
+| integrity | honesty | education |
+| :-------: | :-----: | :-------: |
 
 <details>
   <summary>✨</summary>
