@@ -1,5 +1,5 @@
-| integrity | honesty | education |
-| :-------: | :-----: | :-------: |
+| grace | abundance | gratitude |
+| :---: | :-------: | :-------: |
 
 <details>
   <summary>✨</summary>
