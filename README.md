@@ -1,5 +1,5 @@
-| beauty | expectancy | patience |
-| :----: | :--------: | :------: |
+| balance | release | clarity |
+| :-----: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
