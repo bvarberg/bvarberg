@@ -1,5 +1,5 @@
-| balance | release | clarity |
-| :-----: | :-----: | :-----: |
+| excellence | release | clarity |
+| :--------: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
