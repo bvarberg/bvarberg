@@ -1,5 +1,5 @@
-| excellence | release | clarity |
-| :--------: | :-----: | :-----: |
+| flexibility | harmony | simplicity |
+| :---------: | :-----: | :--------: |
 
 <details>
   <summary>✨</summary>
