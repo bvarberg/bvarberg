@@ -1,5 +1,5 @@
-| flexibility | harmony | simplicity |
-| :---------: | :-----: | :--------: |
+| adventure | truth | joy |
+| :-------: | :---: | :-: |
 
 <details>
   <summary>✨</summary>
