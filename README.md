@@ -1,5 +1,5 @@
-| adventure | truth | joy |
-| :-------: | :---: | :-: |
+| clarity | play | simplicity |
+| :-----: | :--: | :--------: |
 
 <details>
   <summary>✨</summary>
