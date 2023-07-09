@@ -1,5 +1,5 @@
-| clarity | play | simplicity |
-| :-----: | :--: | :--------: |
+| willingness | patience | purpose |
+| :---------: | :------: | :-----: |
 
 <details>
   <summary>✨</summary>
