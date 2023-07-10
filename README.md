@@ -1,5 +1,5 @@
-| willingness | patience | purpose |
-| :---------: | :------: | :-----: |
+| understanding | excellence | synthesis |
+| :-----------: | :--------: | :-------: |
 
 <details>
   <summary>✨</summary>
