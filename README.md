@@ -1,5 +1,5 @@
-| understanding | excellence | synthesis |
-| :-----------: | :--------: | :-------: |
+| courage | love | clarity |
+| :-----: | :--: | :-----: |
 
 <details>
   <summary>✨</summary>
