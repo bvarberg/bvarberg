@@ -1,5 +1,5 @@
-| courage | love | clarity |
-| :-----: | :--: | :-----: |
+| patience | efficiency | honesty |
+| :------: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
