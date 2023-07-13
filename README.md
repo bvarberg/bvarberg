@@ -1,5 +1,5 @@
-| patience | efficiency | honesty |
-| :------: | :--------: | :-----: |
+| humor | trust | purpose |
+| :---: | :---: | :-----: |
 
 <details>
   <summary>✨</summary>
