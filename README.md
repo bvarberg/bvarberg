@@ -1,5 +1,5 @@
-| humor | trust | purpose |
-| :---: | :---: | :-----: |
+| trust | clarity | education |
+| :---: | :-----: | :-------: |
 
 <details>
   <summary>✨</summary>
