@@ -1,5 +1,5 @@
-| trust | clarity | education |
-| :---: | :-----: | :-------: |
+| simplicity | strength | education |
+| :--------: | :------: | :-------: |
 
 <details>
   <summary>✨</summary>
