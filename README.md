@@ -1,5 +1,5 @@
-| simplicity | strength | education |
-| :--------: | :------: | :-------: |
+| creativity | freedom | joy |
+| :--------: | :-----: | :-: |
 
 <details>
   <summary>✨</summary>
