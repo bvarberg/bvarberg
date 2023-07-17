@@ -1,5 +1,5 @@
-| creativity | freedom | joy |
-| :--------: | :-----: | :-: |
+| purpose | truth | inspiration |
+| :-----: | :---: | :---------: |
 
 <details>
   <summary>✨</summary>
