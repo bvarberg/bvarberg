@@ -1,5 +1,5 @@
-| purpose | truth | inspiration |
-| :-----: | :---: | :---------: |
+| forgiveness | patience | adventure |
+| :---------: | :------: | :-------: |
 
 <details>
   <summary>✨</summary>
