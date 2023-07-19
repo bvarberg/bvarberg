@@ -1,5 +1,5 @@
-| forgiveness | patience | adventure |
-| :---------: | :------: | :-------: |
+| healing | creativity | power |
+| :-----: | :--------: | :---: |
 
 <details>
   <summary>✨</summary>
