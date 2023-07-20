@@ -1,5 +1,5 @@
-| healing | creativity | power |
-| :-----: | :--------: | :---: |
+| excellence | spontaneity | patience |
+| :--------: | :---------: | :------: |
 
 <details>
   <summary>✨</summary>
