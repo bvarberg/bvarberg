@@ -1,5 +1,5 @@
-| excellence | spontaneity | patience |
-| :--------: | :---------: | :------: |
+| courage | understanding | enthusiasm |
+| :-----: | :-----------: | :--------: |
 
 <details>
   <summary>✨</summary>
