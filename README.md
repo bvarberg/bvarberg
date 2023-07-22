@@ -1,5 +1,5 @@
-| courage | understanding | enthusiasm |
-| :-----: | :-----------: | :--------: |
+| integrity | gratitude | light |
+| :-------: | :-------: | :---: |
 
 <details>
   <summary>✨</summary>
