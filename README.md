@@ -1,5 +1,5 @@
-| integrity | gratitude | light |
-| :-------: | :-------: | :---: |
+| release | inspiration | light |
+| :-----: | :---------: | :---: |
 
 <details>
   <summary>✨</summary>
