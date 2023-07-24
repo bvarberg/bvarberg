@@ -1,5 +1,5 @@
-| release | inspiration | light |
-| :-----: | :---------: | :---: |
+| strength | patience | truth |
+| :------: | :------: | :---: |
 
 <details>
   <summary>✨</summary>
