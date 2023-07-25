@@ -1,5 +1,5 @@
-| strength | patience | truth |
-| :------: | :------: | :---: |
+| adventure | communication | delight |
+| :-------: | :-----------: | :-----: |
 
 <details>
   <summary>✨</summary>
