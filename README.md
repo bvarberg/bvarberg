@@ -1,5 +1,5 @@
-| adventure | communication | delight |
-| :-------: | :-----------: | :-----: |
+| honesty | efficiency | expectancy |
+| :-----: | :--------: | :--------: |
 
 <details>
   <summary>✨</summary>
