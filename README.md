@@ -1,5 +1,5 @@
-| honesty | efficiency | expectancy |
-| :-----: | :--------: | :--------: |
+| healing | creativity | responsibility |
+| :-----: | :--------: | :------------: |
 
 <details>
   <summary>✨</summary>
