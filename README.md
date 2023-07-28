@@ -1,5 +1,5 @@
-| healing | creativity | responsibility |
-| :-----: | :--------: | :------------: |
+| joy | renewal | integrity |
+| :-: | :-----: | :-------: |
 
 <details>
   <summary>✨</summary>
