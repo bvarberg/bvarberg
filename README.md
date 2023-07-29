@@ -1,5 +1,5 @@
-| joy | renewal | integrity |
-| :-: | :-----: | :-------: |
+| strength | release | trust |
+| :------: | :-----: | :---: |
 
 <details>
   <summary>✨</summary>
