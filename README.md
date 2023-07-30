@@ -1,5 +1,5 @@
-| strength | release | trust |
-| :------: | :-----: | :---: |
+| openness | understanding | enough |
+| :------: | :-----------: | :----: |
 
 <details>
   <summary>✨</summary>
