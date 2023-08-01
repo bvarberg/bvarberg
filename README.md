@@ -1,5 +1,5 @@
-| inspiration | expectancy | creativity |
-| :---------: | :--------: | :--------: |
+| surrender | patience | creativity |
+| :-------: | :------: | :--------: |
 
 <details>
   <summary>✨</summary>
