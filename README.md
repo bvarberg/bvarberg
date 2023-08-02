@@ -1,5 +1,5 @@
-| surrender | patience | creativity |
-| :-------: | :------: | :--------: |
+| healing | freedom | renewal |
+| :-----: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
