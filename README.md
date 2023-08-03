@@ -1,5 +1,5 @@
-| healing | freedom | renewal |
-| :-----: | :-----: | :-----: |
+| tenderness | simplicity | abundance |
+| :--------: | :--------: | :-------: |
 
 <details>
   <summary>✨</summary>
