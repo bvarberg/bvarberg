@@ -1,5 +1,5 @@
-| tenderness | simplicity | abundance |
-| :--------: | :--------: | :-------: |
+| enthusiasm | gratitude | patience |
+| :--------: | :-------: | :------: |
 
 <details>
   <summary>✨</summary>
