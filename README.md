@@ -1,5 +1,5 @@
-| enthusiasm | gratitude | patience |
-| :--------: | :-------: | :------: |
+| communication | gratitude | adventure |
+| :-----------: | :-------: | :-------: |
 
 <details>
   <summary>✨</summary>
