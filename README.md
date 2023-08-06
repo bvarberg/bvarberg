@@ -1,5 +1,5 @@
-| communication | gratitude | adventure |
-| :-----------: | :-------: | :-------: |
+| flexibility | openness | healing |
+| :---------: | :------: | :-----: |
 
 <details>
   <summary>✨</summary>
