@@ -1,5 +1,5 @@
-| flexibility | openness | healing |
-| :---------: | :------: | :-----: |
+| inspiration | communication | willingness |
+| :---------: | :-----------: | :---------: |
 
 <details>
   <summary>✨</summary>
