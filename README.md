@@ -1,5 +1,5 @@
-| inspiration | communication | willingness |
-| :---------: | :-----------: | :---------: |
+| expectancy | clarity | spontaneity |
+| :--------: | :-----: | :---------: |
 
 <details>
   <summary>✨</summary>
