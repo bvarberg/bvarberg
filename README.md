@@ -1,5 +1,5 @@
-| expectancy | clarity | spontaneity |
-| :--------: | :-----: | :---------: |
+| inspiration | trust | responsibility |
+| :---------: | :---: | :------------: |
 
 <details>
   <summary>✨</summary>
