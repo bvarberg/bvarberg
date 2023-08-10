@@ -1,5 +1,5 @@
-| inspiration | trust | responsibility |
-| :---------: | :---: | :------------: |
+| responsibility | light | healing |
+| :------------: | :---: | :-----: |
 
 <details>
   <summary>✨</summary>
