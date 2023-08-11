@@ -1,5 +1,5 @@
-| responsibility | light | healing |
-| :------------: | :---: | :-----: |
+| peace | communication | release |
+| :---: | :-----------: | :-----: |
 
 <details>
   <summary>✨</summary>
