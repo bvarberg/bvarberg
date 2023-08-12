@@ -1,5 +1,5 @@
-| peace | communication | release |
-| :---: | :-----------: | :-----: |
+| harmony | truth | power |
+| :-----: | :---: | :---: |
 
 <details>
   <summary>✨</summary>
