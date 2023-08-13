@@ -1,5 +1,5 @@
-| harmony | truth | power |
-| :-----: | :---: | :---: |
+| flexibility | joy | renewal |
+| :---------: | :-: | :-----: |
 
 <details>
   <summary>✨</summary>
