@@ -1,5 +1,5 @@
-| flexibility | joy | renewal |
-| :---------: | :-: | :-----: |
+| forgiveness | surrender | flexibility |
+| :---------: | :-------: | :---------: |
 
 <details>
   <summary>✨</summary>
