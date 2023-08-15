@@ -1,5 +1,5 @@
-| forgiveness | surrender | flexibility |
-| :---------: | :-------: | :---------: |
+| clarity | humor | excellence |
+| :-----: | :---: | :--------: |
 
 <details>
   <summary>✨</summary>
