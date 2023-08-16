@@ -1,5 +1,5 @@
-| clarity | humor | excellence |
-| :-----: | :---: | :--------: |
+| healing | surrender | simplicity |
+| :-----: | :-------: | :--------: |
 
 <details>
   <summary>✨</summary>
