@@ -1,5 +1,5 @@
-| healing | surrender | simplicity |
-| :-----: | :-------: | :--------: |
+| openness | surrender | play |
+| :------: | :-------: | :--: |
 
 <details>
   <summary>✨</summary>
