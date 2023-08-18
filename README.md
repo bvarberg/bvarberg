@@ -1,5 +1,5 @@
-| openness | surrender | play |
-| :------: | :-------: | :--: |
+| purpose | communication | trust |
+| :-----: | :-----------: | :---: |
 
 <details>
   <summary>✨</summary>
