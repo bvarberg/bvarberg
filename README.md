@@ -1,5 +1,5 @@
-| purpose | communication | trust |
-| :-----: | :-----------: | :---: |
+| openness | willingness | simplicity |
+| :------: | :---------: | :--------: |
 
 <details>
   <summary>✨</summary>
