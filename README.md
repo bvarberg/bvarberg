@@ -1,5 +1,5 @@
-| openness | willingness | simplicity |
-| :------: | :---------: | :--------: |
+| harmony | synthesis | healing |
+| :-----: | :-------: | :-----: |
 
 <details>
   <summary>✨</summary>
