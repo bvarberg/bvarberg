@@ -1,5 +1,5 @@
-| harmony | synthesis | healing |
-| :-----: | :-------: | :-----: |
+| communication | clarity | abundance |
+| :-----------: | :-----: | :-------: |
 
 <details>
   <summary>✨</summary>
