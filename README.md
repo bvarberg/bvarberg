@@ -1,5 +1,5 @@
-| communication | clarity | abundance |
-| :-----------: | :-----: | :-------: |
+| delight | understanding | clarity |
+| :-----: | :-----------: | :-----: |
 
 <details>
   <summary>✨</summary>
