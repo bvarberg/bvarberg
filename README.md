@@ -1,5 +1,5 @@
-| delight | understanding | clarity |
-| :-----: | :-----------: | :-----: |
+| communication | strength | peace |
+| :-----------: | :------: | :---: |
 
 <details>
   <summary>✨</summary>
