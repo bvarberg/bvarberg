@@ -1,5 +1,5 @@
-| communication | strength | peace |
-| :-----------: | :------: | :---: |
+| adventure | expectancy | clarity |
+| :-------: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
