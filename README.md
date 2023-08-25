@@ -1,5 +1,5 @@
-| adventure | expectancy | clarity |
-| :-------: | :--------: | :-----: |
+| purpose | honesty | peace |
+| :-----: | :-----: | :---: |
 
 <details>
   <summary>✨</summary>
