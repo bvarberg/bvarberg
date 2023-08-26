@@ -1,5 +1,5 @@
-| purpose | honesty | peace |
-| :-----: | :-----: | :---: |
+| tenderness | openness | depth |
+| :--------: | :------: | :---: |
 
 <details>
   <summary>✨</summary>
