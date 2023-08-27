@@ -1,5 +1,5 @@
-| tenderness | openness | depth |
-| :--------: | :------: | :---: |
+| synthesis | depth | spontaneity |
+| :-------: | :---: | :---------: |
 
 <details>
   <summary>✨</summary>
