@@ -1,5 +1,5 @@
-| synthesis | depth | spontaneity |
-| :-------: | :---: | :---------: |
+| efficiency | expectancy | excellence |
+| :--------: | :--------: | :--------: |
 
 <details>
   <summary>✨</summary>
