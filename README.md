@@ -1,5 +1,5 @@
-| efficiency | expectancy | excellence |
-| :--------: | :--------: | :--------: |
+| play | light | courage |
+| :--: | :---: | :-----: |
 
 <details>
   <summary>✨</summary>
