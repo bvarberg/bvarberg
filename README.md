@@ -1,5 +1,5 @@
-| play | light | courage |
-| :--: | :---: | :-----: |
+| clarity | abundance | peace |
+| :-----: | :-------: | :---: |
 
 <details>
   <summary>✨</summary>
