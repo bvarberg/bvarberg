@@ -1,5 +1,5 @@
-| clarity | abundance | peace |
-| :-----: | :-------: | :---: |
+| renewal | clarity | truth |
+| :-----: | :-----: | :---: |
 
 <details>
   <summary>✨</summary>
