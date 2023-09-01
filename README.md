@@ -1,5 +1,5 @@
-| renewal | clarity | truth |
-| :-----: | :-----: | :---: |
+| purpose | surrender | truth |
+| :-----: | :-------: | :---: |
 
 <details>
   <summary>✨</summary>
