@@ -1,5 +1,5 @@
-| purpose | surrender | truth |
-| :-----: | :-------: | :---: |
+| excellence | healing | understanding |
+| :--------: | :-----: | :-----------: |
 
 <details>
   <summary>✨</summary>
