@@ -1,5 +1,5 @@
-| excellence | healing | understanding |
-| :--------: | :-----: | :-----------: |
+| education | depth | courage |
+| :-------: | :---: | :-----: |
 
 <details>
   <summary>✨</summary>
