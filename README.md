@@ -1,5 +1,5 @@
-| education | depth | courage |
-| :-------: | :---: | :-----: |
+| abundance | gratitude | depth |
+| :-------: | :-------: | :---: |
 
 <details>
   <summary>✨</summary>
