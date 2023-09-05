@@ -1,5 +1,5 @@
-| abundance | gratitude | depth |
-| :-------: | :-------: | :---: |
+| willingness | strength | enthusiasm |
+| :---------: | :------: | :--------: |
 
 <details>
   <summary>✨</summary>
