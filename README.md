@@ -1,5 +1,5 @@
-| willingness | strength | enthusiasm |
-| :---------: | :------: | :--------: |
+| understanding | balance | humor |
+| :-----------: | :-----: | :---: |
 
 <details>
   <summary>✨</summary>
