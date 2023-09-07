@@ -1,5 +1,5 @@
-| understanding | balance | humor |
-| :-----------: | :-----: | :---: |
+| purpose | surrender | gratitude |
+| :-----: | :-------: | :-------: |
 
 <details>
   <summary>✨</summary>
