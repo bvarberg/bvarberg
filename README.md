@@ -1,5 +1,5 @@
-| purpose | surrender | gratitude |
-| :-----: | :-------: | :-------: |
+| beauty | enough | peace |
+| :----: | :----: | :---: |
 
 <details>
   <summary>✨</summary>
