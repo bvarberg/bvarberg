@@ -1,5 +1,5 @@
-| beauty | enough | peace |
-| :----: | :----: | :---: |
+| enthusiasm | gratitude | joy |
+| :--------: | :-------: | :-: |
 
 <details>
   <summary>✨</summary>
