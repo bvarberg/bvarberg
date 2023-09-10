@@ -1,5 +1,5 @@
-| enthusiasm | gratitude | joy |
-| :--------: | :-------: | :-: |
+| abundance | delight | simplicity |
+| :-------: | :-----: | :--------: |
 
 <details>
   <summary>✨</summary>
