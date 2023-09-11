@@ -1,5 +1,5 @@
-| abundance | delight | simplicity |
-| :-------: | :-----: | :--------: |
+| renewal | understanding | purification |
+| :-----: | :-----------: | :----------: |
 
 <details>
   <summary>✨</summary>
