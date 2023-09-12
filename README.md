@@ -1,5 +1,5 @@
-| renewal | understanding | purification |
-| :-----: | :-----------: | :----------: |
+| truth | understanding | humor |
+| :---: | :-----------: | :---: |
 
 <details>
   <summary>✨</summary>
