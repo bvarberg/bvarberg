@@ -1,5 +1,5 @@
-| truth | understanding | humor |
-| :---: | :-----------: | :---: |
+| grace | renewal | openness |
+| :---: | :-----: | :------: |
 
 <details>
   <summary>✨</summary>
