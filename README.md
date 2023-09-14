@@ -1,5 +1,5 @@
-| grace | renewal | openness |
-| :---: | :-----: | :------: |
+| flexibility | integrity | renewal |
+| :---------: | :-------: | :-----: |
 
 <details>
   <summary>✨</summary>
