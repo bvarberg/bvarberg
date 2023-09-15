@@ -1,5 +1,5 @@
-| flexibility | integrity | renewal |
-| :---------: | :-------: | :-----: |
+| balance | delight | truth |
+| :-----: | :-----: | :---: |
 
 <details>
   <summary>✨</summary>
