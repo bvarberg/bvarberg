@@ -1,5 +1,5 @@
-| balance | delight | truth |
-| :-----: | :-----: | :---: |
+| beauty | surrender | power |
+| :----: | :-------: | :---: |
 
 <details>
   <summary>✨</summary>
