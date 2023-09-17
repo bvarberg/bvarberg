@@ -1,5 +1,5 @@
-| beauty | surrender | power |
-| :----: | :-------: | :---: |
+| willingness | truth | courage |
+| :---------: | :---: | :-----: |
 
 <details>
   <summary>✨</summary>
