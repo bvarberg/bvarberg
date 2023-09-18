@@ -1,5 +1,5 @@
-| willingness | truth | courage |
-| :---------: | :---: | :-----: |
+| peace | patience | synthesis |
+| :---: | :------: | :-------: |
 
 <details>
   <summary>✨</summary>
