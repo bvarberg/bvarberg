@@ -1,5 +1,5 @@
-| peace | patience | synthesis |
-| :---: | :------: | :-------: |
+| surrender | beauty | education |
+| :-------: | :----: | :-------: |
 
 <details>
   <summary>✨</summary>
