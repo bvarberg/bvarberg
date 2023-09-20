@@ -1,5 +1,5 @@
-| surrender | beauty | education |
-| :-------: | :----: | :-------: |
+| healing | freedom | purification |
+| :-----: | :-----: | :----------: |
 
 <details>
   <summary>✨</summary>
