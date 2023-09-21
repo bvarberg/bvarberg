@@ -1,5 +1,5 @@
-| healing | freedom | purification |
-| :-----: | :-----: | :----------: |
+| peace | responsibility | light |
+| :---: | :------------: | :---: |
 
 <details>
   <summary>✨</summary>
