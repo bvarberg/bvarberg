@@ -1,5 +1,5 @@
-| peace | responsibility | light |
-| :---: | :------------: | :---: |
+| communication | inspiration | depth |
+| :-----------: | :---------: | :---: |
 
 <details>
   <summary>✨</summary>
