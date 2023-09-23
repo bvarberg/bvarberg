@@ -1,5 +1,5 @@
-| communication | inspiration | depth |
-| :-----------: | :---------: | :---: |
+| purpose | gratitude | light |
+| :-----: | :-------: | :---: |
 
 <details>
   <summary>✨</summary>
