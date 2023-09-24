@@ -1,5 +1,5 @@
-| purpose | gratitude | light |
-| :-----: | :-------: | :---: |
+| trust | willingness | delight |
+| :---: | :---------: | :-----: |
 
 <details>
   <summary>✨</summary>
