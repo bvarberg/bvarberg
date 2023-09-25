@@ -1,5 +1,5 @@
-| trust | willingness | delight |
-| :---: | :---------: | :-----: |
+| renewal | joy | light |
+| :-----: | :-: | :---: |
 
 <details>
   <summary>✨</summary>
