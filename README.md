@@ -1,5 +1,5 @@
-| renewal | joy | light |
-| :-----: | :-: | :---: |
+| willingness | honesty | healing |
+| :---------: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
