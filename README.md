@@ -1,5 +1,5 @@
-| willingness | honesty | healing |
-| :---------: | :-----: | :-----: |
+| courage | freedom | flexibility |
+| :-----: | :-----: | :---------: |
 
 <details>
   <summary>✨</summary>
