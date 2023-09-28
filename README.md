@@ -1,5 +1,5 @@
-| courage | freedom | flexibility |
-| :-----: | :-----: | :---------: |
+| enthusiasm | excellence | renewal |
+| :--------: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
