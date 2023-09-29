@@ -1,5 +1,5 @@
-| enthusiasm | excellence | renewal |
-| :--------: | :--------: | :-----: |
+| love | communication | truth |
+| :--: | :-----------: | :---: |
 
 <details>
   <summary>✨</summary>
