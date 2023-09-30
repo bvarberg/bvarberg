@@ -1,5 +1,5 @@
-| love | communication | truth |
-| :--: | :-----------: | :---: |
+| enthusiasm | abundance | honesty |
+| :--------: | :-------: | :-----: |
 
 <details>
   <summary>✨</summary>
