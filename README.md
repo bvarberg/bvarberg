@@ -1,5 +1,5 @@
-| enthusiasm | abundance | honesty |
-| :--------: | :-------: | :-----: |
+| humor | gratitude | abundance |
+| :---: | :-------: | :-------: |
 
 <details>
   <summary>✨</summary>
