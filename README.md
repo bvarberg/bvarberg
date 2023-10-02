@@ -1,5 +1,5 @@
-| humor | gratitude | abundance |
-| :---: | :-------: | :-------: |
+| truth | grace | humor |
+| :---: | :---: | :---: |
 
 <details>
   <summary>✨</summary>
