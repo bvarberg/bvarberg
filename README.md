@@ -1,5 +1,5 @@
-| truth | grace | humor |
-| :---: | :---: | :---: |
+| purpose | light | grace |
+| :-----: | :---: | :---: |
 
 <details>
   <summary>✨</summary>
