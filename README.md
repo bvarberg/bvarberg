@@ -1,5 +1,5 @@
-| purpose | light | grace |
-| :-----: | :---: | :---: |
+| simplicity | purpose | adventure |
+| :--------: | :-----: | :-------: |
 
 <details>
   <summary>✨</summary>
