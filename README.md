@@ -1,5 +1,5 @@
-| simplicity | purpose | adventure |
-| :--------: | :-----: | :-------: |
+| honesty | peace | spontaneity |
+| :-----: | :---: | :---------: |
 
 <details>
   <summary>✨</summary>
