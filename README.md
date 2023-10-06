@@ -1,5 +1,5 @@
-| honesty | peace | spontaneity |
-| :-----: | :---: | :---------: |
+| forgiveness | education | truth |
+| :---------: | :-------: | :---: |
 
 <details>
   <summary>✨</summary>
