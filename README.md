@@ -1,5 +1,5 @@
-| forgiveness | education | truth |
-| :---------: | :-------: | :---: |
+| tenderness | simplicity | depth |
+| :--------: | :--------: | :---: |
 
 <details>
   <summary>✨</summary>
