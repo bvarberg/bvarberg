@@ -1,5 +1,5 @@
-| tenderness | simplicity | depth |
-| :--------: | :--------: | :---: |
+| expectancy | efficiency | enthusiasm |
+| :--------: | :--------: | :--------: |
 
 <details>
   <summary>✨</summary>
