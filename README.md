@@ -1,5 +1,5 @@
-| expectancy | efficiency | enthusiasm |
-| :--------: | :--------: | :--------: |
+| purpose | simplicity | courage |
+| :-----: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
