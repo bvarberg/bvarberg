@@ -1,5 +1,5 @@
-| purpose | simplicity | courage |
-| :-----: | :--------: | :-----: |
+| freedom | compassion | tenderness |
+| :-----: | :--------: | :--------: |
 
 <details>
   <summary>✨</summary>
