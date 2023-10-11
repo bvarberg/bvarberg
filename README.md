@@ -1,5 +1,5 @@
-| freedom | compassion | tenderness |
-| :-----: | :--------: | :--------: |
+| forgiveness | patience | excellence |
+| :---------: | :------: | :--------: |
 
 <details>
   <summary>✨</summary>
