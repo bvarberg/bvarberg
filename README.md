@@ -1,5 +1,5 @@
-| forgiveness | patience | excellence |
-| :---------: | :------: | :--------: |
+| peace | creativity | synthesis |
+| :---: | :--------: | :-------: |
 
 <details>
   <summary>✨</summary>
