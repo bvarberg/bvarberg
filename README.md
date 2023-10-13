@@ -1,5 +1,5 @@
-| peace | creativity | synthesis |
-| :---: | :--------: | :-------: |
+| truth | openness | joy |
+| :---: | :------: | :-: |
 
 <details>
   <summary>✨</summary>
