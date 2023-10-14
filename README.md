@@ -1,5 +1,5 @@
-| truth | openness | joy |
-| :---: | :------: | :-: |
+| power | freedom | joy |
+| :---: | :-----: | :-: |
 
 <details>
   <summary>✨</summary>
