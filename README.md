@@ -1,5 +1,5 @@
-| power | freedom | joy |
-| :---: | :-----: | :-: |
+| freedom | excellence | patience |
+| :-----: | :--------: | :------: |
 
 <details>
   <summary>✨</summary>
