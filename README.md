@@ -1,5 +1,5 @@
-| release | gratitude | power |
-| :-----: | :-------: | :---: |
+| synthesis | responsibility | tenderness |
+| :-------: | :------------: | :--------: |
 
 <details>
   <summary>✨</summary>
