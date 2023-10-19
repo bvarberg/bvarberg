@@ -1,5 +1,5 @@
-| synthesis | responsibility | tenderness |
-| :-------: | :------------: | :--------: |
+| simplicity | purification | honesty |
+| :--------: | :----------: | :-----: |
 
 <details>
   <summary>✨</summary>
