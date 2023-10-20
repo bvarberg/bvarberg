@@ -1,5 +1,5 @@
-| simplicity | purification | honesty |
-| :--------: | :----------: | :-----: |
+| efficiency | excellence | gratitude |
+| :--------: | :--------: | :-------: |
 
 <details>
   <summary>✨</summary>
