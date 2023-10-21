@@ -1,5 +1,5 @@
-| efficiency | excellence | gratitude |
-| :--------: | :--------: | :-------: |
+| purpose | balance | courage |
+| :-----: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
