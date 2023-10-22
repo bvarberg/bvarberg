@@ -1,5 +1,5 @@
-| purpose | balance | courage |
-| :-----: | :-----: | :-----: |
+| honesty | healing | spontaneity |
+| :-----: | :-----: | :---------: |
 
 <details>
   <summary>✨</summary>
