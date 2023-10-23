@@ -1,5 +1,5 @@
-| honesty | healing | spontaneity |
-| :-----: | :-----: | :---------: |
+| depth | peace | renewal |
+| :---: | :---: | :-----: |
 
 <details>
   <summary>✨</summary>
