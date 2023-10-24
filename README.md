@@ -1,5 +1,5 @@
-| depth | peace | renewal |
-| :---: | :---: | :-----: |
+| trust | purification | purpose |
+| :---: | :----------: | :-----: |
 
 <details>
   <summary>✨</summary>
