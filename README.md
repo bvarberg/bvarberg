@@ -1,5 +1,5 @@
-| trust | purification | purpose |
-| :---: | :----------: | :-----: |
+| humor | forgiveness | patience |
+| :---: | :---------: | :------: |
 
 <details>
   <summary>✨</summary>
