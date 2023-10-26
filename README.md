@@ -1,5 +1,5 @@
-| humor | forgiveness | patience |
-| :---: | :---------: | :------: |
+| balance | release | education |
+| :-----: | :-----: | :-------: |
 
 <details>
   <summary>✨</summary>
