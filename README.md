@@ -1,5 +1,5 @@
-| balance | release | education |
-| :-----: | :-----: | :-------: |
+| tenderness | expectancy | willingness |
+| :--------: | :--------: | :---------: |
 
 <details>
   <summary>✨</summary>
