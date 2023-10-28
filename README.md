@@ -1,5 +1,5 @@
-| tenderness | expectancy | willingness |
-| :--------: | :--------: | :---------: |
+| beauty | surrender | peace |
+| :----: | :-------: | :---: |
 
 <details>
   <summary>✨</summary>
