@@ -1,5 +1,5 @@
-| beauty | surrender | peace |
-| :----: | :-------: | :---: |
+| understanding | humor | power |
+| :-----------: | :---: | :---: |
 
 <details>
   <summary>✨</summary>
