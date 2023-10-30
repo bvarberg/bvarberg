@@ -1,5 +1,5 @@
-| understanding | humor | power |
-| :-----------: | :---: | :---: |
+| power | surrender | adventure |
+| :---: | :-------: | :-------: |
 
 <details>
   <summary>✨</summary>
