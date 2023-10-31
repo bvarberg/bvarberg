@@ -1,5 +1,5 @@
-| power | surrender | adventure |
-| :---: | :-------: | :-------: |
+| understanding | love | enthusiasm |
+| :-----------: | :--: | :--------: |
 
 <details>
   <summary>✨</summary>
