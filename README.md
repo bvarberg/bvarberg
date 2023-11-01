@@ -1,5 +1,5 @@
-| understanding | love | enthusiasm |
-| :-----------: | :--: | :--------: |
+| renewal | freedom | education |
+| :-----: | :-----: | :-------: |
 
 <details>
   <summary>✨</summary>
