@@ -1,5 +1,5 @@
-| renewal | freedom | education |
-| :-----: | :-----: | :-------: |
+| release | abundance | healing |
+| :-----: | :-------: | :-----: |
 
 <details>
   <summary>✨</summary>
