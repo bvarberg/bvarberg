@@ -1,5 +1,5 @@
-| healing | gratitude | enough |
-| :-----: | :-------: | :----: |
+| enough | release | strength |
+| :----: | :-----: | :------: |
 
 <details>
   <summary>✨</summary>
