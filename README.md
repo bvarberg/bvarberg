@@ -1,5 +1,5 @@
-| enough | release | strength |
-| :----: | :-----: | :------: |
+| depth | honesty | delight |
+| :---: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
