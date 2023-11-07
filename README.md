@@ -1,5 +1,5 @@
-| depth | love | spontaneity |
-| :---: | :--: | :---------: |
+| balance | release | courage |
+| :-----: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
