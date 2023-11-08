@@ -1,5 +1,5 @@
-| balance | release | courage |
-| :-----: | :-----: | :-----: |
+| creativity | openness | adventure |
+| :--------: | :------: | :-------: |
 
 <details>
   <summary>✨</summary>
