@@ -1,5 +1,5 @@
-| creativity | openness | adventure |
-| :--------: | :------: | :-------: |
+| trust | gratitude | harmony |
+| :---: | :-------: | :-----: |
 
 <details>
   <summary>✨</summary>
