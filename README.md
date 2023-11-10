@@ -1,5 +1,5 @@
-| trust | gratitude | harmony |
-| :---: | :-------: | :-----: |
+| adventure | understanding | efficiency |
+| :-------: | :-----------: | :--------: |
 
 <details>
   <summary>✨</summary>
