@@ -1,5 +1,5 @@
-| adventure | understanding | efficiency |
-| :-------: | :-----------: | :--------: |
+| inspiration | abundance | adventure |
+| :---------: | :-------: | :-------: |
 
 <details>
   <summary>✨</summary>
