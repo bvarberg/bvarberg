@@ -1,5 +1,5 @@
-| inspiration | abundance | adventure |
-| :---------: | :-------: | :-------: |
+| clarity | power | courage |
+| :-----: | :---: | :-----: |
 
 <details>
   <summary>✨</summary>
