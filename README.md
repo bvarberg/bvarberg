@@ -1,5 +1,5 @@
-| clarity | power | courage |
-| :-----: | :---: | :-----: |
+| power | gratitude | purification |
+| :---: | :-------: | :----------: |
 
 <details>
   <summary>✨</summary>
