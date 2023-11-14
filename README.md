@@ -1,5 +1,5 @@
-| power | gratitude | purification |
-| :---: | :-------: | :----------: |
+| play | spontaneity | harmony |
+| :--: | :---------: | :-----: |
 
 <details>
   <summary>✨</summary>
