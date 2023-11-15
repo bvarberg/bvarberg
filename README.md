@@ -1,5 +1,5 @@
-| play | spontaneity | harmony |
-| :--: | :---------: | :-----: |
+| purpose | education | grace |
+| :-----: | :-------: | :---: |
 
 <details>
   <summary>✨</summary>
