@@ -1,5 +1,5 @@
-| purpose | education | grace |
-| :-----: | :-------: | :---: |
+| surrender | humor | honesty |
+| :-------: | :---: | :-----: |
 
 <details>
   <summary>✨</summary>
