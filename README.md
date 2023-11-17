@@ -1,5 +1,5 @@
-| surrender | humor | honesty |
-| :-------: | :---: | :-----: |
+| balance | honesty | release |
+| :-----: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
