@@ -1,5 +1,5 @@
-| balance | honesty | release |
-| :-----: | :-----: | :-----: |
+| flexibility | light | depth |
+| :---------: | :---: | :---: |
 
 <details>
   <summary>✨</summary>
