@@ -1,5 +1,5 @@
-| flexibility | light | depth |
-| :---------: | :---: | :---: |
+| play | integrity | spontaneity |
+| :--: | :-------: | :---------: |
 
 <details>
   <summary>✨</summary>
