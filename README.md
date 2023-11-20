@@ -1,5 +1,5 @@
-| play | integrity | spontaneity |
-| :--: | :-------: | :---------: |
+| expectancy | release | freedom |
+| :--------: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
