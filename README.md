@@ -1,5 +1,5 @@
-| expectancy | release | freedom |
-| :--------: | :-----: | :-----: |
+| compassion | play | tenderness |
+| :--------: | :--: | :--------: |
 
 <details>
   <summary>✨</summary>
