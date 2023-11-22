@@ -1,5 +1,5 @@
-| compassion | play | tenderness |
-| :--------: | :--: | :--------: |
+| harmony | simplicity | peace |
+| :-----: | :--------: | :---: |
 
 <details>
   <summary>✨</summary>
