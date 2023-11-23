@@ -1,5 +1,5 @@
-| harmony | simplicity | peace |
-| :-----: | :--------: | :---: |
+| play | strength | gratitude |
+| :--: | :------: | :-------: |
 
 <details>
   <summary>✨</summary>
