@@ -1,5 +1,5 @@
-| play | strength | gratitude |
-| :--: | :------: | :-------: |
+| grace | efficiency | love |
+| :---: | :--------: | :--: |
 
 <details>
   <summary>✨</summary>
