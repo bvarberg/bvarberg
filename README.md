@@ -1,5 +1,5 @@
-| grace | efficiency | love |
-| :---: | :--------: | :--: |
+| surrender | education | peace |
+| :-------: | :-------: | :---: |
 
 <details>
   <summary>✨</summary>
