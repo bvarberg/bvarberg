@@ -1,5 +1,5 @@
-| surrender | education | peace |
-| :-------: | :-------: | :---: |
+| healing | spontaneity | play |
+| :-----: | :---------: | :--: |
 
 <details>
   <summary>✨</summary>
