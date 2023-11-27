@@ -1,5 +1,5 @@
-| healing | spontaneity | play |
-| :-----: | :---------: | :--: |
+| efficiency | education | openness |
+| :--------: | :-------: | :------: |
 
 <details>
   <summary>✨</summary>
