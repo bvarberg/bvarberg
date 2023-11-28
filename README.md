@@ -1,5 +1,5 @@
-| efficiency | education | openness |
-| :--------: | :-------: | :------: |
+| spontaneity | compassion | simplicity |
+| :---------: | :--------: | :--------: |
 
 <details>
   <summary>✨</summary>
