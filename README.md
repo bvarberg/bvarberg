@@ -1,5 +1,5 @@
-| spontaneity | compassion | simplicity |
-| :---------: | :--------: | :--------: |
+| depth | peace | tenderness |
+| :---: | :---: | :--------: |
 
 <details>
   <summary>✨</summary>
