@@ -1,5 +1,5 @@
-| depth | peace | tenderness |
-| :---: | :---: | :--------: |
+| inspiration | trust | strength |
+| :---------: | :---: | :------: |
 
 <details>
   <summary>✨</summary>
