@@ -1,5 +1,5 @@
-| inspiration | trust | strength |
-| :---------: | :---: | :------: |
+| integrity | enthusiasm | balance |
+| :-------: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
