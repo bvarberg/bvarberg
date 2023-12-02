@@ -1,5 +1,5 @@
-| integrity | enthusiasm | balance |
-| :-------: | :--------: | :-----: |
+| expectancy | openness | willingness |
+| :--------: | :------: | :---------: |
 
 <details>
   <summary>✨</summary>
