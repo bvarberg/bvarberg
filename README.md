@@ -1,5 +1,5 @@
-| expectancy | openness | willingness |
-| :--------: | :------: | :---------: |
+| efficiency | release | depth |
+| :--------: | :-----: | :---: |
 
 <details>
   <summary>✨</summary>
