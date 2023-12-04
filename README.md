@@ -1,5 +1,5 @@
-| efficiency | release | depth |
-| :--------: | :-----: | :---: |
+| spontaneity | enough | clarity |
+| :---------: | :----: | :-----: |
 
 <details>
   <summary>✨</summary>
