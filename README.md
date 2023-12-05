@@ -1,5 +1,5 @@
-| spontaneity | enough | clarity |
-| :---------: | :----: | :-----: |
+| expectancy | play | spontaneity |
+| :--------: | :--: | :---------: |
 
 <details>
   <summary>✨</summary>
