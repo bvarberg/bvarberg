@@ -1,5 +1,5 @@
-| expectancy | play | spontaneity |
-| :--------: | :--: | :---------: |
+| enough | freedom | expectancy |
+| :----: | :-----: | :--------: |
 
 <details>
   <summary>✨</summary>
