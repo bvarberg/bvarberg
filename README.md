@@ -1,5 +1,5 @@
-| enough | freedom | expectancy |
-| :----: | :-----: | :--------: |
+| beauty | efficiency | joy |
+| :----: | :--------: | :-: |
 
 <details>
   <summary>✨</summary>
