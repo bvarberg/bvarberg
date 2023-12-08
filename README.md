@@ -1,5 +1,5 @@
-| beauty | efficiency | joy |
-| :----: | :--------: | :-: |
+| purification | beauty | depth |
+| :----------: | :----: | :---: |
 
 <details>
   <summary>✨</summary>
