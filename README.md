@@ -1,5 +1,5 @@
-| purification | beauty | depth |
-| :----------: | :----: | :---: |
+| patience | enough | play |
+| :------: | :----: | :--: |
 
 <details>
   <summary>✨</summary>
