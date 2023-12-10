@@ -1,5 +1,5 @@
-| patience | enough | play |
-| :------: | :----: | :--: |
+| healing | depth | tenderness |
+| :-----: | :---: | :--------: |
 
 <details>
   <summary>✨</summary>
