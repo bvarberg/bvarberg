@@ -1,5 +1,5 @@
-| healing | depth | tenderness |
-| :-----: | :---: | :--------: |
+| adventure | power | gratitude |
+| :-------: | :---: | :-------: |
 
 <details>
   <summary>✨</summary>
