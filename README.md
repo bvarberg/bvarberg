@@ -1,5 +1,5 @@
-| adventure | power | gratitude |
-| :-------: | :---: | :-------: |
+| expectancy | freedom | strength |
+| :--------: | :-----: | :------: |
 
 <details>
   <summary>✨</summary>
