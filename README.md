@@ -1,5 +1,5 @@
-| expectancy | freedom | strength |
-| :--------: | :-----: | :------: |
+| clarity | communication | grace |
+| :-----: | :-----------: | :---: |
 
 <details>
   <summary>✨</summary>
