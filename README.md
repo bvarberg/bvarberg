@@ -1,5 +1,5 @@
-| clarity | communication | grace |
-| :-----: | :-----------: | :---: |
+| courage | joy | balance |
+| :-----: | :-: | :-----: |
 
 <details>
   <summary>✨</summary>
