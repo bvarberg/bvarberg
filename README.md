@@ -1,5 +1,5 @@
-| tenderness | efficiency | delight |
-| :--------: | :--------: | :-----: |
+| courage | love | peace |
+| :-----: | :--: | :---: |
 
 <details>
   <summary>✨</summary>
