@@ -1,5 +1,5 @@
-| courage | love | peace |
-| :-----: | :--: | :---: |
+| expectancy | grace | purpose |
+| :--------: | :---: | :-----: |
 
 <details>
   <summary>✨</summary>
