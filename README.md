@@ -1,5 +1,5 @@
-| expectancy | grace | purpose |
-| :--------: | :---: | :-----: |
+| inspiration | adventure | purification |
+| :---------: | :-------: | :----------: |
 
 <details>
   <summary>✨</summary>
