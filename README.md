@@ -1,5 +1,5 @@
-| inspiration | adventure | purification |
-| :---------: | :-------: | :----------: |
+| courage | honesty | freedom |
+| :-----: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
