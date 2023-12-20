@@ -1,5 +1,5 @@
-| courage | honesty | freedom |
-| :-----: | :-----: | :-----: |
+| enthusiasm | efficiency | openness |
+| :--------: | :--------: | :------: |
 
 <details>
   <summary>✨</summary>
