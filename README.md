@@ -1,5 +1,5 @@
-| enthusiasm | efficiency | openness |
-| :--------: | :--------: | :------: |
+| compassion | strength | efficiency |
+| :--------: | :------: | :--------: |
 
 <details>
   <summary>✨</summary>
