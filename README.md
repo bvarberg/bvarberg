@@ -1,5 +1,5 @@
-| compassion | strength | efficiency |
-| :--------: | :------: | :--------: |
+| beauty | grace | compassion |
+| :----: | :---: | :--------: |
 
 <details>
   <summary>✨</summary>
