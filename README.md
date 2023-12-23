@@ -1,5 +1,5 @@
-| beauty | grace | compassion |
-| :----: | :---: | :--------: |
+| light | love | surrender |
+| :---: | :--: | :-------: |
 
 <details>
   <summary>✨</summary>
