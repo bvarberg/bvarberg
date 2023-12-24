@@ -1,5 +1,5 @@
-| light | love | surrender |
-| :---: | :--: | :-------: |
+| tenderness | honesty | spontaneity |
+| :--------: | :-----: | :---------: |
 
 <details>
   <summary>✨</summary>
