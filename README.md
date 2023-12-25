@@ -1,5 +1,5 @@
-| tenderness | honesty | spontaneity |
-| :--------: | :-----: | :---------: |
+| patience | healing | grace |
+| :------: | :-----: | :---: |
 
 <details>
   <summary>✨</summary>
