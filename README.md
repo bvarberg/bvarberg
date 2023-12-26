@@ -1,5 +1,5 @@
-| patience | healing | grace |
-| :------: | :-----: | :---: |
+| balance | clarity | compassion |
+| :-----: | :-----: | :--------: |
 
 <details>
   <summary>✨</summary>
