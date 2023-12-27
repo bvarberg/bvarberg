@@ -1,5 +1,5 @@
-| balance | clarity | compassion |
-| :-----: | :-----: | :--------: |
+| freedom | gratitude | responsibility |
+| :-----: | :-------: | :------------: |
 
 <details>
   <summary>✨</summary>
