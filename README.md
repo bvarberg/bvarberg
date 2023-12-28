@@ -1,5 +1,5 @@
-| freedom | gratitude | responsibility |
-| :-----: | :-------: | :------------: |
+| communication | forgiveness | honesty |
+| :-----------: | :---------: | :-----: |
 
 <details>
   <summary>✨</summary>
