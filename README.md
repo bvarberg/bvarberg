@@ -1,5 +1,5 @@
-| communication | forgiveness | honesty |
-| :-----------: | :---------: | :-----: |
+| integrity | harmony | purification |
+| :-------: | :-----: | :----------: |
 
 <details>
   <summary>✨</summary>
