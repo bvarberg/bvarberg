@@ -1,5 +1,5 @@
-| integrity | harmony | purification |
-| :-------: | :-----: | :----------: |
+| efficiency | power | light |
+| :--------: | :---: | :---: |
 
 <details>
   <summary>✨</summary>
