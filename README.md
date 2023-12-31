@@ -1,5 +1,5 @@
-| efficiency | power | light |
-| :--------: | :---: | :---: |
+| forgiveness | synthesis | renewal |
+| :---------: | :-------: | :-----: |
 
 <details>
   <summary>✨</summary>
