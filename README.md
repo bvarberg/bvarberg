@@ -1,5 +1,5 @@
-| forgiveness | synthesis | renewal |
-| :---------: | :-------: | :-----: |
+| simplicity | courage | release |
+| :--------: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
