@@ -1,5 +1,5 @@
-| simplicity | courage | release |
-| :--------: | :-----: | :-----: |
+| harmony | inspiration | abundance |
+| :-----: | :---------: | :-------: |
 
 <details>
   <summary>✨</summary>
