@@ -1,5 +1,5 @@
-| harmony | inspiration | abundance |
-| :-----: | :---------: | :-------: |
+| integrity | depth | synthesis |
+| :-------: | :---: | :-------: |
 
 <details>
   <summary>✨</summary>
