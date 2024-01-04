@@ -1,5 +1,5 @@
-| integrity | depth | synthesis |
-| :-------: | :---: | :-------: |
+| responsibility | enthusiasm | adventure |
+| :------------: | :--------: | :-------: |
 
 <details>
   <summary>✨</summary>
