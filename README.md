@@ -1,5 +1,5 @@
-| responsibility | enthusiasm | adventure |
-| :------------: | :--------: | :-------: |
+| joy | honesty | synthesis |
+| :-: | :-----: | :-------: |
 
 <details>
   <summary>✨</summary>
