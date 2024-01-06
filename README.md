@@ -1,5 +1,5 @@
-| joy | honesty | synthesis |
-| :-: | :-----: | :-------: |
+| willingness | delight | purification |
+| :---------: | :-----: | :----------: |
 
 <details>
   <summary>✨</summary>
