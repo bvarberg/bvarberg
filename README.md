@@ -1,5 +1,5 @@
-| willingness | delight | purification |
-| :---------: | :-----: | :----------: |
+| spontaneity | integrity | patience |
+| :---------: | :-------: | :------: |
 
 <details>
   <summary>✨</summary>
