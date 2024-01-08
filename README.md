@@ -1,5 +1,5 @@
-| spontaneity | integrity | patience |
-| :---------: | :-------: | :------: |
+| spontaneity | purpose | patience |
+| :---------: | :-----: | :------: |
 
 <details>
   <summary>✨</summary>
