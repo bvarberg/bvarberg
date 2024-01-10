@@ -1,5 +1,5 @@
-| spontaneity | purpose | patience |
-| :---------: | :-----: | :------: |
+| gratitude | enough | surrender |
+| :-------: | :----: | :-------: |
 
 <details>
   <summary>✨</summary>
