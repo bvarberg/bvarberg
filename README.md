@@ -1,5 +1,5 @@
-| gratitude | enough | surrender |
-| :-------: | :----: | :-------: |
+| truth | enough | responsibility |
+| :---: | :----: | :------------: |
 
 <details>
   <summary>✨</summary>
