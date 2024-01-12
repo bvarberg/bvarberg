@@ -1,5 +1,5 @@
-| truth | enough | responsibility |
-| :---: | :----: | :------------: |
+| balance | creativity | humor |
+| :-----: | :--------: | :---: |
 
 <details>
   <summary>✨</summary>
