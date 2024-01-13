@@ -1,5 +1,5 @@
-| balance | creativity | humor |
-| :-----: | :--------: | :---: |
+| synthesis | purification | abundance |
+| :-------: | :----------: | :-------: |
 
 <details>
   <summary>✨</summary>
