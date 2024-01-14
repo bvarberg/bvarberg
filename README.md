@@ -1,5 +1,5 @@
-| synthesis | purification | abundance |
-| :-------: | :----------: | :-------: |
+| patience | freedom | harmony |
+| :------: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
