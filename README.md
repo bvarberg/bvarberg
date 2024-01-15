@@ -1,5 +1,5 @@
-| patience | freedom | harmony |
-| :------: | :-----: | :-----: |
+| enough | joy | surrender |
+| :----: | :-: | :-------: |
 
 <details>
   <summary>✨</summary>
