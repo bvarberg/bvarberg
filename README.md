@@ -1,5 +1,5 @@
-| enough | joy | surrender |
-| :----: | :-: | :-------: |
+| release | efficiency | communication |
+| :-----: | :--------: | :-----------: |
 
 <details>
   <summary>✨</summary>
