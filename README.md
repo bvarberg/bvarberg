@@ -1,5 +1,5 @@
-| release | efficiency | communication |
-| :-----: | :--------: | :-----------: |
+| harmony | healing | renewal |
+| :-----: | :-----: | :-----: |
 
 <details>
   <summary>✨</summary>
