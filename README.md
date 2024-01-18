@@ -1,5 +1,5 @@
-| harmony | healing | renewal |
-| :-----: | :-----: | :-----: |
+| patience | creativity | clarity |
+| :------: | :--------: | :-----: |
 
 <details>
   <summary>✨</summary>
