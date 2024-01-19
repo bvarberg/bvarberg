@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| responsibility | patience | purification |
-| :------------: | :------: | :----------: |
+| love | patience | healing |
+| :--: | :------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
