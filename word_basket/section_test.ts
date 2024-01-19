@@ -1,30 +1,44 @@
 import { assertEquals } from "https://deno.land/std@0.159.0/testing/asserts.ts";
 
-// Deno.test("clearSection empties a tagged section", () => {
-//   const before = `
-// Keep what's here.
+function clearSection(document: string, section: string) {
+  if (!hasSection(document, section)) {
+    throw new Error(`no section with tag "${section}" found in the document`)
+  }
 
-// <!-- section start -->
-// Remove this
-// <!-- section end -->
+  const startComment = toMarkerComment(section, "start")
+  const endComment = toMarkerComment(section, "end")
 
-// Leave this alone.
-//   `.trim();
+  const contentStartIndex = document.indexOf(startComment) + startComment.length
+  const contentEndIndex = document.indexOf(endComment) - 1
 
-//   const after  = `
-// Keep what's here.
+  return document.slice(0, contentStartIndex) + document.slice(contentEndIndex)
+}
 
-// <!-- section start -->
-// <!-- section end -->
+Deno.test("clearSection empties a tagged section", () => {
+  const before = `
+Keep what's here.
 
-// Leave this alone.
-//   `.trim();
+<!-- section start -->
+Remove this
+<!-- section end -->
+
+Leave this alone.
+  `.trim();
+
+  const after  = `
+Keep what's here.
+
+<!-- section start -->
+<!-- section end -->
+
+Leave this alone.
+  `.trim();
 
 
-//   const result = clearSection(before, "section");
+  const result = clearSection(before, "section");
 
-//   assertEquals(result, after);
-// });
+  assertEquals(result, after);
+});
 
 function toMarkerComment(tag: string, marker: string) {
   return `<!-- ${tag} ${marker} -->`;
