@@ -1,17 +1,60 @@
 import { assertEquals } from "https://deno.land/std@0.159.0/testing/asserts.ts";
 
-function clearSection(document: string, section: string) {
+function replaceSection(document: string, section: string, content: string) {
   if (!hasSection(document, section)) {
-    throw new Error(`no section with tag "${section}" found in the document`)
+    throw new Error(`no section with tag "${section}" found in the document`);
   }
 
-  const startComment = toMarkerComment(section, "start")
-  const endComment = toMarkerComment(section, "end")
+  const startComment = toMarkerComment(section, "start");
+  const endComment = toMarkerComment(section, "end");
 
-  const contentStartIndex = document.indexOf(startComment) + startComment.length
-  const contentEndIndex = document.indexOf(endComment) - 1
+  const contentStartIndex = document.indexOf(startComment) +
+    startComment.length;
+  const contentEndIndex = document.indexOf(endComment) - 1;
 
-  return document.slice(0, contentStartIndex) + document.slice(contentEndIndex)
+  return document.slice(0, contentStartIndex) + "\n" + content +
+    document.slice(contentEndIndex);
+}
+
+Deno.test("replaceSection replaces content in a tagged section", () => {
+  const before = `
+Keep what's here.
+
+<!-- section start -->
+Remove this
+<!-- section end -->
+
+Leave this alone.
+  `.trim();
+
+  const after = `
+Keep what's here.
+
+<!-- section start -->
+Replace with this content
+<!-- section end -->
+
+Leave this alone.
+  `.trim();
+
+  const result = replaceSection(before, "section", "Replace with this content");
+
+  assertEquals(result, after);
+});
+
+function clearSection(document: string, section: string) {
+  if (!hasSection(document, section)) {
+    throw new Error(`no section with tag "${section}" found in the document`);
+  }
+
+  const startComment = toMarkerComment(section, "start");
+  const endComment = toMarkerComment(section, "end");
+
+  const contentStartIndex = document.indexOf(startComment) +
+    startComment.length;
+  const contentEndIndex = document.indexOf(endComment) - 1;
+
+  return document.slice(0, contentStartIndex) + document.slice(contentEndIndex);
 }
 
 Deno.test("clearSection empties a tagged section", () => {
@@ -25,7 +68,7 @@ Remove this
 Leave this alone.
   `.trim();
 
-  const after  = `
+  const after = `
 Keep what's here.
 
 <!-- section start -->
@@ -33,7 +76,6 @@ Keep what's here.
 
 Leave this alone.
   `.trim();
-
 
   const result = clearSection(before, "section");
 
@@ -48,7 +90,7 @@ function hasSection(document: string, section: string): boolean {
   const startComment = toMarkerComment(section, "start");
   const endComment = toMarkerComment(section, "end");
 
-  return document.includes(startComment) && document.includes(endComment)
+  return document.includes(startComment) && document.includes(endComment);
 }
 
 Deno.test("hasSection is true if there's a matching start and end comment", () => {
