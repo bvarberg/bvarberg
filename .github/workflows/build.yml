@@ -3,7 +3,7 @@ name: Build
 on:
   push:
     tags:
-        - "v*.*.*"
+      - "v*.*.*"
 
 jobs:
   build:
@@ -11,16 +11,16 @@ jobs:
     permissions:
       contents: write
     steps:
-    - name: Check out repo
-      uses: actions/checkout@v2
-    - name: Set up Deno
-      uses: denoland/setup-deno@v1
-      with:
-        deno-version: v1.x
-    - name: Compile to executable
-      run: |-
-        deno task compile
-    - name: Create release in GitHub
-      uses: softprops/action-gh-release@v1
-      with:
-        files: bin/word_basket
+      - name: Check out repo
+        uses: actions/checkout@v4
+      - name: Set up Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+      - name: Compile to executable
+        run: |-
+          deno task compile
+      - name: Create release in GitHub
+        uses: softprops/action-gh-release@v1
+        with:
+          files: bin/word_basket
