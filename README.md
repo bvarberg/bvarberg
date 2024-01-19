@@ -1,9 +1,9 @@
 <!-- word_basket start -->
-| patience | creativity | clarity |
-| :------: | :--------: | :-----: |
+| responsibility | patience | purification |
+| :------------: | :------: | :----------: |
 
 <details>
-  <summary>✨</summary>
-  These words are chosen at random each day. New words will appear here tomorrow morning.
+  <summary>These words are chosen at random each day. ✨</summary>
+  Take a look inside this repo to see how that works.
 </details>
 <!-- word_basket end -->
