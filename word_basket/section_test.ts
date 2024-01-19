@@ -1,20 +1,5 @@
 import { assertEquals } from "https://deno.land/std@0.159.0/testing/asserts.ts";
-
-function replaceSection(document: string, section: string, content: string) {
-  if (!hasSection(document, section)) {
-    throw new Error(`no section with tag "${section}" found in the document`);
-  }
-
-  const startComment = toMarkerComment(section, "start");
-  const endComment = toMarkerComment(section, "end");
-
-  const contentStartIndex = document.indexOf(startComment) +
-    startComment.length;
-  const contentEndIndex = document.indexOf(endComment) - 1;
-
-  return document.slice(0, contentStartIndex) + "\n" + content +
-    document.slice(contentEndIndex);
-}
+import { clearSection, hasSection, replaceSection } from "./section.ts";
 
 Deno.test("replaceSection replaces content in a tagged section", () => {
   const before = `
@@ -42,21 +27,6 @@ Leave this alone.
   assertEquals(result, after);
 });
 
-function clearSection(document: string, section: string) {
-  if (!hasSection(document, section)) {
-    throw new Error(`no section with tag "${section}" found in the document`);
-  }
-
-  const startComment = toMarkerComment(section, "start");
-  const endComment = toMarkerComment(section, "end");
-
-  const contentStartIndex = document.indexOf(startComment) +
-    startComment.length;
-  const contentEndIndex = document.indexOf(endComment) - 1;
-
-  return document.slice(0, contentStartIndex) + document.slice(contentEndIndex);
-}
-
 Deno.test("clearSection empties a tagged section", () => {
   const before = `
 Keep what's here.
@@ -81,17 +51,6 @@ Leave this alone.
 
   assertEquals(result, after);
 });
-
-function toMarkerComment(tag: string, marker: string) {
-  return `<!-- ${tag} ${marker} -->`;
-}
-
-function hasSection(document: string, section: string): boolean {
-  const startComment = toMarkerComment(section, "start");
-  const endComment = toMarkerComment(section, "end");
-
-  return document.includes(startComment) && document.includes(endComment);
-}
 
 Deno.test("hasSection is true if there's a matching start and end comment", () => {
   const document = `
