@@ -3,7 +3,7 @@ name: Daily
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '00 13 * * *' # Seems like GitHub Actions use UTC -- shooting for mid-morning Central time
+    - cron: "00 13 * * *" # Seems like GitHub Actions use UTC -- shooting for mid-morning Central time
 
 jobs:
   draw_words:
@@ -11,27 +11,27 @@ jobs:
     env:
       WORD_BASKET_OUTPUT_FILE: README.md
     steps:
-    - name: Check out repo
-      uses: actions/checkout@v2
-    - name: Get executable from the latest release
-      uses: robinraju/release-downloader@v1.5
-      with:
-        latest: true
-        fileName: "word_basket"
-        out-file-path: "bin"
-    - name: Set permissions for executable
-      run: |-
-        chmod +x ./bin/word_basket
-    - name: Draw words for the day
-      run: |-
-        ./bin/word_basket
-    - name: Inspect output
-      run: |-
-        cat README.md
-    - name: Publish updated README
-      run: |-
-        git config --global user.email "word_basket_bot@byronvarberg.com"
-        git config --global user.name "word_basket_bot"
-        git add README.md
-        git commit -m "🤖 Update README with new words"
-        git push
+      - name: Check out repo
+        uses: actions/checkout@v4
+      - name: Get executable from the latest release
+        uses: robinraju/release-downloader@v1.8
+        with:
+          latest: true
+          fileName: "word_basket"
+          out-file-path: "bin"
+      - name: Set permissions for executable
+        run: |-
+          chmod +x ./bin/word_basket
+      - name: Draw words for the day
+        run: |-
+          ./bin/word_basket
+      - name: Inspect output
+        run: |-
+          cat README.md
+      - name: Publish updated README
+        run: |-
+          git config --global user.email "word_basket_bot@byronvarberg.com"
+          git config --global user.name "word_basket_bot"
+          git add README.md
+          git commit -m "🤖 Update README with new words"
+          git push
