@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| expectancy | play | efficiency |
-| :--------: | :--: | :--------: |
+| compassion | enough | release |
+| :--------: | :----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
