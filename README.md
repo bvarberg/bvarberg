@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| compassion | enough | release |
-| :--------: | :----: | :-----: |
+| excellence | love | tenderness |
+| :--------: | :--: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
