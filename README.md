@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| depth | flexibility | strength |
-| :---: | :---------: | :------: |
+| creativity | efficiency | release |
+| :--------: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
