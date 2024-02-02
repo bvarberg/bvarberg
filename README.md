@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| beauty | understanding | power |
-| :----: | :-----------: | :---: |
+| purification | excellence | abundance |
+| :----------: | :--------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
