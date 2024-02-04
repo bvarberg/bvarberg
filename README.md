@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| spontaneity | forgiveness | adventure |
-| :---------: | :---------: | :-------: |
+| synthesis | renewal | release |
+| :-------: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
