@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| renewal | forgiveness | integrity |
-| :-----: | :---------: | :-------: |
+| release | abundance | renewal |
+| :-----: | :-------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
