@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| trust | understanding | healing |
-| :---: | :-----------: | :-----: |
+| excellence | love | compassion |
+| :--------: | :--: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
