@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enthusiasm | compassion | adventure |
-| :--------: | :--------: | :-------: |
+| willingness | healing | purification |
+| :---------: | :-----: | :----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
