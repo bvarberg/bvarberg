@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| willingness | love | grace |
-| :---------: | :--: | :---: |
+| enthusiasm | efficiency | flexibility |
+| :--------: | :--------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
