@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| clarity | release | joy |
-| :-----: | :-----: | :-: |
+| willingness | honesty | joy |
+| :---------: | :-----: | :-: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
