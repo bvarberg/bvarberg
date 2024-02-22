@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| renewal | communication | freedom |
-| :-----: | :-----------: | :-----: |
+| depth | release | play |
+| :---: | :-----: | :--: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
