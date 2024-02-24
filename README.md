@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enough | humor | depth |
-| :----: | :---: | :---: |
+| communication | delight | light |
+| :-----------: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
