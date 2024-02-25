@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| communication | delight | light |
-| :-----------: | :-----: | :---: |
+| understanding | freedom | purification |
+| :-----------: | :-----: | :----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
