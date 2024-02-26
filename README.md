@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| understanding | freedom | purification |
-| :-----------: | :-----: | :----------: |
+| freedom | expectancy | renewal |
+| :-----: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
