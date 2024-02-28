@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| tenderness | abundance | education |
-| :--------: | :-------: | :-------: |
+| synthesis | responsibility | beauty |
+| :-------: | :------------: | :----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
