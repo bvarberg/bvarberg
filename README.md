@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| synthesis | responsibility | beauty |
-| :-------: | :------------: | :----: |
+| purification | openness | healing |
+| :----------: | :------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
