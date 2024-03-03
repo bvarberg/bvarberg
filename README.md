@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| light | humor | inspiration |
-| :---: | :---: | :---------: |
+| play | willingness | honesty |
+| :--: | :---------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
