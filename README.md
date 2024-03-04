@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| play | willingness | honesty |
-| :--: | :---------: | :-----: |
+| compassion | purpose | enough |
+| :--------: | :-----: | :----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
