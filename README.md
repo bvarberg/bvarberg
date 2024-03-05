@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| compassion | purpose | enough |
-| :--------: | :-----: | :----: |
+| humor | abundance | openness |
+| :---: | :-------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
