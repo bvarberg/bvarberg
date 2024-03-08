@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| healing | communication | honesty |
-| :-----: | :-----------: | :-----: |
+| enthusiasm | understanding | efficiency |
+| :--------: | :-----------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
