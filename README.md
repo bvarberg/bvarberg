@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| spontaneity | expectancy | compassion |
-| :---------: | :--------: | :--------: |
+| excellence | surrender | power |
+| :--------: | :-------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
