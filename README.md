@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| excellence | surrender | power |
-| :--------: | :-------: | :---: |
+| peace | flexibility | gratitude |
+| :---: | :---------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
