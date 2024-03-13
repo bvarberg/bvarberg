@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| responsibility | balance | depth |
-| :------------: | :-----: | :---: |
+| play | freedom | depth |
+| :--: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
