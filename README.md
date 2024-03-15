@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| compassion | beauty | healing |
-| :--------: | :----: | :-----: |
+| flexibility | light | forgiveness |
+| :---------: | :---: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
