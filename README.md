@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| flexibility | light | forgiveness |
-| :---------: | :---: | :---------: |
+| honesty | flexibility | light |
+| :-----: | :---------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
