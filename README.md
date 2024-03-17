@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| honesty | flexibility | light |
-| :-----: | :---------: | :---: |
+| abundance | beauty | expectancy |
+| :-------: | :----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
