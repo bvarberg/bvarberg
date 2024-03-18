@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| abundance | beauty | expectancy |
-| :-------: | :----: | :--------: |
+| depth | abundance | truth |
+| :---: | :-------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
