@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| creativity | freedom | compassion |
-| :--------: | :-----: | :--------: |
+| excellence | depth | freedom |
+| :--------: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
