@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| excellence | depth | freedom |
-| :--------: | :---: | :-----: |
+| humor | education | release |
+| :---: | :-------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
