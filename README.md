@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| humor | education | release |
-| :---: | :-------: | :-----: |
+| integrity | clarity | truth |
+| :-------: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
