@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| integrity | clarity | truth |
-| :-------: | :-----: | :---: |
+| openness | healing | release |
+| :------: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
