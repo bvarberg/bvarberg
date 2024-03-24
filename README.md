@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| openness | healing | release |
-| :------: | :-----: | :-----: |
+| balance | communication | spontaneity |
+| :-----: | :-----------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
