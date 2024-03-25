@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| balance | communication | spontaneity |
-| :-----: | :-----------: | :---------: |
+| gratitude | play | humor |
+| :-------: | :--: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
