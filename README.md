@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| gratitude | play | humor |
-| :-------: | :--: | :---: |
+| trust | adventure | purification |
+| :---: | :-------: | :----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
