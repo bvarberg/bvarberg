@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| trust | adventure | purification |
-| :---: | :-------: | :----------: |
+| renewal | tenderness | courage |
+| :-----: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
