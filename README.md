@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| release | surrender | inspiration |
-| :-----: | :-------: | :---------: |
+| power | purpose | freedom |
+| :---: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
