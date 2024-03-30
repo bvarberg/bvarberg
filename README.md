@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| power | purpose | freedom |
-| :---: | :-----: | :-----: |
+| compassion | harmony | patience |
+| :--------: | :-----: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
