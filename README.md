@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| light | efficiency | forgiveness |
-| :---: | :--------: | :---------: |
+| grace | tenderness | gratitude |
+| :---: | :--------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
