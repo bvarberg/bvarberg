@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| understanding | enthusiasm | love |
-| :-----------: | :--------: | :--: |
+| grace | purpose | freedom |
+| :---: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
