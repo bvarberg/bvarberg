@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| grace | purpose | freedom |
-| :---: | :-----: | :-----: |
+| purification | play | integrity |
+| :----------: | :--: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
