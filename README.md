@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| strength | flexibility | compassion |
-| :------: | :---------: | :--------: |
+| clarity | release | play |
+| :-----: | :-----: | :--: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
