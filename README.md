@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| clarity | release | play |
-| :-----: | :-----: | :--: |
+| healing | responsibility | humor |
+| :-----: | :------------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
