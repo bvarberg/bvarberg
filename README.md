@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| play | simplicity | adventure |
-| :--: | :--------: | :-------: |
+| courage | healing | light |
+| :-----: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
