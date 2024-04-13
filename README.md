@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| power | play | excellence |
-| :---: | :--: | :--------: |
+| tenderness | communication | surrender |
+| :--------: | :-----------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
