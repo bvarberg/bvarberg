@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| tenderness | communication | surrender |
-| :--------: | :-----------: | :-------: |
+| education | spontaneity | adventure |
+| :-------: | :---------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
