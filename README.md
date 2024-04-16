@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| love | light | inspiration |
-| :--: | :---: | :---------: |
+| power | purpose | expectancy |
+| :---: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
