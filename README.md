@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| power | purpose | expectancy |
-| :---: | :-----: | :--------: |
+| enough | compassion | abundance |
+| :----: | :--------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
