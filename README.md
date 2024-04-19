@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enough | humor | patience |
-| :----: | :---: | :------: |
+| enough | excellence | depth |
+| :----: | :--------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
