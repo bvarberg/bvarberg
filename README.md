@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| truth | flexibility | openness |
-| :---: | :---------: | :------: |
+| joy | gratitude | trust |
+| :-: | :-------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
