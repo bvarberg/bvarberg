@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| understanding | abundance | flexibility |
-| :-----------: | :-------: | :---------: |
+| synthesis | truth | courage |
+| :-------: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
