@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| balance | enthusiasm | gratitude |
-| :-----: | :--------: | :-------: |
+| integrity | purpose | delight |
+| :-------: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
