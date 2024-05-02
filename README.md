@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| play | patience | peace |
-| :--: | :------: | :---: |
+| renewal | spontaneity | clarity |
+| :-----: | :---------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
