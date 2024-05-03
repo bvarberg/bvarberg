@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| renewal | spontaneity | clarity |
-| :-----: | :---------: | :-----: |
+| forgiveness | expectancy | courage |
+| :---------: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
