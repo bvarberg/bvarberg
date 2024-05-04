@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| forgiveness | expectancy | courage |
-| :---------: | :--------: | :-----: |
+| honesty | education | strength |
+| :-----: | :-------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
