@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| honesty | education | strength |
-| :-----: | :-------: | :------: |
+| abundance | love | honesty |
+| :-------: | :--: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
