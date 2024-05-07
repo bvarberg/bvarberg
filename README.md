@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| love | patience | education |
-| :--: | :------: | :-------: |
+| expectancy | balance | courage |
+| :--------: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
