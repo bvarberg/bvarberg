@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| expectancy | balance | courage |
-| :--------: | :-----: | :-----: |
+| simplicity | communication | trust |
+| :--------: | :-----------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
