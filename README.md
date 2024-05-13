@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| expectancy | grace | truth |
-| :--------: | :---: | :---: |
+| responsibility | flexibility | patience |
+| :------------: | :---------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
