@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enough | strength | peace |
-| :----: | :------: | :---: |
+| grace | education | release |
+| :---: | :-------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
