@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| grace | education | release |
-| :---: | :-------: | :-----: |
+| harmony | tenderness | balance |
+| :-----: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
