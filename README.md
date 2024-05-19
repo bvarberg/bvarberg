@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| power | expectancy | trust |
-| :---: | :--------: | :---: |
+| grace | creativity | understanding |
+| :---: | :--------: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
