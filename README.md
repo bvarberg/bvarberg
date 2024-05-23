@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| power | compassion | spontaneity |
-| :---: | :--------: | :---------: |
+| flexibility | integrity | excellence |
+| :---------: | :-------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
