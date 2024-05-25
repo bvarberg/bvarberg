@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| power | synthesis | responsibility |
-| :---: | :-------: | :------------: |
+| expectancy | surrender | adventure |
+| :--------: | :-------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
