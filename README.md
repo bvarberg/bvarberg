@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| education | play | expectancy |
-| :-------: | :--: | :--------: |
+| humor | spontaneity | grace |
+| :---: | :---------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
