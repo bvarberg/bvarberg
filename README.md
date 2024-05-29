@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| willingness | communication | openness |
-| :---------: | :-----------: | :------: |
+| release | understanding | patience |
+| :-----: | :-----------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
