@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| release | understanding | patience |
-| :-----: | :-----------: | :------: |
+| truth | expectancy | power |
+| :---: | :--------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
