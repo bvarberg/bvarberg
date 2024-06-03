@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| release | simplicity | communication |
-| :-----: | :--------: | :-----------: |
+| tenderness | openness | education |
+| :--------: | :------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
