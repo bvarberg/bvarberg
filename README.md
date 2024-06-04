@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| tenderness | openness | education |
-| :--------: | :------: | :-------: |
+| compassion | healing | beauty |
+| :--------: | :-----: | :----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
