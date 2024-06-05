@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| compassion | healing | beauty |
-| :--------: | :-----: | :----: |
+| inspiration | healing | power |
+| :---------: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
