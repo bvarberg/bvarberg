@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| inspiration | healing | power |
-| :---------: | :-----: | :---: |
+| balance | synthesis | surrender |
+| :-----: | :-------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
