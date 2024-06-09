@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| compassion | openness | adventure |
-| :--------: | :------: | :-------: |
+| synthesis | depth | flexibility |
+| :-------: | :---: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
