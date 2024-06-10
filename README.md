@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| synthesis | depth | flexibility |
-| :-------: | :---: | :---------: |
+| enthusiasm | play | efficiency |
+| :--------: | :--: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
