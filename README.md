@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enthusiasm | play | efficiency |
-| :--------: | :--: | :--------: |
+| synthesis | delight | abundance |
+| :-------: | :-----: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
