@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| synthesis | delight | abundance |
-| :-------: | :-----: | :-------: |
+| flexibility | education | adventure |
+| :---------: | :-------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
