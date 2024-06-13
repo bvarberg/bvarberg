@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| flexibility | education | adventure |
-| :---------: | :-------: | :-------: |
+| purification | light | synthesis |
+| :----------: | :---: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
