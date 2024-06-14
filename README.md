@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| purification | light | synthesis |
-| :----------: | :---: | :-------: |
+| depth | tenderness | play |
+| :---: | :--------: | :--: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
