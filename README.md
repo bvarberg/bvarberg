@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| depth | tenderness | play |
-| :---: | :--------: | :--: |
+| understanding | communication | tenderness |
+| :-----------: | :-----------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
