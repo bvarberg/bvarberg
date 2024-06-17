@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| depth | purification | play |
-| :---: | :----------: | :--: |
+| understanding | balance | humor |
+| :-----------: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
