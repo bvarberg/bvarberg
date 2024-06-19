@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| understanding | enough | trust |
-| :-----------: | :----: | :---: |
+| creativity | depth | surrender |
+| :--------: | :---: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
