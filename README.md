@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| creativity | depth | surrender |
-| :--------: | :---: | :-------: |
+| release | delight | synthesis |
+| :-----: | :-----: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
