@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| renewal | strength | enthusiasm |
-| :-----: | :------: | :--------: |
+| grace | willingness | peace |
+| :---: | :---------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
