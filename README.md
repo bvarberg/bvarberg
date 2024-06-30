@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| renewal | abundance | power |
-| :-----: | :-------: | :---: |
+| efficiency | enough | healing |
+| :--------: | :----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
