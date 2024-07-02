@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| peace | renewal | purification |
-| :---: | :-----: | :----------: |
+| enough | abundance | excellence |
+| :----: | :-------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
