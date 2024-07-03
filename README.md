@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enough | abundance | excellence |
-| :----: | :-------: | :--------: |
+| tenderness | delight | expectancy |
+| :--------: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
