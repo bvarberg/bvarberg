@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| courage | purpose | responsibility |
-| :-----: | :-----: | :------------: |
+| flexibility | spontaneity | balance |
+| :---------: | :---------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
