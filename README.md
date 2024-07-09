@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| flexibility | spontaneity | balance |
-| :---------: | :---------: | :-----: |
+| grace | joy | patience |
+| :---: | :-: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
