@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| grace | joy | patience |
-| :---: | :-: | :------: |
+| creativity | trust | abundance |
+| :--------: | :---: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
