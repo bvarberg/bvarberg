@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| creativity | trust | abundance |
-| :--------: | :---: | :-------: |
+| delight | healing | tenderness |
+| :-----: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
