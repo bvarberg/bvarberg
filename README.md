@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| responsibility | flexibility | humor |
-| :------------: | :---------: | :---: |
+| understanding | renewal | enthusiasm |
+| :-----------: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
