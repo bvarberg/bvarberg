@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| truth | forgiveness | purpose |
-| :---: | :---------: | :-----: |
+| healing | creativity | strength |
+| :-----: | :--------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
