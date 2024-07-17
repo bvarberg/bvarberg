@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| healing | creativity | strength |
-| :-----: | :--------: | :------: |
+| surrender | purification | light |
+| :-------: | :----------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
