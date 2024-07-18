@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| surrender | purification | light |
-| :-------: | :----------: | :---: |
+| harmony | surrender | compassion |
+| :-----: | :-------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
