@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| openness | education | communication |
-| :------: | :-------: | :-----------: |
+| surrender | freedom | efficiency |
+| :-------: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
