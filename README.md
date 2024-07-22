@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| surrender | freedom | efficiency |
-| :-------: | :-----: | :--------: |
+| patience | strength | education |
+| :------: | :------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
