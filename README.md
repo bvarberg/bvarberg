@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| simplicity | integrity | excellence |
-| :--------: | :-------: | :--------: |
+| strength | inspiration | clarity |
+| :------: | :---------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
