@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| strength | inspiration | clarity |
-| :------: | :---------: | :-----: |
+| trust | abundance | efficiency |
+| :---: | :-------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
