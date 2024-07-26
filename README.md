@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| trust | abundance | efficiency |
-| :---: | :-------: | :--------: |
+| efficiency | gratitude | openness |
+| :--------: | :-------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
