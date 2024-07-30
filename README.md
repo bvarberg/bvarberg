@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enough | tenderness | simplicity |
-| :----: | :--------: | :--------: |
+| freedom | creativity | openness |
+| :-----: | :--------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
