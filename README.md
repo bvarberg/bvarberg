@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| responsibility | understanding | joy |
-| :------------: | :-----------: | :-: |
+| simplicity | depth | courage |
+| :--------: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
