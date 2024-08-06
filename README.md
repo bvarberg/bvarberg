@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| simplicity | depth | courage |
-| :--------: | :---: | :-----: |
+| inspiration | peace | honesty |
+| :---------: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
