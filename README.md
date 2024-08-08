@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| freedom | forgiveness | integrity |
-| :-----: | :---------: | :-------: |
+| trust | openness | simplicity |
+| :---: | :------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
