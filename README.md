@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| purpose | simplicity | grace |
-| :-----: | :--------: | :---: |
+| depth | renewal | balance |
+| :---: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
