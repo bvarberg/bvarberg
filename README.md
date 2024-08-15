@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| education | abundance | responsibility |
-| :-------: | :-------: | :------------: |
+| integrity | tenderness | freedom |
+| :-------: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
