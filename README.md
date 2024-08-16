@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| integrity | tenderness | freedom |
-| :-------: | :--------: | :-----: |
+| spontaneity | humor | excellence |
+| :---------: | :---: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
