@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| synthesis | openness | enthusiasm |
-| :-------: | :------: | :--------: |
+| beauty | trust | communication |
+| :----: | :---: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
