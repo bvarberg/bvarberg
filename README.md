@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| beauty | trust | communication |
-| :----: | :---: | :-----------: |
+| patience | beauty | peace |
+| :------: | :----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
