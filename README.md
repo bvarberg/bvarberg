@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| patience | beauty | peace |
-| :------: | :----: | :---: |
+| flexibility | beauty | synthesis |
+| :---------: | :----: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
