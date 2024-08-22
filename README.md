@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| trust | understanding | willingness |
-| :---: | :-----------: | :---------: |
+| love | understanding | forgiveness |
+| :--: | :-----------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
