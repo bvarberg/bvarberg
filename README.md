@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| simplicity | excellence | enough |
-| :--------: | :--------: | :----: |
+| harmony | grace | depth |
+| :-----: | :---: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
