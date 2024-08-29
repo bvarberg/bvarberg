@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| communication | surrender | purification |
-| :-----------: | :-------: | :----------: |
+| renewal | play | abundance |
+| :-----: | :--: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
