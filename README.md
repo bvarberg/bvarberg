@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| renewal | play | abundance |
-| :-----: | :--: | :-------: |
+| spontaneity | patience | flexibility |
+| :---------: | :------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
