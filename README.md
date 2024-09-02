@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| purification | joy | peace |
-| :----------: | :-: | :---: |
+| openness | humor | simplicity |
+| :------: | :---: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
