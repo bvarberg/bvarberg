@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| openness | humor | simplicity |
-| :------: | :---: | :--------: |
+| renewal | creativity | clarity |
+| :-----: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
