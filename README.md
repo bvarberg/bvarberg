@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| renewal | creativity | clarity |
-| :-----: | :--------: | :-----: |
+| openness | play | creativity |
+| :------: | :--: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
