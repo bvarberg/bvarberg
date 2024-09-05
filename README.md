@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| openness | play | creativity |
-| :------: | :--: | :--------: |
+| efficiency | creativity | flexibility |
+| :--------: | :--------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
