@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| efficiency | creativity | flexibility |
-| :--------: | :--------: | :---------: |
+| inspiration | renewal | willingness |
+| :---------: | :-----: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
