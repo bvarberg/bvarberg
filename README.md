@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| inspiration | renewal | willingness |
-| :---------: | :-----: | :---------: |
+| renewal | play | adventure |
+| :-----: | :--: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
