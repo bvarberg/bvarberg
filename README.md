@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| renewal | play | adventure |
-| :-----: | :--: | :-------: |
+| simplicity | balance | play |
+| :--------: | :-----: | :--: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
