@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| understanding | abundance | depth |
-| :-----------: | :-------: | :---: |
+| integrity | flexibility | communication |
+| :-------: | :---------: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
