@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| honesty | release | beauty |
-| :-----: | :-----: | :----: |
+| excellence | truth | enthusiasm |
+| :--------: | :---: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
