@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| willingness | light | patience |
-| :---------: | :---: | :------: |
+| surrender | integrity | depth |
+| :-------: | :-------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
