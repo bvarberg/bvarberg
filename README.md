@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| surrender | integrity | depth |
-| :-------: | :-------: | :---: |
+| simplicity | expectancy | love |
+| :--------: | :--------: | :--: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
