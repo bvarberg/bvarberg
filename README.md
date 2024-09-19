@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| simplicity | expectancy | love |
-| :--------: | :--------: | :--: |
+| purpose | delight | enthusiasm |
+| :-----: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
