@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| gratitude | patience | enthusiasm |
-| :-------: | :------: | :--------: |
+| responsibility | healing | simplicity |
+| :------------: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
