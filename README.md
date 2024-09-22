@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| responsibility | healing | simplicity |
-| :------------: | :-----: | :--------: |
+| light | humor | inspiration |
+| :---: | :---: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
