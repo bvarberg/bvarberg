@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| inspiration | surrender | creativity |
-| :---------: | :-------: | :--------: |
+| compassion | courage | grace |
+| :--------: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
