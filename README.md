@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| compassion | courage | grace |
-| :--------: | :-----: | :---: |
+| efficiency | adventure | grace |
+| :--------: | :-------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
