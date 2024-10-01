@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| willingness | courage | play |
-| :---------: | :-----: | :--: |
+| excellence | harmony | creativity |
+| :--------: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
