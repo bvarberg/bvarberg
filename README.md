@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| excellence | harmony | creativity |
-| :--------: | :-----: | :--------: |
+| openness | peace | truth |
+| :------: | :---: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
