@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| surrender | grace | flexibility |
-| :-------: | :---: | :---------: |
+| harmony | love | tenderness |
+| :-----: | :--: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
