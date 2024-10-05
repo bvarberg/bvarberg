@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| harmony | love | tenderness |
-| :-----: | :--: | :--------: |
+| excellence | honesty | tenderness |
+| :--------: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
