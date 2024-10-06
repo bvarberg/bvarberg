@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| excellence | honesty | tenderness |
-| :--------: | :-----: | :--------: |
+| honesty | creativity | depth |
+| :-----: | :--------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
