@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| efficiency | tenderness | peace |
-| :--------: | :--------: | :---: |
+| integrity | communication | enough |
+| :-------: | :-----------: | :----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
