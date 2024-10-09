@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| integrity | communication | enough |
-| :-------: | :-----------: | :----: |
+| depth | clarity | enthusiasm |
+| :---: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
