@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| compassion | purpose | communication |
-| :--------: | :-----: | :-----------: |
+| grace | trust | release |
+| :---: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
