@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| abundance | grace | depth |
-| :-------: | :---: | :---: |
+| openness | spontaneity | peace |
+| :------: | :---------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
