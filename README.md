@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| abundance | education | light |
-| :-------: | :-------: | :---: |
+| expectancy | communication | willingness |
+| :--------: | :-----------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
