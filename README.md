@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| expectancy | communication | willingness |
-| :--------: | :-----------: | :---------: |
+| trust | expectancy | adventure |
+| :---: | :--------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
