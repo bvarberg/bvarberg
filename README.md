@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| trust | expectancy | adventure |
-| :---: | :--------: | :-------: |
+| simplicity | healing | strength |
+| :--------: | :-----: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
