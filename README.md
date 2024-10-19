@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| simplicity | healing | strength |
-| :--------: | :-----: | :------: |
+| healing | grace | freedom |
+| :-----: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
