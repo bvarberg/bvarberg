@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| trust | truth | education |
-| :---: | :---: | :-------: |
+| flexibility | understanding | compassion |
+| :---------: | :-----------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
