@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| flexibility | understanding | compassion |
-| :---------: | :-----------: | :--------: |
+| tenderness | spontaneity | compassion |
+| :--------: | :---------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
