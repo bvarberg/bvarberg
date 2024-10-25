@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| tenderness | spontaneity | compassion |
-| :--------: | :---------: | :--------: |
+| depth | courage | compassion |
+| :---: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
