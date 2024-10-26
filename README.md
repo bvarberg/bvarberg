@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| depth | courage | compassion |
-| :---: | :-----: | :--------: |
+| responsibility | balance | understanding |
+| :------------: | :-----: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
