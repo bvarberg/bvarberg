@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| responsibility | balance | understanding |
-| :------------: | :-----: | :-----------: |
+| surrender | willingness | forgiveness |
+| :-------: | :---------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
