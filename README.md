@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| surrender | willingness | forgiveness |
-| :-------: | :---------: | :---------: |
+| trust | willingness | compassion |
+| :---: | :---------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
