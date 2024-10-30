@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| abundance | compassion | purpose |
-| :-------: | :--------: | :-----: |
+| expectancy | truth | grace |
+| :--------: | :---: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
