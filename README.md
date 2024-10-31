@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| expectancy | truth | grace |
-| :--------: | :---: | :---: |
+| adventure | trust | truth |
+| :-------: | :---: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
