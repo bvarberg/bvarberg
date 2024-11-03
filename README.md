@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enough | understanding | release |
-| :----: | :-----------: | :-----: |
+| willingness | forgiveness | power |
+| :---------: | :---------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
