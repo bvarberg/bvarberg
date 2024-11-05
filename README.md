@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| adventure | communication | forgiveness |
-| :-------: | :-----------: | :---------: |
+| humor | delight | healing |
+| :---: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
