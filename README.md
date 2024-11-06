@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| humor | delight | healing |
-| :---: | :-----: | :-----: |
+| truth | integrity | education |
+| :---: | :-------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
