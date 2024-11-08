@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| creativity | adventure | renewal |
-| :--------: | :-------: | :-----: |
+| clarity | balance | love |
+| :-----: | :-----: | :--: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
