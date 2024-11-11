@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| purification | abundance | depth |
-| :----------: | :-------: | :---: |
+| forgiveness | patience | communication |
+| :---------: | :------: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
