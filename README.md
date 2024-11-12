@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| forgiveness | patience | communication |
-| :---------: | :------: | :-----------: |
+| gratitude | depth | clarity |
+| :-------: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
