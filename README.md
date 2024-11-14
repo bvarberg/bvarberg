@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| flexibility | excellence | release |
-| :---------: | :--------: | :-----: |
+| efficiency | grace | humor |
+| :--------: | :---: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
