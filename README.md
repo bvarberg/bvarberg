@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| efficiency | grace | humor |
-| :--------: | :---: | :---: |
+| responsibility | surrender | openness |
+| :------------: | :-------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
