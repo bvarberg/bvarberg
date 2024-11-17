@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| healing | abundance | harmony |
-| :-----: | :-------: | :-----: |
+| spontaneity | enthusiasm | gratitude |
+| :---------: | :--------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
