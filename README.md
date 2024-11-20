@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| release | flexibility | education |
-| :-----: | :---------: | :-------: |
+| joy | integrity | adventure |
+| :-: | :-------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
