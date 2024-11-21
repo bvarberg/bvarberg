@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| joy | integrity | adventure |
-| :-: | :-------: | :-------: |
+| freedom | healing | play |
+| :-----: | :-----: | :--: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
