@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| freedom | healing | play |
-| :-----: | :-----: | :--: |
+| responsibility | light | creativity |
+| :------------: | :---: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
