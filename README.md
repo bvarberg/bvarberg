@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| responsibility | light | creativity |
-| :------------: | :---: | :--------: |
+| beauty | light | release |
+| :----: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
