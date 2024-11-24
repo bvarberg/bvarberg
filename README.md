@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| beauty | light | release |
-| :----: | :---: | :-----: |
+| clarity | delight | harmony |
+| :-----: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
