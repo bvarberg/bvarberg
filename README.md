@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| clarity | delight | harmony |
-| :-----: | :-----: | :-----: |
+| abundance | excellence | understanding |
+| :-------: | :--------: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
