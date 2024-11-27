@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| tenderness | harmony | trust |
-| :--------: | :-----: | :---: |
+| communication | flexibility | responsibility |
+| :-----------: | :---------: | :------------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
