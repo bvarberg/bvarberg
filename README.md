@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| inspiration | simplicity | flexibility |
-| :---------: | :--------: | :---------: |
+| communication | joy | gratitude |
+| :-----------: | :-: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
