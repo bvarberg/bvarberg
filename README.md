@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| inspiration | synthesis | truth |
-| :---------: | :-------: | :---: |
+| clarity | depth | balance |
+| :-----: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
