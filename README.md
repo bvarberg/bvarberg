@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| clarity | depth | balance |
-| :-----: | :---: | :-----: |
+| tenderness | responsibility | enough |
+| :--------: | :------------: | :----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
