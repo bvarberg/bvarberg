@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| tenderness | responsibility | enough |
-| :--------: | :------------: | :----: |
+| flexibility | honesty | grace |
+| :---------: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
