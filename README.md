@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| tenderness | play | courage |
-| :--------: | :--: | :-----: |
+| expectancy | compassion | abundance |
+| :--------: | :--------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
