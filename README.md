@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| excellence | patience | trust |
-| :--------: | :------: | :---: |
+| purpose | purification | courage |
+| :-----: | :----------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
