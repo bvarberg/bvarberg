@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| purpose | purification | courage |
-| :-----: | :----------: | :-----: |
+| beauty | flexibility | harmony |
+| :----: | :---------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
