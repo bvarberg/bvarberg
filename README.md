@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| beauty | flexibility | harmony |
-| :----: | :---------: | :-----: |
+| depth | creativity | compassion |
+| :---: | :--------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
