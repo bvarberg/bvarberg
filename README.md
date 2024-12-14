@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enough | responsibility | power |
-| :----: | :------------: | :---: |
+| spontaneity | balance | enthusiasm |
+| :---------: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
