@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| love | depth | responsibility |
-| :--: | :---: | :------------: |
+| spontaneity | enough | communication |
+| :---------: | :----: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
