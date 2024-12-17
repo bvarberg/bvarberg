@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| spontaneity | enough | communication |
-| :---------: | :----: | :-----------: |
+| simplicity | clarity | abundance |
+| :--------: | :-----: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
