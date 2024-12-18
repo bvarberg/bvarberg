@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| simplicity | clarity | abundance |
-| :--------: | :-----: | :-------: |
+| gratitude | adventure | release |
+| :-------: | :-------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
