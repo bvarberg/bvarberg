@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| gratitude | adventure | release |
-| :-------: | :-------: | :-----: |
+| responsibility | patience | efficiency |
+| :------------: | :------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
