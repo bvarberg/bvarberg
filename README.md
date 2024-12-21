@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| simplicity | education | synthesis |
-| :--------: | :-------: | :-------: |
+| efficiency | education | responsibility |
+| :--------: | :-------: | :------------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
