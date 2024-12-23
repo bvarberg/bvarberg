@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| abundance | synthesis | compassion |
-| :-------: | :-------: | :--------: |
+| compassion | truth | love |
+| :--------: | :---: | :--: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
