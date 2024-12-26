@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| purification | tenderness | gratitude |
-| :----------: | :--------: | :-------: |
+| gratitude | simplicity | truth |
+| :-------: | :--------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
