@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| gratitude | simplicity | truth |
-| :-------: | :--------: | :---: |
+| honesty | abundance | clarity |
+| :-----: | :-------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
