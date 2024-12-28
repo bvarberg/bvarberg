@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| honesty | abundance | clarity |
-| :-----: | :-------: | :-----: |
+| expectancy | responsibility | depth |
+| :--------: | :------------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
