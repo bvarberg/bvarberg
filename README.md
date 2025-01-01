@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| release | synthesis | honesty |
-| :-----: | :-------: | :-----: |
+| release | clarity | flexibility |
+| :-----: | :-----: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
