@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| courage | efficiency | creativity |
-| :-----: | :--------: | :--------: |
+| release | communication | trust |
+| :-----: | :-----------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
