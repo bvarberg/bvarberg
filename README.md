@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| release | communication | trust |
-| :-----: | :-----------: | :---: |
+| strength | honesty | joy |
+| :------: | :-----: | :-: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
