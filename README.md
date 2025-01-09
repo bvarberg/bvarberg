@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| education | light | creativity |
-| :-------: | :---: | :--------: |
+| expectancy | understanding | patience |
+| :--------: | :-----------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
