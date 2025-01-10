@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| expectancy | understanding | patience |
-| :--------: | :-----------: | :------: |
+| understanding | adventure | balance |
+| :-----------: | :-------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
