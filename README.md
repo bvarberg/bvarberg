@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| power | integrity | joy |
-| :---: | :-------: | :-: |
+| renewal | purpose | strength |
+| :-----: | :-----: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
