@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| release | purification | responsibility |
-| :-----: | :----------: | :------------: |
+| communication | education | beauty |
+| :-----------: | :-------: | :----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
