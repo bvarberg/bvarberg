@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| communication | education | beauty |
-| :-----------: | :-------: | :----: |
+| love | integrity | beauty |
+| :--: | :-------: | :----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
