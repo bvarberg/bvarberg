@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| love | integrity | beauty |
-| :--: | :-------: | :----: |
+| integrity | peace | release |
+| :-------: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
