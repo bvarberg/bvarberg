@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| love | purification | depth |
-| :--: | :----------: | :---: |
+| enthusiasm | responsibility | light |
+| :--------: | :------------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
