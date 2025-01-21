@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| inspiration | patience | gratitude |
-| :---------: | :------: | :-------: |
+| efficiency | light | purification |
+| :--------: | :---: | :----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
