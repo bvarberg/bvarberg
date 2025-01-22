@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| efficiency | light | purification |
-| :--------: | :---: | :----------: |
+| responsibility | inspiration | balance |
+| :------------: | :---------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
