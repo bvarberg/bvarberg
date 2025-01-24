@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| willingness | enthusiasm | synthesis |
-| :---------: | :--------: | :-------: |
+| responsibility | release | play |
+| :------------: | :-----: | :--: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
