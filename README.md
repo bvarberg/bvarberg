@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| responsibility | release | play |
-| :------------: | :-----: | :--: |
+| purification | power | enough |
+| :----------: | :---: | :----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
