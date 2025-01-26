@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| purification | power | enough |
-| :----------: | :---: | :----: |
+| adventure | clarity | love |
+| :-------: | :-----: | :--: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
