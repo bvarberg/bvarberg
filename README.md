@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| truth | clarity | adventure |
-| :---: | :-----: | :-------: |
+| forgiveness | delight | truth |
+| :---------: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
