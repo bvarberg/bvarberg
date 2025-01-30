@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| abundance | honesty | enthusiasm |
-| :-------: | :-----: | :--------: |
+| understanding | trust | education |
+| :-----------: | :---: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
