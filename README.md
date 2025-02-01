@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enough | understanding | abundance |
-| :----: | :-----------: | :-------: |
+| excellence | inspiration | depth |
+| :--------: | :---------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
