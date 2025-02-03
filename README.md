@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| understanding | balance | inspiration |
-| :-----------: | :-----: | :---------: |
+| freedom | spontaneity | excellence |
+| :-----: | :---------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
