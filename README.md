@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| patience | courage | education |
-| :------: | :-----: | :-------: |
+| harmony | understanding | purification |
+| :-----: | :-----------: | :----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
