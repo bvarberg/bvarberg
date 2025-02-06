@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| harmony | understanding | purification |
-| :-----: | :-----------: | :----------: |
+| renewal | abundance | grace |
+| :-----: | :-------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
