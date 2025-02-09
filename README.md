@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| healing | communication | joy |
-| :-----: | :-----------: | :-: |
+| balance | power | strength |
+| :-----: | :---: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
