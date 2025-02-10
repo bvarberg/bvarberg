@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| balance | power | strength |
-| :-----: | :---: | :------: |
+| grace | patience | renewal |
+| :---: | :------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
