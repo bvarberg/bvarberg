@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| synthesis | strength | play |
-| :-------: | :------: | :--: |
+| beauty | strength | enthusiasm |
+| :----: | :------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
