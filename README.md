@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| release | grace | enough |
-| :-----: | :---: | :----: |
+| compassion | release | clarity |
+| :--------: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
