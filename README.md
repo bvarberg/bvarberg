@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| compassion | release | clarity |
-| :--------: | :-----: | :-----: |
+| communication | depth | renewal |
+| :-----------: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
