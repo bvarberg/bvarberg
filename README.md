@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| communication | depth | renewal |
-| :-----------: | :---: | :-----: |
+| gratitude | communication | expectancy |
+| :-------: | :-----------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
