@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| gratitude | communication | expectancy |
-| :-------: | :-----------: | :--------: |
+| integrity | enough | inspiration |
+| :-------: | :----: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
