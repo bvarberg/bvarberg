@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| integrity | enough | inspiration |
-| :-------: | :----: | :---------: |
+| education | abundance | spontaneity |
+| :-------: | :-------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
