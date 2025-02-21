@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| truth | patience | gratitude |
-| :---: | :------: | :-------: |
+| trust | forgiveness | power |
+| :---: | :---------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
