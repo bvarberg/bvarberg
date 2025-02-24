@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| beauty | adventure | delight |
-| :----: | :-------: | :-----: |
+| communication | truth | compassion |
+| :-----------: | :---: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
