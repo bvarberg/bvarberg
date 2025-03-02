@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| abundance | forgiveness | humor |
-| :-------: | :---------: | :---: |
+| clarity | power | integrity |
+| :-----: | :---: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
