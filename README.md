@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| responsibility | efficiency | honesty |
-| :------------: | :--------: | :-----: |
+| adventure | freedom | simplicity |
+| :-------: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
