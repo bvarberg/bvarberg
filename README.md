@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| adventure | freedom | simplicity |
-| :-------: | :-----: | :--------: |
+| abundance | synthesis | responsibility |
+| :-------: | :-------: | :------------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
