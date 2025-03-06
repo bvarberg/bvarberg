@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| abundance | synthesis | responsibility |
-| :-------: | :-------: | :------------: |
+| communication | creativity | education |
+| :-----------: | :--------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
