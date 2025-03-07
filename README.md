@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| communication | creativity | education |
-| :-----------: | :--------: | :-------: |
+| enthusiasm | healing | strength |
+| :--------: | :-----: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
