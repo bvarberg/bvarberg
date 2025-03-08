@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enthusiasm | healing | strength |
-| :--------: | :-----: | :------: |
+| spontaneity | surrender | release |
+| :---------: | :-------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
