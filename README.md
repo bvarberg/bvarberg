@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| spontaneity | surrender | release |
-| :---------: | :-------: | :-----: |
+| forgiveness | synthesis | tenderness |
+| :---------: | :-------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
