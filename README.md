@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| compassion | balance | inspiration |
-| :--------: | :-----: | :---------: |
+| enough | willingness | grace |
+| :----: | :---------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
