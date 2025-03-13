@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| balance | flexibility | power |
-| :-----: | :---------: | :---: |
+| purpose | education | trust |
+| :-----: | :-------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
