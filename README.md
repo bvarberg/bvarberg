@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| purpose | education | trust |
-| :-----: | :-------: | :---: |
+| balance | renewal | education |
+| :-----: | :-----: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
