@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| synthesis | abundance | openness |
-| :-------: | :-------: | :------: |
+| joy | communication | freedom |
+| :-: | :-----------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
