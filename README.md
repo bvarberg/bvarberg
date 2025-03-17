@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| joy | communication | freedom |
-| :-: | :-----------: | :-----: |
+| excellence | release | forgiveness |
+| :--------: | :-----: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
