@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| excellence | release | forgiveness |
-| :--------: | :-----: | :---------: |
+| honesty | abundance | purification |
+| :-----: | :-------: | :----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
