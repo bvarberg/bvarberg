@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| honesty | abundance | purification |
-| :-----: | :-------: | :----------: |
+| spontaneity | compassion | excellence |
+| :---------: | :--------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
