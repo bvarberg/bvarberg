@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| renewal | creativity | grace |
-| :-----: | :--------: | :---: |
+| synthesis | responsibility | efficiency |
+| :-------: | :------------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
