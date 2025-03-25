@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| synthesis | grace | harmony |
-| :-------: | :---: | :-----: |
+| power | depth | gratitude |
+| :---: | :---: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
