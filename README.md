@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| power | depth | gratitude |
-| :---: | :---: | :-------: |
+| purification | inspiration | power |
+| :----------: | :---------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
