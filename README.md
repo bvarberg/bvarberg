@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| purification | inspiration | power |
-| :----------: | :---------: | :---: |
+| clarity | freedom | responsibility |
+| :-----: | :-----: | :------------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
