@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| clarity | freedom | responsibility |
-| :-----: | :-----: | :------------: |
+| patience | understanding | joy |
+| :------: | :-----------: | :-: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
