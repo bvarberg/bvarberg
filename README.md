@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| courage | renewal | expectancy |
-| :-----: | :-----: | :--------: |
+| delight | abundance | inspiration |
+| :-----: | :-------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
