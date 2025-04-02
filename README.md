@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| understanding | harmony | efficiency |
-| :-----------: | :-----: | :--------: |
+| clarity | communication | love |
+| :-----: | :-----------: | :--: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
