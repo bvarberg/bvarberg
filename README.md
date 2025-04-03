@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| clarity | communication | love |
-| :-----: | :-----------: | :--: |
+| depth | gratitude | excellence |
+| :---: | :-------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
