@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| spontaneity | compassion | excellence |
-| :---------: | :--------: | :--------: |
+| trust | responsibility | compassion |
+| :---: | :------------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
