@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| spontaneity | strength | communication |
-| :---------: | :------: | :-----------: |
+| truth | purpose | balance |
+| :---: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
