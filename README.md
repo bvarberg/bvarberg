@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| truth | purpose | balance |
-| :---: | :-----: | :-----: |
+| purpose | communication | beauty |
+| :-----: | :-----------: | :----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
