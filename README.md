@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| purpose | communication | beauty |
-| :-----: | :-----------: | :----: |
+| excellence | light | synthesis |
+| :--------: | :---: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
