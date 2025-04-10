@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| excellence | light | synthesis |
-| :--------: | :---: | :-------: |
+| communication | delight | willingness |
+| :-----------: | :-----: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
