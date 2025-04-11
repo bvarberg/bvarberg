@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| communication | delight | willingness |
-| :-----------: | :-----: | :---------: |
+| humor | synthesis | release |
+| :---: | :-------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
