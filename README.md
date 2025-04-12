@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| humor | synthesis | release |
-| :---: | :-------: | :-----: |
+| education | adventure | renewal |
+| :-------: | :-------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
