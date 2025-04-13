@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| education | adventure | renewal |
-| :-------: | :-------: | :-----: |
+| integrity | responsibility | honesty |
+| :-------: | :------------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
