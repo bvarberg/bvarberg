@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| willingness | freedom | play |
-| :---------: | :-----: | :--: |
+| joy | light | creativity |
+| :-: | :---: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
