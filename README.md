@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| joy | light | creativity |
-| :-: | :---: | :--------: |
+| patience | expectancy | harmony |
+| :------: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
