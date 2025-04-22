@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enough | openness | education |
-| :----: | :------: | :-------: |
+| flexibility | honesty | understanding |
+| :---------: | :-----: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
