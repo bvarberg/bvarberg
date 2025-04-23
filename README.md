@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| flexibility | honesty | understanding |
-| :---------: | :-----: | :-----------: |
+| harmony | purification | power |
+| :-----: | :----------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
