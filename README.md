@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| abundance | renewal | trust |
-| :-------: | :-----: | :---: |
+| love | renewal | tenderness |
+| :--: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
