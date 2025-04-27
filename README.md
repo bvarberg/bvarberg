@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| love | renewal | tenderness |
-| :--: | :-----: | :--------: |
+| education | communication | truth |
+| :-------: | :-----------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
