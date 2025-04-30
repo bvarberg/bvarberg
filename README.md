@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| power | delight | courage |
-| :---: | :-----: | :-----: |
+| willingness | strength | excellence |
+| :---------: | :------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
