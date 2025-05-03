@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| trust | purpose | light |
-| :---: | :-----: | :---: |
+| love | enthusiasm | release |
+| :--: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
