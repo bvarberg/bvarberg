@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| beauty | inspiration | simplicity |
-| :----: | :---------: | :--------: |
+| tenderness | humor | excellence |
+| :--------: | :---: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
