@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| excellence | courage | joy |
-| :--------: | :-----: | :-: |
+| grace | truth | renewal |
+| :---: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
