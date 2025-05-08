@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| grace | truth | renewal |
-| :---: | :---: | :-----: |
+| beauty | simplicity | purification |
+| :----: | :--------: | :----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
