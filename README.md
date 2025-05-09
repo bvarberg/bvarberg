@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| beauty | simplicity | purification |
-| :----: | :--------: | :----------: |
+| beauty | compassion | efficiency |
+| :----: | :--------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
