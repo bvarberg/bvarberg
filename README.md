@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| beauty | compassion | efficiency |
-| :----: | :--------: | :--------: |
+| light | enthusiasm | efficiency |
+| :---: | :--------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
