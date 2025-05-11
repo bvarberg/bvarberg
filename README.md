@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| light | enthusiasm | efficiency |
-| :---: | :--------: | :--------: |
+| integrity | tenderness | forgiveness |
+| :-------: | :--------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
