@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| integrity | tenderness | forgiveness |
-| :-------: | :--------: | :---------: |
+| flexibility | education | excellence |
+| :---------: | :-------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
