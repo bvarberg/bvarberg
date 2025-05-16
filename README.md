@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enough | compassion | synthesis |
-| :----: | :--------: | :-------: |
+| truth | creativity | joy |
+| :---: | :--------: | :-: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
