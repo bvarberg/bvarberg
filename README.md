@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| truth | creativity | joy |
-| :---: | :--------: | :-: |
+| inspiration | simplicity | enough |
+| :---------: | :--------: | :----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
