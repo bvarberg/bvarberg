@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| inspiration | simplicity | enough |
-| :---------: | :--------: | :----: |
+| love | release | simplicity |
+| :--: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
