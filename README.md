@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| love | release | simplicity |
-| :--: | :-----: | :--------: |
+| release | balance | tenderness |
+| :-----: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
