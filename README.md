@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| surrender | light | balance |
-| :-------: | :---: | :-----: |
+| willingness | efficiency | peace |
+| :---------: | :--------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
