@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| compassion | beauty | freedom |
-| :--------: | :----: | :-----: |
+| play | renewal | expectancy |
+| :--: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
