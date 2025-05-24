@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| play | renewal | expectancy |
-| :--: | :-----: | :--------: |
+| willingness | freedom | healing |
+| :---------: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
