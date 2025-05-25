@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| willingness | freedom | healing |
-| :---------: | :-----: | :-----: |
+| creativity | truth | communication |
+| :--------: | :---: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
