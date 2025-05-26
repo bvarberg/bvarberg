@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| creativity | truth | communication |
-| :--------: | :---: | :-----------: |
+| enough | efficiency | light |
+| :----: | :--------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
