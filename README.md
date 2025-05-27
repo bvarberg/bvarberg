@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enough | efficiency | light |
-| :----: | :--------: | :---: |
+| compassion | understanding | gratitude |
+| :--------: | :-----------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
