@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| compassion | understanding | gratitude |
-| :--------: | :-----------: | :-------: |
+| freedom | balance | excellence |
+| :-----: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
