@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| freedom | balance | excellence |
-| :-----: | :-----: | :--------: |
+| integrity | play | freedom |
+| :-------: | :--: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
