@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| creativity | understanding | power |
-| :--------: | :-----------: | :---: |
+| openness | efficiency | light |
+| :------: | :--------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
