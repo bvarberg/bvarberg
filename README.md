@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| depth | freedom | spontaneity |
-| :---: | :-----: | :---------: |
+| enthusiasm | flexibility | integrity |
+| :--------: | :---------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
