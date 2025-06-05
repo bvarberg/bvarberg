@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enthusiasm | flexibility | integrity |
-| :--------: | :---------: | :-------: |
+| release | expectancy | communication |
+| :-----: | :--------: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
