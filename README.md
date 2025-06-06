@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| release | expectancy | communication |
-| :-----: | :--------: | :-----------: |
+| renewal | efficiency | release |
+| :-----: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
