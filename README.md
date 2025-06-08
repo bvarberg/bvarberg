@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| truth | abundance | flexibility |
-| :---: | :-------: | :---------: |
+| efficiency | creativity | spontaneity |
+| :--------: | :--------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
