@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| efficiency | creativity | spontaneity |
-| :--------: | :--------: | :---------: |
+| education | enough | patience |
+| :-------: | :----: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
