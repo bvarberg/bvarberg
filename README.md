@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| openness | willingness | surrender |
-| :------: | :---------: | :-------: |
+| strength | freedom | enthusiasm |
+| :------: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
