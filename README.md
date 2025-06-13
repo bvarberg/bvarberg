@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| release | power | humor |
-| :-----: | :---: | :---: |
+| depth | honesty | creativity |
+| :---: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
