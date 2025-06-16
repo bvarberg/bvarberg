@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| clarity | abundance | willingness |
-| :-----: | :-------: | :---------: |
+| integrity | peace | creativity |
+| :-------: | :---: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
