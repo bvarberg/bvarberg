@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| integrity | peace | creativity |
-| :-------: | :---: | :--------: |
+| inspiration | openness | spontaneity |
+| :---------: | :------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
