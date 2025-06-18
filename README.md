@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| inspiration | openness | spontaneity |
-| :---------: | :------: | :---------: |
+| trust | delight | education |
+| :---: | :-----: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
