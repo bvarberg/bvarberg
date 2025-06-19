@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| trust | delight | education |
-| :---: | :-----: | :-------: |
+| healing | forgiveness | clarity |
+| :-----: | :---------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
