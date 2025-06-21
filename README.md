@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| grace | strength | beauty |
-| :---: | :------: | :----: |
+| abundance | willingness | creativity |
+| :-------: | :---------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
