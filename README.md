@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| delight | love | understanding |
-| :-----: | :--: | :-----------: |
+| delight | efficiency | grace |
+| :-----: | :--------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
