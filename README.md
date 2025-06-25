@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| trust | harmony | adventure |
-| :---: | :-----: | :-------: |
+| clarity | courage | enthusiasm |
+| :-----: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
