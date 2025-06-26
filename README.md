@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| clarity | courage | enthusiasm |
-| :-----: | :-----: | :--------: |
+| enthusiasm | communication | responsibility |
+| :--------: | :-----------: | :------------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
