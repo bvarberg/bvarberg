@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enthusiasm | communication | responsibility |
-| :--------: | :-----------: | :------------: |
+| honesty | love | synthesis |
+| :-----: | :--: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
