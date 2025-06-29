@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| balance | truth | synthesis |
-| :-----: | :---: | :-------: |
+| synthesis | love | truth |
+| :-------: | :--: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
