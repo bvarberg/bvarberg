@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| depth | healing | forgiveness |
-| :---: | :-----: | :---------: |
+| adventure | purification | joy |
+| :-------: | :----------: | :-: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
