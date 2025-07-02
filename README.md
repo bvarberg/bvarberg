@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| adventure | purification | joy |
-| :-------: | :----------: | :-: |
+| delight | beauty | surrender |
+| :-----: | :----: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
