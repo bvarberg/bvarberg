@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| delight | beauty | surrender |
-| :-----: | :----: | :-------: |
+| release | inspiration | enthusiasm |
+| :-----: | :---------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
