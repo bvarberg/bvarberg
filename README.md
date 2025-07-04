@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| release | inspiration | enthusiasm |
-| :-----: | :---------: | :--------: |
+| balance | tenderness | abundance |
+| :-----: | :--------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
