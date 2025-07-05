@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| balance | tenderness | abundance |
-| :-----: | :--------: | :-------: |
+| renewal | freedom | humor |
+| :-----: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
