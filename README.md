@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| purpose | gratitude | healing |
-| :-----: | :-------: | :-----: |
+| willingness | clarity | balance |
+| :---------: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
