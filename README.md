@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| balance | integrity | creativity |
-| :-----: | :-------: | :--------: |
+| synthesis | clarity | honesty |
+| :-------: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
