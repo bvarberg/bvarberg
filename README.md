@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| play | inspiration | clarity |
-| :--: | :---------: | :-----: |
+| renewal | communication | efficiency |
+| :-----: | :-----------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
