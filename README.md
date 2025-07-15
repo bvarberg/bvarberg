@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| renewal | communication | efficiency |
-| :-----: | :-----------: | :--------: |
+| abundance | simplicity | patience |
+| :-------: | :--------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
