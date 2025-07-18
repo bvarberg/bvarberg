@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| light | compassion | integrity |
-| :---: | :--------: | :-------: |
+| purification | trust | peace |
+| :----------: | :---: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
