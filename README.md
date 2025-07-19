@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| purification | trust | peace |
-| :----------: | :---: | :---: |
+| freedom | adventure | love |
+| :-----: | :-------: | :--: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
