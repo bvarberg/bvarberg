@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| freedom | adventure | love |
-| :-----: | :-------: | :--: |
+| play | forgiveness | understanding |
+| :--: | :---------: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
