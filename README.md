@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| play | forgiveness | understanding |
-| :--: | :---------: | :-----------: |
+| depth | compassion | integrity |
+| :---: | :--------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
