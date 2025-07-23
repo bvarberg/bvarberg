@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| openness | clarity | willingness |
-| :------: | :-----: | :---------: |
+| clarity | enough | honesty |
+| :-----: | :----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
