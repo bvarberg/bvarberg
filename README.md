@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| expectancy | creativity | love |
-| :--------: | :--------: | :--: |
+| courage | joy | healing |
+| :-----: | :-: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
