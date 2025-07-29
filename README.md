@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| education | efficiency | healing |
-| :-------: | :--------: | :-----: |
+| renewal | love | beauty |
+| :-----: | :--: | :----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
