@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| renewal | love | beauty |
-| :-----: | :--: | :----: |
+| adventure | spontaneity | truth |
+| :-------: | :---------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
