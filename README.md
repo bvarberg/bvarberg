@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| adventure | spontaneity | truth |
-| :-------: | :---------: | :---: |
+| patience | willingness | clarity |
+| :------: | :---------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
