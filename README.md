@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| responsibility | beauty | excellence |
-| :------------: | :----: | :--------: |
+| creativity | healing | power |
+| :--------: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
