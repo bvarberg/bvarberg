@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| creativity | healing | power |
-| :--------: | :-----: | :---: |
+| understanding | peace | enough |
+| :-----------: | :---: | :----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
