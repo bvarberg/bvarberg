@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| depth | integrity | patience |
-| :---: | :-------: | :------: |
+| integrity | harmony | education |
+| :-------: | :-----: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
