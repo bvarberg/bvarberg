@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| integrity | harmony | education |
-| :-------: | :-----: | :-------: |
+| inspiration | gratitude | flexibility |
+| :---------: | :-------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
