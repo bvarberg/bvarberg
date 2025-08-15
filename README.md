@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| creativity | forgiveness | purpose |
-| :--------: | :---------: | :-----: |
+| education | depth | love |
+| :-------: | :---: | :--: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
