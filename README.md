@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| trust | adventure | simplicity |
-| :---: | :-------: | :--------: |
+| flexibility | play | communication |
+| :---------: | :--: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
