@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| flexibility | play | communication |
-| :---------: | :--: | :-----------: |
+| courage | adventure | forgiveness |
+| :-----: | :-------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
