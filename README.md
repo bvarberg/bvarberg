@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| abundance | renewal | gratitude |
-| :-------: | :-----: | :-------: |
+| understanding | willingness | excellence |
+| :-----------: | :---------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
