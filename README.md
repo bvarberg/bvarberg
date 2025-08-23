@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| beauty | love | honesty |
-| :----: | :--: | :-----: |
+| creativity | synthesis | enough |
+| :--------: | :-------: | :----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
