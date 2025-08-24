@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| creativity | synthesis | enough |
-| :--------: | :-------: | :----: |
+| spontaneity | enthusiasm | healing |
+| :---------: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
