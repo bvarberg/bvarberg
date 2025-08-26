@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| efficiency | humor | harmony |
-| :--------: | :---: | :-----: |
+| peace | truth | clarity |
+| :---: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
