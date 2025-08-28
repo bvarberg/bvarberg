@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enthusiasm | integrity | truth |
-| :--------: | :-------: | :---: |
+| spontaneity | truth | compassion |
+| :---------: | :---: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
