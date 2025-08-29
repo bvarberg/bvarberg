@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| spontaneity | truth | compassion |
-| :---------: | :---: | :--------: |
+| play | peace | harmony |
+| :--: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
