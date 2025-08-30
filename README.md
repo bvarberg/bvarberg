@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| play | peace | harmony |
-| :--: | :---: | :-----: |
+| flexibility | clarity | efficiency |
+| :---------: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
