@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| inspiration | willingness | communication |
-| :---------: | :---------: | :-----------: |
+| simplicity | joy | creativity |
+| :--------: | :-: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
