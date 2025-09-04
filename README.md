@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| responsibility | tenderness | strength |
-| :------------: | :--------: | :------: |
+| enthusiasm | release | understanding |
+| :--------: | :-----: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
