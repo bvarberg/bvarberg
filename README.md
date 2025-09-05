@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enthusiasm | release | understanding |
-| :--------: | :-----: | :-----------: |
+| grace | openness | purification |
+| :---: | :------: | :----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
