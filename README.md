@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| grace | openness | purification |
-| :---: | :------: | :----------: |
+| grace | clarity | depth |
+| :---: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
