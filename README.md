@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| expectancy | grace | compassion |
-| :--------: | :---: | :--------: |
+| surrender | enthusiasm | clarity |
+| :-------: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
