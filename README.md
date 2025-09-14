@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| purification | trust | power |
-| :----------: | :---: | :---: |
+| inspiration | expectancy | education |
+| :---------: | :--------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
