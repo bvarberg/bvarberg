@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| inspiration | expectancy | education |
-| :---------: | :--------: | :-------: |
+| understanding | communication | trust |
+| :-----------: | :-----------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
