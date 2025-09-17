@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| communication | surrender | purification |
-| :-----------: | :-------: | :----------: |
+| enough | freedom | courage |
+| :----: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
