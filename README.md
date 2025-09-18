@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enough | freedom | courage |
-| :----: | :-----: | :-----: |
+| creativity | forgiveness | surrender |
+| :--------: | :---------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
