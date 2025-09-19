@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| creativity | forgiveness | surrender |
-| :--------: | :---------: | :-------: |
+| humor | enthusiasm | excellence |
+| :---: | :--------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
