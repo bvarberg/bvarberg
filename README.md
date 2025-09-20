@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| humor | enthusiasm | excellence |
-| :---: | :--------: | :--------: |
+| release | expectancy | humor |
+| :-----: | :--------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
