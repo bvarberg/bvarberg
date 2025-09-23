@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| strength | abundance | clarity |
-| :------: | :-------: | :-----: |
+| excellence | synthesis | integrity |
+| :--------: | :-------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
