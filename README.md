@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| balance | play | honesty |
-| :-----: | :--: | :-----: |
+| clarity | purpose | grace |
+| :-----: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
