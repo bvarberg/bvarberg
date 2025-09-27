@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| freedom | compassion | education |
-| :-----: | :--------: | :-------: |
+| integrity | purification | humor |
+| :-------: | :----------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
