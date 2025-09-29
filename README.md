@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| efficiency | excellence | enthusiasm |
-| :--------: | :--------: | :--------: |
+| power | beauty | expectancy |
+| :---: | :----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
