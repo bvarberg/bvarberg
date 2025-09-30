@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| power | beauty | expectancy |
-| :---: | :----: | :--------: |
+| education | beauty | compassion |
+| :-------: | :----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
