@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| education | light | joy |
-| :-------: | :---: | :-: |
+| freedom | patience | forgiveness |
+| :-----: | :------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
