@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| freedom | patience | forgiveness |
-| :-----: | :------: | :---------: |
+| beauty | excellence | freedom |
+| :----: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
