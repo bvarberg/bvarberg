@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| harmony | peace | healing |
-| :-----: | :---: | :-----: |
+| surrender | responsibility | balance |
+| :-------: | :------------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
