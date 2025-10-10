@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| surrender | responsibility | balance |
-| :-------: | :------------: | :-----: |
+| adventure | purification | efficiency |
+| :-------: | :----------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
