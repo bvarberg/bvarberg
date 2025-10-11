@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| adventure | purification | efficiency |
-| :-------: | :----------: | :--------: |
+| release | play | joy |
+| :-----: | :--: | :-: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
