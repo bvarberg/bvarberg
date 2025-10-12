@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| release | play | joy |
-| :-----: | :--: | :-: |
+| beauty | integrity | inspiration |
+| :----: | :-------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
