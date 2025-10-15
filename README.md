@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| truth | adventure | gratitude |
-| :---: | :-------: | :-------: |
+| abundance | beauty | humor |
+| :-------: | :----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
