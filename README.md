@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enough | freedom | depth |
-| :----: | :-----: | :---: |
+| trust | integrity | healing |
+| :---: | :-------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
