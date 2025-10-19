@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| trust | integrity | healing |
-| :---: | :-------: | :-----: |
+| willingness | flexibility | strength |
+| :---------: | :---------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
