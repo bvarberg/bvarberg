@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| patience | play | abundance |
-| :------: | :--: | :-------: |
+| willingness | healing | joy |
+| :---------: | :-----: | :-: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
