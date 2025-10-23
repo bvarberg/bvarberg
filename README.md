@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| compassion | abundance | courage |
-| :--------: | :-------: | :-----: |
+| flexibility | beauty | communication |
+| :---------: | :----: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
