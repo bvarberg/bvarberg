@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| simplicity | excellence | trust |
-| :--------: | :--------: | :---: |
+| efficiency | willingness | education |
+| :--------: | :---------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
