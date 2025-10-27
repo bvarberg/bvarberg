@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| flexibility | surrender | harmony |
-| :---------: | :-------: | :-----: |
+| trust | communication | inspiration |
+| :---: | :-----------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
