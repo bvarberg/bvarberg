@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| trust | communication | inspiration |
-| :---: | :-----------: | :---------: |
+| expectancy | delight | renewal |
+| :--------: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
