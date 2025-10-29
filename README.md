@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| expectancy | delight | renewal |
-| :--------: | :-----: | :-----: |
+| openness | synthesis | harmony |
+| :------: | :-------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
