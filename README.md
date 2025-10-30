@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| openness | synthesis | harmony |
-| :------: | :-------: | :-----: |
+| peace | patience | expectancy |
+| :---: | :------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
