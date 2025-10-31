@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| peace | patience | expectancy |
-| :---: | :------: | :--------: |
+| trust | love | release |
+| :---: | :--: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
