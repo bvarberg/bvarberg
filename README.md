@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| honesty | play | balance |
-| :-----: | :--: | :-----: |
+| spontaneity | love | inspiration |
+| :---------: | :--: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
