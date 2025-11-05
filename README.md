@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| integrity | healing | creativity |
-| :-------: | :-----: | :--------: |
+| balance | responsibility | patience |
+| :-----: | :------------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
