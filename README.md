@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| strength | communication | trust |
-| :------: | :-----------: | :---: |
+| strength | understanding | gratitude |
+| :------: | :-----------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
