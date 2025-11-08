@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| strength | understanding | gratitude |
-| :------: | :-----------: | :-------: |
+| integrity | tenderness | patience |
+| :-------: | :--------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
