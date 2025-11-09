@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| integrity | tenderness | patience |
-| :-------: | :--------: | :------: |
+| compassion | spontaneity | abundance |
+| :--------: | :---------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
