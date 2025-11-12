@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| grace | honesty | trust |
-| :---: | :-----: | :---: |
+| enthusiasm | adventure | surrender |
+| :--------: | :-------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
