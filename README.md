@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| efficiency | communication | excellence |
-| :--------: | :-----------: | :--------: |
+| courage | harmony | trust |
+| :-----: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
