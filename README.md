@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| grace | power | enough |
-| :---: | :---: | :----: |
+| release | understanding | strength |
+| :-----: | :-----------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
