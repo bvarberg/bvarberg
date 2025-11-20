@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| harmony | trust | enough |
-| :-----: | :---: | :----: |
+| gratitude | education | strength |
+| :-------: | :-------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
