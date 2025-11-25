@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| compassion | enthusiasm | understanding |
-| :--------: | :--------: | :-----------: |
+| willingness | spontaneity | depth |
+| :---------: | :---------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
