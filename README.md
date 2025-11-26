@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| willingness | spontaneity | depth |
-| :---------: | :---------: | :---: |
+| play | beauty | harmony |
+| :--: | :----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
