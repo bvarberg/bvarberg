@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| strength | surrender | synthesis |
-| :------: | :-------: | :-------: |
+| surrender | power | balance |
+| :-------: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
