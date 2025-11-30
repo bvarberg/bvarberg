@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| strength | beauty | humor |
-| :------: | :----: | :---: |
+| communication | enough | inspiration |
+| :-----------: | :----: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
