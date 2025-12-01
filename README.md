@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| communication | enough | inspiration |
-| :-----------: | :----: | :---------: |
+| forgiveness | expectancy | harmony |
+| :---------: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
