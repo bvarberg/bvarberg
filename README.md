@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| forgiveness | expectancy | harmony |
-| :---------: | :--------: | :-----: |
+| synthesis | honesty | willingness |
+| :-------: | :-----: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
