@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| synthesis | honesty | willingness |
-| :-------: | :-----: | :---------: |
+| enough | spontaneity | joy |
+| :----: | :---------: | :-: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
