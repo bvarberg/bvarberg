@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| play | love | openness |
-| :--: | :--: | :------: |
+| efficiency | communication | expectancy |
+| :--------: | :-----------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
