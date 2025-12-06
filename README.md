@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| efficiency | communication | expectancy |
-| :--------: | :-----------: | :--------: |
+| purpose | gratitude | joy |
+| :-----: | :-------: | :-: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
