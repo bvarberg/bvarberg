@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| excellence | renewal | creativity |
-| :--------: | :-----: | :--------: |
+| creativity | depth | healing |
+| :--------: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
