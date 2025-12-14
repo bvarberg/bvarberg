@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| renewal | light | courage |
-| :-----: | :---: | :-----: |
+| purification | spontaneity | balance |
+| :----------: | :---------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
