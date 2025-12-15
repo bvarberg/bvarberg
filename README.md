@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| purification | spontaneity | balance |
-| :----------: | :---------: | :-----: |
+| healing | harmony | flexibility |
+| :-----: | :-----: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
