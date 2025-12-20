@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| harmony | tenderness | beauty |
-| :-----: | :--------: | :----: |
+| enough | education | compassion |
+| :----: | :-------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
