@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enough | education | compassion |
-| :----: | :-------: | :--------: |
+| truth | willingness | excellence |
+| :---: | :---------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
