@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| truth | willingness | excellence |
-| :---: | :---------: | :--------: |
+| clarity | courage | openness |
+| :-----: | :-----: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
