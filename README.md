@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| release | forgiveness | openness |
-| :-----: | :---------: | :------: |
+| freedom | delight | truth |
+| :-----: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
