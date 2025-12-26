@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| power | play | openness |
-| :---: | :--: | :------: |
+| expectancy | surrender | delight |
+| :--------: | :-------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
