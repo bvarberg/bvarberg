@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| excellence | forgiveness | spontaneity |
-| :--------: | :---------: | :---------: |
+| spontaneity | joy | strength |
+| :---------: | :-: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
