@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| spontaneity | joy | strength |
-| :---------: | :-: | :------: |
+| education | willingness | purification |
+| :-------: | :---------: | :----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
