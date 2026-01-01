@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| harmony | communication | integrity |
-| :-----: | :-----------: | :-------: |
+| depth | creativity | excellence |
+| :---: | :--------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
