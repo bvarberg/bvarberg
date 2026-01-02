@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| depth | creativity | excellence |
-| :---: | :--------: | :--------: |
+| delight | compassion | gratitude |
+| :-----: | :--------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
