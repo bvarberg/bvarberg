@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| delight | compassion | gratitude |
-| :-----: | :--------: | :-------: |
+| truth | purification | depth |
+| :---: | :----------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
