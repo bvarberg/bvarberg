@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| patience | integrity | harmony |
-| :------: | :-------: | :-----: |
+| responsibility | truth | delight |
+| :------------: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
