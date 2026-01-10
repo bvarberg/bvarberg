@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| inspiration | synthesis | renewal |
-| :---------: | :-------: | :-----: |
+| abundance | renewal | integrity |
+| :-------: | :-----: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
