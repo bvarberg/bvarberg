@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| gratitude | light | efficiency |
-| :-------: | :---: | :--------: |
+| spontaneity | responsibility | delight |
+| :---------: | :------------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
