@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| spontaneity | responsibility | delight |
-| :---------: | :------------: | :-----: |
+| creativity | honesty | education |
+| :--------: | :-----: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
