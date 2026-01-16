@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| efficiency | joy | integrity |
-| :--------: | :-: | :-------: |
+| honesty | inspiration | education |
+| :-----: | :---------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
