@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| simplicity | inspiration | creativity |
-| :--------: | :---------: | :--------: |
+| communication | humor | adventure |
+| :-----------: | :---: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
