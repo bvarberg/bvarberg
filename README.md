@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| communication | humor | adventure |
-| :-----------: | :---: | :-------: |
+| tenderness | love | renewal |
+| :--------: | :--: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
