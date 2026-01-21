@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| harmony | gratitude | release |
-| :-----: | :-------: | :-----: |
+| openness | understanding | clarity |
+| :------: | :-----------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
