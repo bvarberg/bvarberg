@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| openness | understanding | clarity |
-| :------: | :-----------: | :-----: |
+| forgiveness | compassion | courage |
+| :---------: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
