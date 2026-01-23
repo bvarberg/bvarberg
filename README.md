@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| forgiveness | compassion | courage |
-| :---------: | :--------: | :-----: |
+| freedom | flexibility | honesty |
+| :-----: | :---------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
