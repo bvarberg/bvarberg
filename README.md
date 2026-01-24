@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| freedom | flexibility | honesty |
-| :-----: | :---------: | :-----: |
+| peace | renewal | depth |
+| :---: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
