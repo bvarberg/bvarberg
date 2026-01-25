@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| peace | renewal | depth |
-| :---: | :-----: | :---: |
+| courage | education | abundance |
+| :-----: | :-------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
