@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| freedom | openness | grace |
-| :-----: | :------: | :---: |
+| patience | inspiration | understanding |
+| :------: | :---------: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
