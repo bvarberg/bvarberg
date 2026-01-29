@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| delight | freedom | balance |
-| :-----: | :-----: | :-----: |
+| patience | delight | excellence |
+| :------: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
