@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| freedom | release | compassion |
-| :-----: | :-----: | :--------: |
+| beauty | education | efficiency |
+| :----: | :-------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
