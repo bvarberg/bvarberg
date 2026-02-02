@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| beauty | education | efficiency |
-| :----: | :-------: | :--------: |
+| creativity | willingness | balance |
+| :--------: | :---------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
