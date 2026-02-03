@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| creativity | willingness | balance |
-| :--------: | :---------: | :-----: |
+| responsibility | harmony | trust |
+| :------------: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
