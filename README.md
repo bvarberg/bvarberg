@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| spontaneity | beauty | strength |
-| :---------: | :----: | :------: |
+| enough | peace | power |
+| :----: | :---: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
