@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| expectancy | freedom | abundance |
-| :--------: | :-----: | :-------: |
+| synthesis | joy | flexibility |
+| :-------: | :-: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
