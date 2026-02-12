@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| truth | peace | flexibility |
-| :---: | :---: | :---------: |
+| compassion | courage | play |
+| :--------: | :-----: | :--: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
