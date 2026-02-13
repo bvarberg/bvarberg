@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| compassion | courage | play |
-| :--------: | :-----: | :--: |
+| expectancy | enough | power |
+| :--------: | :----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
