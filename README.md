@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| expectancy | enough | power |
-| :--------: | :----: | :---: |
+| tenderness | inspiration | creativity |
+| :--------: | :---------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
