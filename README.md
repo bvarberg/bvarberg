@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| tenderness | inspiration | creativity |
-| :--------: | :---------: | :--------: |
+| flexibility | purpose | creativity |
+| :---------: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
