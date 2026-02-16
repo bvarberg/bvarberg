@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| flexibility | purpose | creativity |
-| :---------: | :-----: | :--------: |
+| enough | renewal | compassion |
+| :----: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
