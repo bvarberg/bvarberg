@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enough | renewal | compassion |
-| :----: | :-----: | :--------: |
+| excellence | spontaneity | patience |
+| :--------: | :---------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
