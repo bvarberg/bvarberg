@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| excellence | spontaneity | patience |
-| :--------: | :---------: | :------: |
+| abundance | power | enthusiasm |
+| :-------: | :---: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
