@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| trust | release | peace |
-| :---: | :-----: | :---: |
+| balance | purification | enough |
+| :-----: | :----------: | :----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
