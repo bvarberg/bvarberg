@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| trust | integrity | patience |
-| :---: | :-------: | :------: |
+| understanding | clarity | surrender |
+| :-----------: | :-----: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
