@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| understanding | clarity | surrender |
-| :-----------: | :-----: | :-------: |
+| truth | courage | abundance |
+| :---: | :-----: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
