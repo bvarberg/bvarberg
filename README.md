@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| creativity | grace | communication |
-| :--------: | :---: | :-----------: |
+| expectancy | renewal | purpose |
+| :--------: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
