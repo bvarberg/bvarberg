@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| joy | openness | inspiration |
-| :-: | :------: | :---------: |
+| purification | trust | enthusiasm |
+| :----------: | :---: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
