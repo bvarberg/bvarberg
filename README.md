@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| truth | inspiration | communication |
-| :---: | :---------: | :-----------: |
+| tenderness | simplicity | education |
+| :--------: | :--------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
