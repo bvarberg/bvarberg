@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| tenderness | simplicity | education |
-| :--------: | :--------: | :-------: |
+| truth | enough | willingness |
+| :---: | :----: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
