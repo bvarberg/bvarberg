@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| truth | enough | willingness |
-| :---: | :----: | :---------: |
+| openness | purpose | humor |
+| :------: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
