@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| openness | purpose | humor |
-| :------: | :-----: | :---: |
+| beauty | communication | compassion |
+| :----: | :-----------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
