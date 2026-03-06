@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| beauty | communication | compassion |
-| :----: | :-----------: | :--------: |
+| responsibility | renewal | understanding |
+| :------------: | :-----: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
