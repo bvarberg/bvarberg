@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| responsibility | renewal | understanding |
-| :------------: | :-----: | :-----------: |
+| enthusiasm | truth | power |
+| :--------: | :---: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
