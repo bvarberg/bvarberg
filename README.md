@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enthusiasm | truth | power |
-| :--------: | :---: | :---: |
+| understanding | healing | truth |
+| :-----------: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
