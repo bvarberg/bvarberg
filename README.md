@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| grace | healing | balance |
-| :---: | :-----: | :-----: |
+| tenderness | surrender | communication |
+| :--------: | :-------: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
