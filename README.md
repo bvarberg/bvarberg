@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| integrity | clarity | depth |
-| :-------: | :-----: | :---: |
+| purpose | humor | creativity |
+| :-----: | :---: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
