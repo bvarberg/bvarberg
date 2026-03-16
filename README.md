@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| purpose | humor | creativity |
-| :-----: | :---: | :--------: |
+| enthusiasm | enough | balance |
+| :--------: | :----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
