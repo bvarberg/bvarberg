@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enthusiasm | enough | balance |
-| :--------: | :----: | :-----: |
+| expectancy | surrender | abundance |
+| :--------: | :-------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
