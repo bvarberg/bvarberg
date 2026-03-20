@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| inspiration | purpose | responsibility |
-| :---------: | :-----: | :------------: |
+| honesty | beauty | expectancy |
+| :-----: | :----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
