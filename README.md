@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| release | surrender | light |
-| :-----: | :-------: | :---: |
+| humor | simplicity | efficiency |
+| :---: | :--------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
