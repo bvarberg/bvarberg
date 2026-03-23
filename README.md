@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| humor | simplicity | efficiency |
-| :---: | :--------: | :--------: |
+| honesty | balance | excellence |
+| :-----: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
