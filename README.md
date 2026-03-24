@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| honesty | balance | excellence |
-| :-----: | :-----: | :--------: |
+| love | balance | purification |
+| :--: | :-----: | :----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
