@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| inspiration | adventure | responsibility |
-| :---------: | :-------: | :------------: |
+| integrity | responsibility | surrender |
+| :-------: | :------------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
