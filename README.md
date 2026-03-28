@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| integrity | responsibility | surrender |
-| :-------: | :------------: | :-------: |
+| patience | expectancy | willingness |
+| :------: | :--------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
