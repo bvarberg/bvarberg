@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| patience | expectancy | willingness |
-| :------: | :--------: | :---------: |
+| grace | surrender | understanding |
+| :---: | :-------: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
