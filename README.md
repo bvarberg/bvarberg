@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| grace | surrender | understanding |
-| :---: | :-------: | :-----------: |
+| harmony | education | inspiration |
+| :-----: | :-------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
