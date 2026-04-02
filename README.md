@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| power | honesty | freedom |
-| :---: | :-----: | :-----: |
+| clarity | light | balance |
+| :-----: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
