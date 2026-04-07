@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| strength | understanding | love |
-| :------: | :-----------: | :--: |
+| forgiveness | abundance | responsibility |
+| :---------: | :-------: | :------------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
