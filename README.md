@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| forgiveness | abundance | responsibility |
-| :---------: | :-------: | :------------: |
+| courage | healing | compassion |
+| :-----: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
