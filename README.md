@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| courage | healing | compassion |
-| :-----: | :-----: | :--------: |
+| play | openness | efficiency |
+| :--: | :------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
