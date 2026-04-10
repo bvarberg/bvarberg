@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| play | openness | efficiency |
-| :--: | :------: | :--------: |
+| release | adventure | renewal |
+| :-----: | :-------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
