@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| release | adventure | renewal |
-| :-----: | :-------: | :-----: |
+| trust | healing | grace |
+| :---: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
