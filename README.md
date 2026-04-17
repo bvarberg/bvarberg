@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| grace | willingness | efficiency |
-| :---: | :---------: | :--------: |
+| abundance | surrender | grace |
+| :-------: | :-------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
