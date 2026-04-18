@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| abundance | surrender | grace |
-| :-------: | :-------: | :---: |
+| beauty | understanding | healing |
+| :----: | :-----------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
