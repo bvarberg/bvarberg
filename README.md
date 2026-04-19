@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| beauty | understanding | healing |
-| :----: | :-----------: | :-----: |
+| integrity | excellence | healing |
+| :-------: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
