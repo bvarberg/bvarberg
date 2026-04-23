@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| healing | release | balance |
-| :-----: | :-----: | :-----: |
+| harmony | honesty | compassion |
+| :-----: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
