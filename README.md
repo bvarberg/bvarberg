@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| light | tenderness | peace |
-| :---: | :--------: | :---: |
+| creativity | responsibility | adventure |
+| :--------: | :------------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
