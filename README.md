@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| creativity | responsibility | adventure |
-| :--------: | :------------: | :-------: |
+| excellence | healing | play |
+| :--------: | :-----: | :--: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
