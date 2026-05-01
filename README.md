@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| excellence | healing | play |
-| :--------: | :-----: | :--: |
+| release | education | light |
+| :-----: | :-------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
