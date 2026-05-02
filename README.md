@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| release | education | light |
-| :-----: | :-------: | :---: |
+| willingness | renewal | play |
+| :---------: | :-----: | :--: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
