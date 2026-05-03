@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| willingness | renewal | play |
-| :---------: | :-----: | :--: |
+| surrender | enthusiasm | simplicity |
+| :-------: | :--------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
