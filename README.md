@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| surrender | enthusiasm | simplicity |
-| :-------: | :--------: | :--------: |
+| spontaneity | expectancy | adventure |
+| :---------: | :--------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
