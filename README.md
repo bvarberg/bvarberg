@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| spontaneity | expectancy | adventure |
-| :---------: | :--------: | :-------: |
+| grace | efficiency | release |
+| :---: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
