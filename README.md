@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| grace | efficiency | release |
-| :---: | :--------: | :-----: |
+| release | inspiration | love |
+| :-----: | :---------: | :--: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
