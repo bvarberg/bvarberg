@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| harmony | courage | adventure |
-| :-----: | :-----: | :-------: |
+| openness | power | efficiency |
+| :------: | :---: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
