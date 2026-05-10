@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| openness | power | efficiency |
-| :------: | :---: | :--------: |
+| patience | efficiency | truth |
+| :------: | :--------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
