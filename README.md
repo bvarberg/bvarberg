@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| tenderness | purification | clarity |
-| :--------: | :----------: | :-----: |
+| delight | education | openness |
+| :-----: | :-------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
