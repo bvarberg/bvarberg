@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| delight | education | openness |
-| :-----: | :-------: | :------: |
+| compassion | delight | humor |
+| :--------: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
