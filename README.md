@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| expectancy | communication | enough |
-| :--------: | :-----------: | :----: |
+| abundance | grace | peace |
+| :-------: | :---: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
