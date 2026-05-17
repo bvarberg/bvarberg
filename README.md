@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| release | renewal | enthusiasm |
-| :-----: | :-----: | :--------: |
+| joy | balance | depth |
+| :-: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
