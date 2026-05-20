@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| abundance | balance | integrity |
-| :-------: | :-----: | :-------: |
+| abundance | harmony | trust |
+| :-------: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
