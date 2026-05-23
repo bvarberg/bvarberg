@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| efficiency | healing | power |
-| :--------: | :-----: | :---: |
+| tenderness | depth | adventure |
+| :--------: | :---: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
