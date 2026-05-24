@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| tenderness | depth | adventure |
-| :--------: | :---: | :-------: |
+| courage | enthusiasm | harmony |
+| :-----: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
