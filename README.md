@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| education | purpose | release |
-| :-------: | :-----: | :-----: |
+| education | integrity | strength |
+| :-------: | :-------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
