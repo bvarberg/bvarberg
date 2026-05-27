@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| education | integrity | strength |
-| :-------: | :-------: | :------: |
+| humor | play | simplicity |
+| :---: | :--: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
