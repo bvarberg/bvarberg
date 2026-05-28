@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| humor | play | simplicity |
-| :---: | :--: | :--------: |
+| flexibility | responsibility | simplicity |
+| :---------: | :------------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
