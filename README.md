@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| flexibility | responsibility | simplicity |
-| :---------: | :------------: | :--------: |
+| synthesis | balance | inspiration |
+| :-------: | :-----: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
