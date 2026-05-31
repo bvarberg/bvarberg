@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| harmony | abundance | enough |
-| :-----: | :-------: | :----: |
+| enthusiasm | courage | peace |
+| :--------: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
