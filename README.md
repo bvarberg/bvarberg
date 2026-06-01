@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enthusiasm | courage | peace |
-| :--------: | :-----: | :---: |
+| healing | efficiency | clarity |
+| :-----: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
