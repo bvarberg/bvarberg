@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| power | adventure | gratitude |
-| :---: | :-------: | :-------: |
+| adventure | courage | creativity |
+| :-------: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
