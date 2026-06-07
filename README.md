@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enough | understanding | willingness |
-| :----: | :-----------: | :---------: |
+| willingness | love | efficiency |
+| :---------: | :--: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
