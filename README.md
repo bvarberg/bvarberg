@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| freedom | joy | humor |
-| :-----: | :-: | :---: |
+| play | enthusiasm | spontaneity |
+| :--: | :--------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
