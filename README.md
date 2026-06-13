@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| renewal | spontaneity | inspiration |
-| :-----: | :---------: | :---------: |
+| abundance | responsibility | surrender |
+| :-------: | :------------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
