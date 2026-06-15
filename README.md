@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| courage | purpose | power |
-| :-----: | :-----: | :---: |
+| education | responsibility | light |
+| :-------: | :------------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
