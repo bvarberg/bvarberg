@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| education | responsibility | light |
-| :-------: | :------------: | :---: |
+| courage | communication | adventure |
+| :-----: | :-----------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
