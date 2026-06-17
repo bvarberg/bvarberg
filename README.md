@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| courage | communication | adventure |
-| :-----: | :-----------: | :-------: |
+| forgiveness | beauty | enough |
+| :---------: | :----: | :----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
