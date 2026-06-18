@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| forgiveness | beauty | enough |
-| :---------: | :----: | :----: |
+| harmony | willingness | love |
+| :-----: | :---------: | :--: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
