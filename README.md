@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| balance | love | flexibility |
-| :-----: | :--: | :---------: |
+| harmony | adventure | education |
+| :-----: | :-------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
