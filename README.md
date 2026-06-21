@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| harmony | adventure | education |
-| :-----: | :-------: | :-------: |
+| truth | gratitude | tenderness |
+| :---: | :-------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
