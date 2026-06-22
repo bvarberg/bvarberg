@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| truth | gratitude | tenderness |
-| :---: | :-------: | :--------: |
+| renewal | trust | joy |
+| :-----: | :---: | :-: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
