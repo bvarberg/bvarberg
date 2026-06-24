@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| clarity | renewal | light |
-| :-----: | :-----: | :---: |
+| humor | education | depth |
+| :---: | :-------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
