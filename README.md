@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| peace | strength | light |
-| :---: | :------: | :---: |
+| beauty | openness | creativity |
+| :----: | :------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
