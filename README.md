@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| synthesis | clarity | responsibility |
-| :-------: | :-----: | :------------: |
+| understanding | willingness | forgiveness |
+| :-----------: | :---------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
