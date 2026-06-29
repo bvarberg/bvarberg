@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| understanding | willingness | forgiveness |
-| :-----------: | :---------: | :---------: |
+| efficiency | power | light |
+| :--------: | :---: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
