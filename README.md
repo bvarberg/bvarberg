@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| efficiency | power | light |
-| :--------: | :---: | :---: |
+| delight | honesty | strength |
+| :-----: | :-----: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
