@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| delight | honesty | strength |
-| :-----: | :-----: | :------: |
+| abundance | grace | excellence |
+| :-------: | :---: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
