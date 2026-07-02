@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| abundance | grace | excellence |
-| :-------: | :---: | :--------: |
+| forgiveness | openness | balance |
+| :---------: | :------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
