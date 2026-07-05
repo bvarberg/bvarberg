@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| truth | peace | renewal |
-| :---: | :---: | :-----: |
+| light | inspiration | responsibility |
+| :---: | :---------: | :------------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
