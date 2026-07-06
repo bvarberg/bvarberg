@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| light | inspiration | responsibility |
-| :---: | :---------: | :------------: |
+| harmony | power | healing |
+| :-----: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
