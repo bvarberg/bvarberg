@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| harmony | power | healing |
-| :-----: | :---: | :-----: |
+| understanding | power | flexibility |
+| :-----------: | :---: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
