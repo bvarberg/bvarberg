@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| understanding | power | flexibility |
-| :-----------: | :---: | :---------: |
+| tenderness | grace | strength |
+| :--------: | :---: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
