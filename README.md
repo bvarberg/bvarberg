@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| humor | honesty | synthesis |
-| :---: | :-----: | :-------: |
+| openness | purpose | healing |
+| :------: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
