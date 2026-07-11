@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| openness | purpose | healing |
-| :------: | :-----: | :-----: |
+| communication | truth | healing |
+| :-----------: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
