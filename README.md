@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| communication | truth | healing |
-| :-----------: | :---: | :-----: |
+| enthusiasm | beauty | education |
+| :--------: | :----: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
