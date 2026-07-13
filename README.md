@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enthusiasm | beauty | education |
-| :--------: | :----: | :-------: |
+| inspiration | integrity | clarity |
+| :---------: | :-------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
