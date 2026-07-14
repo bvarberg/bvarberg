@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| inspiration | integrity | clarity |
-| :---------: | :-------: | :-----: |
+| grace | healing | expectancy |
+| :---: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
