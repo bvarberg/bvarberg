@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| tenderness | adventure | purification |
-| :--------: | :-------: | :----------: |
+| adventure | power | enthusiasm |
+| :-------: | :---: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
