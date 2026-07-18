@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| responsibility | surrender | spontaneity |
-| :------------: | :-------: | :---------: |
+| light | power | strength |
+| :---: | :---: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
