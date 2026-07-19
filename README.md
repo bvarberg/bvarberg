@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| light | power | strength |
-| :---: | :---: | :------: |
+| grace | communication | strength |
+| :---: | :-----------: | :------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
