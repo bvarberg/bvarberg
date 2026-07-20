@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| grace | communication | strength |
-| :---: | :-----------: | :------: |
+| freedom | efficiency | renewal |
+| :-----: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
