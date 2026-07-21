@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| freedom | efficiency | renewal |
-| :-----: | :--------: | :-----: |
+| clarity | healing | beauty |
+| :-----: | :-----: | :----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
