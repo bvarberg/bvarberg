@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| clarity | healing | beauty |
-| :-----: | :-----: | :----: |
+| honesty | delight | purification |
+| :-----: | :-----: | :----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
