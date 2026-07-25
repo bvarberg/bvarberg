@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| compassion | enough | power |
-| :--------: | :----: | :---: |
+| purification | tenderness | synthesis |
+| :----------: | :--------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
