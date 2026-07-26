@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| purification | tenderness | synthesis |
-| :----------: | :--------: | :-------: |
+| grace | love | excellence |
+| :---: | :--: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
