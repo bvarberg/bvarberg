@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enthusiasm | creativity | love |
-| :--------: | :--------: | :--: |
+| understanding | education | spontaneity |
+| :-----------: | :-------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
