@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| understanding | education | spontaneity |
-| :-----------: | :-------: | :---------: |
+| compassion | gratitude | expectancy |
+| :--------: | :-------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
