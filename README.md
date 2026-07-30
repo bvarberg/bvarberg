@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| compassion | gratitude | expectancy |
-| :--------: | :-------: | :--------: |
+| courage | depth | renewal |
+| :-----: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
