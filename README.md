@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| courage | depth | renewal |
-| :-----: | :---: | :-----: |
+| creativity | flexibility | light |
+| :--------: | :---------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
