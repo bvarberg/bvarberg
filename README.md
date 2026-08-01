@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| creativity | flexibility | light |
-| :--------: | :---------: | :---: |
+| inspiration | healing | truth |
+| :---------: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
