@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| efficiency | renewal | tenderness |
-| :--------: | :-----: | :--------: |
+| patience | honesty | efficiency |
+| :------: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
