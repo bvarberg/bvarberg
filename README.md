@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| patience | honesty | efficiency |
-| :------: | :-----: | :--------: |
+| spontaneity | surrender | excellence |
+| :---------: | :-------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
