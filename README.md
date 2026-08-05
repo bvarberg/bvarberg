@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| spontaneity | surrender | excellence |
-| :---------: | :-------: | :--------: |
+| truth | simplicity | beauty |
+| :---: | :--------: | :----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
