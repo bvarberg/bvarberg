@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| truth | simplicity | beauty |
-| :---: | :--------: | :----: |
+| healing | enough | responsibility |
+| :-----: | :----: | :------------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
