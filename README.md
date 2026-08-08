@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| healing | enough | responsibility |
-| :-----: | :----: | :------------: |
+| surrender | enough | creativity |
+| :-------: | :----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
