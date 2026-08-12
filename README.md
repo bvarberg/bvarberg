@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| education | peace | renewal |
-| :-------: | :---: | :-----: |
+| efficiency | patience | education |
+| :--------: | :------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
