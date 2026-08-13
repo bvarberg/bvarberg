@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| efficiency | patience | education |
-| :--------: | :------: | :-------: |
+| understanding | renewal | humor |
+| :-----------: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
