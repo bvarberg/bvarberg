@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| understanding | renewal | humor |
-| :-----------: | :-----: | :---: |
+| courage | efficiency | delight |
+| :-----: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
