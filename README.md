@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| courage | efficiency | delight |
-| :-----: | :--------: | :-----: |
+| light | simplicity | spontaneity |
+| :---: | :--------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
