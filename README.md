@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| excellence | surrender | enough |
-| :--------: | :-------: | :----: |
+| abundance | openness | communication |
+| :-------: | :------: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
