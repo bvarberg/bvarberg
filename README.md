@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| synthesis | surrender | honesty |
-| :-------: | :-------: | :-----: |
+| gratitude | grace | forgiveness |
+| :-------: | :---: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
