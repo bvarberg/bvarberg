@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| freedom | renewal | honesty |
-| :-----: | :-----: | :-----: |
+| truth | depth | abundance |
+| :---: | :---: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
