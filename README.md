@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| depth | openness | healing |
-| :---: | :------: | :-----: |
+| love | play | enthusiasm |
+| :--: | :--: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
