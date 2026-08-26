@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| love | play | enthusiasm |
-| :--: | :--: | :--------: |
+| truth | creativity | tenderness |
+| :---: | :--------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
