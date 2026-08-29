@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| forgiveness | responsibility | enthusiasm |
-| :---------: | :------------: | :--------: |
+| delight | play | courage |
+| :-----: | :--: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
