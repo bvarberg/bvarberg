@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| efficiency | love | adventure |
-| :--------: | :--: | :-------: |
+| tenderness | simplicity | compassion |
+| :--------: | :--------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
