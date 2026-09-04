@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| delight | efficiency | adventure |
-| :-----: | :--------: | :-------: |
+| healing | play | power |
+| :-----: | :--: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
