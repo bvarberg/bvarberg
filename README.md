@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| healing | play | power |
-| :-----: | :--: | :---: |
+| efficiency | truth | purpose |
+| :--------: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
