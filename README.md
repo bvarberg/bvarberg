@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| communication | synthesis | efficiency |
-| :-----------: | :-------: | :--------: |
+| simplicity | balance | peace |
+| :--------: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
