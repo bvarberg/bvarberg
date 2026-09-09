@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| gratitude | enthusiasm | strength |
-| :-------: | :--------: | :------: |
+| peace | joy | spontaneity |
+| :---: | :-: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
