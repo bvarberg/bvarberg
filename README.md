@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| courage | strength | harmony |
-| :-----: | :------: | :-----: |
+| expectancy | patience | purpose |
+| :--------: | :------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
