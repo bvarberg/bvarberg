@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| expectancy | patience | purpose |
-| :--------: | :------: | :-----: |
+| love | truth | humor |
+| :--: | :---: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
