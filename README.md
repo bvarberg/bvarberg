@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| power | tenderness | surrender |
-| :---: | :--------: | :-------: |
+| joy | creativity | compassion |
+| :-: | :--------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
