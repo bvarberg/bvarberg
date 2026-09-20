@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| efficiency | courage | power |
-| :--------: | :-----: | :---: |
+| gratitude | purpose | synthesis |
+| :-------: | :-----: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
