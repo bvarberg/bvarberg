@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| gratitude | purpose | synthesis |
-| :-------: | :-----: | :-------: |
+| willingness | education | truth |
+| :---------: | :-------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
