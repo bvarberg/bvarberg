@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| willingness | education | truth |
-| :---------: | :-------: | :---: |
+| purification | creativity | courage |
+| :----------: | :--------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
