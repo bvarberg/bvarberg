@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| expectancy | play | adventure |
-| :--------: | :--: | :-------: |
+| synthesis | understanding | light |
+| :-------: | :-----------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
