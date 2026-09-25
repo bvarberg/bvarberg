@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| synthesis | understanding | light |
-| :-------: | :-----------: | :---: |
+| creativity | openness | abundance |
+| :--------: | :------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
