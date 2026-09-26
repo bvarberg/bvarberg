@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| creativity | openness | abundance |
-| :--------: | :------: | :-------: |
+| education | tenderness | understanding |
+| :-------: | :--------: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
