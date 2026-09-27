@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| education | tenderness | understanding |
-| :-------: | :--------: | :-----------: |
+| spontaneity | joy | release |
+| :---------: | :-: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
