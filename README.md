@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| excellence | responsibility | balance |
-| :--------: | :------------: | :-----: |
+| inspiration | truth | honesty |
+| :---------: | :---: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
