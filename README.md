@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| purification | adventure | inspiration |
-| :----------: | :-------: | :---------: |
+| expectancy | peace | communication |
+| :--------: | :---: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
