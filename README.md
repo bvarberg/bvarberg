@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| expectancy | peace | communication |
-| :--------: | :---: | :-----------: |
+| enough | spontaneity | expectancy |
+| :----: | :---------: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
