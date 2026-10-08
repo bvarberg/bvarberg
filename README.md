@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enough | spontaneity | expectancy |
-| :----: | :---------: | :--------: |
+| delight | joy | adventure |
+| :-----: | :-: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
