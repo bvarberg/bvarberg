@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| release | honesty | abundance |
-| :-----: | :-----: | :-------: |
+| abundance | expectancy | joy |
+| :-------: | :--------: | :-: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
