@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| efficiency | healing | flexibility |
-| :--------: | :-----: | :---------: |
+| beauty | grace | tenderness |
+| :----: | :---: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
