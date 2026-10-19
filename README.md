@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| beauty | grace | tenderness |
-| :----: | :---: | :--------: |
+| surrender | enough | grace |
+| :-------: | :----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
