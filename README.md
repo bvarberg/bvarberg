@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| creativity | beauty | inspiration |
-| :--------: | :----: | :---------: |
+| enthusiasm | spontaneity | balance |
+| :--------: | :---------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
