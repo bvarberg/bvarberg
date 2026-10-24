@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| forgiveness | trust | truth |
-| :---------: | :---: | :---: |
+| joy | balance | communication |
+| :-: | :-----: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
