@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| enthusiasm | balance | excellence |
-| :--------: | :-----: | :--------: |
+| strength | clarity | depth |
+| :------: | :-----: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
