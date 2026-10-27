@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| strength | clarity | depth |
-| :------: | :-----: | :---: |
+| expectancy | balance | simplicity |
+| :--------: | :-----: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
