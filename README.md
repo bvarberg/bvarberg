@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| expectancy | balance | simplicity |
-| :--------: | :-----: | :--------: |
+| spontaneity | depth | excellence |
+| :---------: | :---: | :--------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
