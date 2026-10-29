@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| spontaneity | depth | excellence |
-| :---------: | :---: | :--------: |
+| synthesis | love | joy |
+| :-------: | :--: | :-: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
