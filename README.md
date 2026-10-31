@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| depth | freedom | adventure |
-| :---: | :-----: | :-------: |
+| play | enough | understanding |
+| :--: | :----: | :-----------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
