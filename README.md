@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| truth | love | adventure |
-| :---: | :--: | :-------: |
+| education | simplicity | power |
+| :-------: | :--------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
