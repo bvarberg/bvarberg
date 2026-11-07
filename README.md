@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| light | purpose | purification |
-| :---: | :-----: | :----------: |
+| play | responsibility | adventure |
+| :--: | :------------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
