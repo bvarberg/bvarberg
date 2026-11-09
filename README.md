@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| responsibility | depth | harmony |
-| :------------: | :---: | :-----: |
+| spontaneity | release | harmony |
+| :---------: | :-----: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
