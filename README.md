@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| openness | spontaneity | efficiency |
-| :------: | :---------: | :--------: |
+| understanding | expectancy | adventure |
+| :-----------: | :--------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
