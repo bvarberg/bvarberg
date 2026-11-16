@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| willingness | beauty | efficiency |
-| :---------: | :----: | :--------: |
+| willingness | tenderness | synthesis |
+| :---------: | :--------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
