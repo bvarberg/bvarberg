@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| willingness | tenderness | synthesis |
-| :---------: | :--------: | :-------: |
+| communication | education | grace |
+| :-----------: | :-------: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
