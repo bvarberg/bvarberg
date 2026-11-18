@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| communication | education | grace |
-| :-----------: | :-------: | :---: |
+| harmony | creativity | willingness |
+| :-----: | :--------: | :---------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
