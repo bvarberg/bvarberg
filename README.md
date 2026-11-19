@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| harmony | creativity | willingness |
-| :-----: | :--------: | :---------: |
+| gratitude | enough | education |
+| :-------: | :----: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
