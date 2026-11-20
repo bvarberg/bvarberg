@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| gratitude | enough | education |
-| :-------: | :----: | :-------: |
+| education | responsibility | healing |
+| :-------: | :------------: | :-----: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
