@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| education | responsibility | healing |
-| :-------: | :------------: | :-----: |
+| joy | humor | trust |
+| :-: | :---: | :---: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
