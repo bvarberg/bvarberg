@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| joy | humor | trust |
-| :-: | :---: | :---: |
+| trust | excellence | gratitude |
+| :---: | :--------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
