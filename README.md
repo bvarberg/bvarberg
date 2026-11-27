@@ -1,6 +1,6 @@
 <!-- word_basket start -->
-| grace | delight | flexibility |
-| :---: | :-----: | :---------: |
+| honesty | adventure | gratitude |
+| :-----: | :-------: | :-------: |
 
 <details>
   <summary>These words are chosen at random each day. ✨</summary>
